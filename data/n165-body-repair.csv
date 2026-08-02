@@ -1,0 +1,54 @@
+source,target_preferred,status,category,source_id,confidence
+stud distribution,расположение приварных шпилек,candidate,body_reference,N165_D2,medium
+body rear dimensions,контрольные размеры задней части кузова,candidate,body_measurement,N165_D2,medium
+nominal dimension,номинальный размер,candidate,body_measurement,N165_D2,high
+dimensional difference,допуск размера,candidate,body_measurement,N165_D2,medium
+mounting hole,монтажное отверстие,candidate,body_measurement,N165_D2,high
+hinge mounting hole,отверстие крепления петли,candidate,body_measurement,N165_D2,high
+strut mounting hole,отверстие крепления газонаполненного упора,candidate,body_measurement,N165_D2,medium
+rear combination lamp mounting hole,отверстие крепления заднего комбинированного фонаря,candidate,body_measurement,N165_D2,high
+luggage compartment lock catch mounting hole,отверстие крепления ответной части замка багажного отделения,candidate,body_measurement,N165_D2,medium
+rear seat belt retractor bracket supporting plate,опорная пластина кронштейна втягивающего устройства заднего ремня безопасности,candidate,body_structure,N165_D2,medium
+rear quarter window glass,стекло задней боковины,candidate,body_glazing,N165_D2,medium
+D-pillar trim panel mounting hole,отверстие крепления облицовки стойки D,candidate,body_measurement,N165_D2,high
+front wall lower panel assembly,нижняя панель передней стенки в сборе,candidate,body_structure,N165_D2,medium
+front wall upper sub-assembly,верхний узел передней стенки,candidate,body_structure,N165_D2,medium
+front side member body assembly,лонжерон передней части кузова в сборе,candidate,body_structure,N165_D2,medium
+A-pillar inner panel assembly,внутренняя панель стойки A в сборе,candidate,body_structure,N165_D2,high
+front floor,передняя панель пола,candidate,body_structure,N165_D2,high
+front floor upper side member,верхний лонжерон передней панели пола,candidate,body_structure,N165_D2,medium
+front floor middle channel assembly,центральный тоннель передней панели пола в сборе,candidate,body_structure,N165_D2,medium
+middle channel reinforcing beam assembly,усилитель центрального тоннеля в сборе,candidate,body_structure,N165_D2,medium
+middle channel reinforcing beam bracket assembly,кронштейн усилителя центрального тоннеля в сборе,candidate,body_structure,N165_D2,medium
+middle channel lower front reinforcing plate,нижняя передняя усиливающая пластина центрального тоннеля,candidate,body_structure,N165_D2,medium
+instrument panel mounting bracket assembly,кронштейн крепления панели приборов в сборе,candidate,body_structure,N165_D2,high
+front seat front cross member assembly,передняя поперечина переднего сиденья в сборе,candidate,body_structure,N165_D2,high
+front seat rear cross member assembly,задняя поперечина переднего сиденья в сборе,candidate,body_structure,N165_D2,high
+parking brake cable mounting plate assembly,панель крепления троса стояночного тормоза в сборе,candidate,body_structure,N165_D2,high
+VCU mounting bracket assembly,кронштейн крепления VCU в сборе,candidate,body_structure,N165_D2,medium
+center tunnel lower front reinforcement,нижний передний усилитель центрального тоннеля,candidate,body_structure,N165_D2,medium
+door sill inner panel assembly,внутренняя панель порога в сборе,candidate,body_structure,N165_D2,high
+door rocker inner panel assembly,внутренняя панель порога кузова в сборе,candidate,body_structure,N165_D2,medium
+middle floor front connecting plate assembly,передняя соединительная панель средней части пола в сборе,candidate,body_structure,N165_D2,medium
+left rear side member reinforcement rear connecting plate,задняя соединительная пластина усилителя левого заднего лонжерона,candidate,body_structure,N165_D2,medium
+rear floor rear connecting plate,задняя соединительная панель задней части пола,candidate,body_structure,N165_D2,medium
+rear wall panel assembly,панель задней стенки кузова в сборе,candidate,body_structure,N165_D2,high
+rear floor right rear connecting plate,правая задняя соединительная панель задней части пола,candidate,body_structure,N165_D2,medium
+preliminary positioning,предварительное позиционирование,candidate,body_repair,N165_D2,high
+temporarily install the new component,временно установить новую деталь,candidate,body_repair,N165_D2,high
+match the installation position,совместить установочное положение,candidate,body_repair,N165_D2,medium
+check and measure the position dimensions,проверить и измерить установочные размеры,candidate,body_measurement,N165_D2,high
+for compliance with standards,на соответствие нормативным значениям,candidate,body_measurement,N165_D2,medium
+perform adjustment if necessary,при необходимости выполнить регулировку,candidate,body_repair,N165_D2,high
+weld respectively to,приварить соответственно к,candidate,body_welding,N165_D2,medium
+body structural adhesive,конструкционный клей для кузова,candidate,body_material,N165_D2,high
+body sealant,кузовной герметик,candidate,body_material,N165_D2,high
+body sealing materials,кузовные герметизирующие материалы,candidate,body_material,N165_D2,high
+application of primer,нанесение грунта,candidate,body_material,N165_D2,high
+drill out the spot welds,высверлить точки контактной сварки,candidate,body_welding,N165_D2,high
+welding location,место сварки,candidate,body_welding,N165_D2,high
+separate the panel from the body,отделить панель от кузова,candidate,body_repair,N165_D2,high
+remove welding marks,удалить следы сварки,candidate,body_repair,N165_D2,medium
+polish the welding surface to bare metal,зачистить сварочную поверхность до чистого металла,candidate,body_repair,N165_D2,high
+clean the surface of foreign matter,очистить поверхность от посторонних материалов,candidate,body_repair,N165_D2,high
+remove paint rust and adhesive residues,удалить остатки краски ржавчины и клея,candidate,body_repair,N165_D2,high
