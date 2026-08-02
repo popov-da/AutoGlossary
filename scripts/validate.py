@@ -120,13 +120,17 @@ def validate_csv(path: Path, kind: str) -> list[str]:
             if status not in allowed_statuses:
                 errors.append(f"line {line}: invalid status {status!r}")
 
-            normalized = source.casefold()
-            if normalized in seen:
-                errors.append(
-                    f"line {line}: duplicate source (casefold), first on line {seen[normalized]}"
-                )
-            else:
-                seen[normalized] = line
+            # Domain files may intentionally contain homonyms or contextual variants.
+            # Uniqueness by casefold is required only in the generated master and
+            # consumer exports.
+            if kind in {"master", "consumer"}:
+                normalized = source.casefold()
+                if normalized in seen:
+                    errors.append(
+                        f"line {line}: duplicate source (casefold), first on line {seen[normalized]}"
+                    )
+                else:
+                    seen[normalized] = line
 
             if confidence_col:
                 confidence = clean(row.get(confidence_col, "")).casefold()
