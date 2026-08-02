@@ -9,7 +9,6 @@ from __future__ import annotations
 
 import csv
 import re
-from collections import defaultdict
 from pathlib import Path
 
 ROOT = Path(__file__).resolve().parents[1]
@@ -17,6 +16,7 @@ DATA_DIR = ROOT / "data"
 IMPORT_DIR = ROOT / "imports"
 OUTPUT = DATA_DIR / "termbase.csv"
 CONFLICTS = ROOT / "reports" / "conflicts.csv"
+RESOLUTION_FILES = {"conflict-resolutions.csv", "volga-pilot-approved.csv"}
 
 FIELDS = [
     "source",
@@ -49,7 +49,13 @@ ALIASES = {
 }
 
 VALID_STATUSES = {"candidate", "reviewed", "approved", "deprecated", "rejected"}
-STATUS_SCORE = {"approved": 5, "reviewed": 4, "candidate": 3, "deprecated": 2, "rejected": 1}
+STATUS_SCORE = {
+    "approved": 5,
+    "reviewed": 4,
+    "candidate": 3,
+    "deprecated": 2,
+    "rejected": 1,
+}
 CONFIDENCE_SCORE = {"high": 3, "medium": 2, "low": 1}
 PRIVATE_DOC_RE = re.compile(r"\.dita\b", re.IGNORECASE)
 
@@ -72,7 +78,7 @@ def pick(raw: dict[str, str], field: str) -> str:
 
 
 def public_source_label(path: Path, source_id: str, supplied: str) -> str:
-    """Prevent closed DITA filenames from leaking into committed generated files."""
+    """Prevent closed DITA filenames from leaking into generated files."""
     supplied = clean(supplied)
     if supplied and not PRIVATE_DOC_RE.search(supplied):
         return supplied
@@ -109,11 +115,15 @@ def read_rows(path: Path) -> list[dict[str, str]]:
         return []
 
 
-def rank(row: dict[str, str], path: Path) -> tuple[int, int, int, str]:
-    """Deterministic priority; approved/reviewed overrides always beat candidates."""
-    is_pilot_override = int(path.name == "volga-pilot-approved.csv")
+def is_resolution(path: Path) -> bool:
+    return path.name in RESOLUTION_FILES
+
+
+def rank(row: dict[str, str], path: Path) -> tuple[int, int, int, int, str]:
+    """Deterministic priority; curated decisions beat imported candidates."""
     return (
-        STATUS_SCORE.get(row["status"], 0) + is_pilot_override,
+        int(is_resolution(path)),
+        STATUS_SCORE.get(row["status"], 0),
         CONFIDENCE_SCORE.get(row["confidence"], 0),
         int(row["source_id"].startswith("VOLGA")),
         normalize_key(row["target_preferred"]),
@@ -131,7 +141,6 @@ def main() -> None:
     DATA_DIR.mkdir(exist_ok=True)
     CONFLICTS.parent.mkdir(exist_ok=True)
 
-    # Generated files are never inputs. Domain CSVs and imports are authoritative.
     inputs = sorted(path for path in DATA_DIR.glob("*.csv") if path != OUTPUT)
     inputs += sorted(IMPORT_DIR.glob("*.csv")) if IMPORT_DIR.exists() else []
 
@@ -147,7 +156,10 @@ def main() -> None:
                 continue
 
             current, current_path = current_pair
-            if normalize_key(current["target_preferred"]) == normalize_key(row["target_preferred"]):
+            same_target = normalize_key(current["target_preferred"]) == normalize_key(
+                row["target_preferred"]
+            )
+            if same_target:
                 current["source_id"] = merge_values(current["source_id"], row["source_id"])
                 current["source_document"] = merge_values(
                     current["source_document"], row["source_document"]
@@ -158,22 +170,26 @@ def main() -> None:
                     selected[key] = (current, path)
                 continue
 
-            # Never silently discard alternatives. Select deterministically for the
-            # one-source consumer contract, keep alternatives in master metadata,
-            # and write every unresolved pair to reports/conflicts.csv.
             if rank(row, path) > rank(current, current_path):
-                winner, winner_path, loser, loser_path = row, path, current, current_path
+                winner, winner_path, loser = row, path, current
             else:
-                winner, winner_path, loser, loser_path = current, current_path, row, path
+                winner, winner_path, loser = current, current_path, row
 
             winner["source_id"] = merge_values(winner["source_id"], loser["source_id"])
             winner["source_document"] = merge_values(
                 winner["source_document"], loser["source_document"]
             )
             winner["alternate_targets"] = merge_values(
-                winner.get("alternate_targets", ""), loser["target_preferred"], loser.get("alternate_targets", "")
+                winner.get("alternate_targets", ""),
+                loser["target_preferred"],
+                loser.get("alternate_targets", ""),
             )
             selected[key] = (winner, winner_path)
+
+            # A curated resolution is an explicit editorial decision, not an
+            # unresolved conflict. Alternatives remain visible in master metadata.
+            if is_resolution(winner_path):
+                continue
 
             conflict_key = (
                 key,
