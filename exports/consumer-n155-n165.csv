@@ -1,0 +1,423 @@
+﻿source,target_preferred,status
+A-pillar inner panel assembly,внутренняя панель стойки A в сборе,candidate
+A-pillar upper trim panel,верхняя облицовка стойки A,candidate
+abnormal door opening,несанкционированное открывание двери,candidate
+adjust the air pressure,отрегулировать давление воздуха,candidate
+adjust the seat to a comfortable position,отрегулировать сиденье в удобное положение,candidate
+adjust the seat to the highest position,установить сиденье в крайнее верхнее положение,candidate
+air conditioning control panel switch,переключатель панели управления системой кондиционирования,candidate
+air gun,пневматический продувочный пистолет,candidate
+air-conditioning drain pipe,дренажная трубка кондиционера,candidate
+ambient temperature,температура окружающего воздуха,candidate
+anti-theft alarm,противоугонная сигнализация,candidate
+anti-theft function,функция противоугонной системы,candidate
+application of primer,нанесение грунта,candidate
+aromatic hydrocarbons,ароматические углеводороды,candidate
+assist grip,поручень салона,candidate
+audible warning,звуковое предупреждение,candidate
+avoid excessive skin contact,избегать длительного контакта с кожей,candidate
+B-pillar lower trim panel assembly,нижняя облицовка стойки B в сборе,candidate
+B-pillar upper trim panel assembly,верхняя облицовка стойки B в сборе,candidate
+back door glass defrost braid lead repair,ремонт плетёного вывода обогревателя стекла двери багажного отделения,candidate
+back door glass defrosting braid lead,плетёный вывод обогревателя стекла двери багажного отделения,candidate
+back door harness,жгут проводов двери багажного отделения,candidate
+battery voltage,напряжение аккумуляторной батареи,candidate
+blow from back to front,продувать сзади вперёд,candidate
+body gateway module,шлюзовой модуль кузовной электроники,candidate
+body rear dimensions,контрольные размеры задней части кузова,candidate
+body sealant,кузовной герметик,candidate
+body sealing materials,кузовные герметизирующие материалы,candidate
+body structural adhesive,конструкционный клей для кузова,candidate
+C-pillar upper trim panel assembly,верхняя облицовка стойки C в сборе,candidate
+CAN communication,обмен данными по шине CAN,candidate
+CAN signal,сигнал шины CAN,candidate
+carbon monoxide,оксид углерода,candidate
+center tunnel lower front reinforcement,нижний передний усилитель центрального тоннеля,candidate
+central console display,дисплей центральной консоли,candidate
+check and measure the position dimensions,проверить и измерить установочные размеры,candidate
+check for deformation or corrosion,проверить на наличие деформации или коррозии,candidate
+check for leakage,проверить на отсутствие утечек,candidate
+clean the surface of foreign matter,очистить поверхность от посторонних материалов,candidate
+cold engine,холодный двигатель,candidate
+conductive adhesive,токопроводящий клей,candidate
+confined space,замкнутое пространство,candidate
+connect the horn harness connector,подсоединить разъём жгута проводов звукового сигнала,candidate
+contaminated area,загрязнённый участок,candidate
+coolant leak check,проверка на утечки охлаждающей жидкости,candidate
+coolant level check,проверка уровня охлаждающей жидкости,candidate
+coolant pipe,трубопровод охлаждающей жидкости,candidate
+coolant refill hose,шланг заправки охлаждающей жидкости,candidate
+coolant vent pipe,воздухоотводящая трубка системы охлаждения,candidate
+cooling fan speed,частота вращения вентилятора системы охлаждения,candidate
+cooling fin,охлаждающая пластина,candidate
+cooling module,модуль охлаждения,candidate
+cooling module cleaning,очистка модуля охлаждения,candidate
+cooling module inspection,проверка модуля охлаждения,candidate
+cured foam,отверждённая пена,candidate
+cylinder head cover,крышка головки блока цилиндров,candidate
+cylinder head-to-block joint,стык головки блока цилиндров с блоком цилиндров,candidate
+D-pillar trim panel mounting hole,отверстие крепления облицовки стойки D,candidate
+defrost braided lead,плетёный вывод обогревателя стекла,candidate
+defrost bus lead,токоведущий вывод обогревателя стекла,candidate
+defrost relay,реле обогрева стекла,candidate
+defrost request signal,сигнал запроса обогрева стекла,candidate
+defrost switch,выключатель обогрева стекла,candidate
+defrosting and demisting system,система удаления инея и запотевания,candidate
+defrosting effect,эффект удаления инея,candidate
+desired memory position,требуемое запоминаемое положение сиденья,candidate
+diagnostic tool,диагностический прибор,candidate
+dimensional difference,допуск размера,candidate
+disconnect the floor harness connector,отсоединить разъём жгута проводов пола,candidate
+disconnect the seat harness fixing clips,отсоединить фиксаторы жгута проводов сиденья,candidate
+display host unit,головное устройство дисплея,candidate
+do not induce vomiting,не вызывать рвоту,candidate
+do not overheat the conductor,не перегревать токопроводящую дорожку,candidate
+do not use gasoline as a cleaning agent,не использовать бензин в качестве очистителя,candidate
+door lock confirmation beep,звуковой сигнал подтверждения запирания дверей,candidate
+door opening seal,уплотнитель дверного проёма,candidate
+door rocker inner panel assembly,внутренняя панель порога кузова в сборе,candidate
+door sill inner panel assembly,внутренняя панель порога в сборе,candidate
+door sill trim panel,накладка порога дверного проёма,candidate
+door unlock confirmation beep,звуковой сигнал подтверждения отпирания дверей,candidate
+drill out the spot welds,высверлить точки контактной сварки,candidate
+driver seat,сиденье водителя,candidate
+driver seat module,модуль сиденья водителя,candidate
+driver seat sliding rail,салазки сиденья водителя,candidate
+dry insulating material,сухой изоляционный материал,candidate
+electric heating glass defrosting,электрообогрев стекла,candidate
+electric shock,поражение электрическим током,candidate
+electrical equipment,электрооборудование,candidate
+electrical fault,электрическая неисправность,candidate
+energize the horn relay,подать питание на реле звукового сигнала,candidate
+engage the parking brake,включить стояночный тормоз,candidate
+engine bottom shield,нижняя защита двигателя,candidate
+engine coolant temperature,температура охлаждающей жидкости двигателя,candidate
+engine no-load condition,работа двигателя без нагрузки,candidate
+engine oil level check,проверка уровня моторного масла,candidate
+engine speed remains stable,частота вращения двигателя остаётся стабильной,candidate
+engine switched off,двигатель выключен,candidate
+ensure the connector is fully engaged,убедиться что разъём полностью соединён,candidate
+exhaust ventilation equipment,оборудование вытяжной вентиляции,candidate
+exterior rearview mirror heater,нагревательный элемент наружного зеркала заднего вида,candidate
+exterior rearview mirror heating wire,нагревательный элемент наружного зеркала заднего вида,candidate
+eye protection equipment,средства защиты глаз,candidate
+eyewash equipment,устройство для промывания глаз,candidate
+faulty equipment,неисправное оборудование,candidate
+fibrous material,волокнистый материал,candidate
+fine steel wool,тонкая стальная вата,candidate
+fire hazard,пожароопасность,candidate
+fire safety requirements,требования пожарной безопасности,candidate
+first aid,первая помощь,candidate
+flagship model,топовая комплектация,candidate
+flammable solvent,легковоспламеняющийся растворитель,candidate
+flat surface,ровная горизонтальная площадка,candidate
+floor harness assembly,жгут проводов пола в сборе,candidate
+foam pad,пенополиуретановая прокладка,candidate
+for compliance with standards,на соответствие нормативным значениям,candidate
+fresh air area,зона с чистым воздухом,candidate
+front compartment harness assembly,жгут проводов переднего отсека в сборе,candidate
+front crankshaft oil seal,передний сальник коленчатого вала,candidate
+front floor,передняя панель пола,candidate
+front floor middle channel assembly,центральный тоннель передней панели пола в сборе,candidate
+front floor upper side member,верхний лонжерон передней панели пола,candidate
+front headrest guide sleeve,направляющая втулка подголовника переднего сиденья,candidate
+front headrest locking guide sleeve,фиксирующая направляющая втулка подголовника переднего сиденья,candidate
+front passenger seat sliding rail,салазки сиденья переднего пассажира,candidate
+front power seat assembly,переднее сиденье с электроприводом в сборе,candidate
+front seat front cross member assembly,передняя поперечина переднего сиденья в сборе,candidate
+front seat headrest,подголовник переднего сиденья,candidate
+front seat rear cross member assembly,задняя поперечина переднего сиденья в сборе,candidate
+front seat sliding rail,салазки переднего сиденья,candidate
+front section of the seat sliding rail,передняя часть салазок сиденья,candidate
+front side member body assembly,лонжерон передней части кузова в сборе,candidate
+front track width,колея передних колёс,candidate
+front wall lower panel assembly,нижняя панель передней стенки в сборе,candidate
+front wall upper sub-assembly,верхний узел передней стенки,candidate
+front windscreen heated defrost control,управление электрообогревом ветрового стекла,candidate
+front windscreen heater,нагревательный элемент ветрового стекла,candidate
+fuel leak check,проверка на утечки топлива,candidate
+fuel leakage trace,следы утечки топлива,candidate
+fuel pipe joint,соединение топливопровода,candidate
+fuel rail injector subassembly,топливная рампа с форсунками в сборе,candidate
+fuel storage equipment,оборудование для хранения топлива,candidate
+fuel supply line,топливопровод подачи,candidate
+fuel supply pipe,топливоподающий трубопровод,candidate
+fuel tank body,корпус топливного бака,candidate
+fuel vapor,пары топлива,candidate
+fundamental frequency,основная частота,candidate
+gasoline vapor concentration,концентрация паров бензина,candidate
+general ventilation equipment,общеобменная вентиляция,candidate
+glass heating temperature,температура нагрева стекла,candidate
+grinding wheel,шлифовальный круг,candidate
+ground circuit,цепь массы,candidate
+ground clearance,дорожный просвет,candidate
+hearing protection equipment,средства защиты органов слуха,candidate
+heat dissipation opening,проход для отвода тепла,candidate
+heater hose,шланг отопителя,candidate
+heating equipment,нагревательное оборудование,candidate
+heating resistance wire,резистивная нагревательная нить,candidate
+high-decibel noise,шум высокого уровня,candidate
+high-power electrical loads,мощные электрические потребители,candidate
+high-pressure fuel pump,топливный насос высокого давления,candidate
+highest temperature setting,максимальная заданная температура,candidate
+highly flammable material,легковоспламеняющийся материал,candidate
+hinge mounting hole,отверстие крепления петли,candidate
+horn button,кнопка звукового сигнала,candidate
+horn circuit,цепь звукового сигнала,candidate
+horn current consumption,потребляемый ток звукового сигнала,candidate
+horn harness connector,разъём жгута проводов звукового сигнала,candidate
+horn mounting bolt,болт крепления звукового сигнала,candidate
+horn rated voltage,номинальное напряжение звукового сигнала,candidate
+horn relay,реле звукового сигнала,candidate
+horn relay actuation,срабатывание реле звукового сигнала,candidate
+horn switch,выключатель звукового сигнала,candidate
+horn system,звуковая сигнальная система,candidate
+horn system working principle,принцип работы системы звукового сигнала,candidate
+horn test current,ток при проверке звукового сигнала,candidate
+horn tweeter,высокочастотный звуковой сигнал,candidate
+horn warning signal,предупредительный звуковой сигнал,candidate
+horn woofer,низкочастотный звуковой сигнал,candidate
+idle speed inspection,проверка частоты вращения холостого хода,candidate
+immobilizer coil,катушка иммобилайзера,candidate
+impermeable gloves,непроницаемые перчатки,candidate
+inner sliding rail,внутренняя направляющая салазок,candidate
+inner sliding rail rear end trim cover,задняя декоративная крышка внутренней направляющей салазок,candidate
+install and tighten the horn mounting bolt,установить и затянуть болт крепления звукового сигнала,candidate
+install in the reverse order of removal,установить в последовательности обратной снятию,candidate
+install the floor harness fixing clips,установить фиксаторы жгута проводов пола,candidate
+installation condition,состояние установки,candidate
+instrument cluster,комбинация приборов,candidate
+instrument panel mounting bracket assembly,кронштейн крепления панели приборов в сборе,candidate
+interior floor carpet,напольное ковровое покрытие салона,candidate
+interior rearview mirror trim cover,декоративная крышка внутреннего зеркала заднего вида,candidate
+internal circuit engagement,замыкание внутренних цепей переключателя,candidate
+jack the vehicle,поднять автомобиль домкратом,candidate
+keep hands away from moving parts,не приближать руки к движущимся деталям,candidate
+keyless antenna fixing screw,винт крепления антенны системы бесключевого доступа,candidate
+keyless vehicle antenna,антенна системы бесключевого доступа,candidate
+left and right removal methods are similar,порядок снятия с левой и правой сторон одинаков,candidate
+left front seat assembly,левое переднее сиденье в сборе,candidate
+left front seat left guard,левый боковой кожух левого переднего сиденья,candidate
+left front seat right guard,правый боковой кожух левого переднего сиденья,candidate
+left rear side member reinforcement rear connecting plate,задняя соединительная пластина усилителя левого заднего лонжерона,candidate
+licensed waste processor,лицензированная организация по обращению с отходами,candidate
+lift and support the vehicle,поднять и надёжно установить автомобиль на опоры,candidate
+lifting and jacking of vehicles,подъём автомобиля подъёмником и домкратом,candidate
+listen for the locking click,убедиться в наличии щелчка фиксатора,candidate
+looseness or instability,ослабление крепления или неустойчивость,candidate
+lower the headliner,опустить обивку потолка,candidate
+lubricating grease,консистентная смазка,candidate
+luggage compartment cover plate,панель пола багажного отделения,candidate
+luggage compartment lock catch mounting hole,отверстие крепления ответной части замка багажного отделения,candidate
+luggage compartment side trim panel assembly,боковая облицовка багажного отделения в сборе,candidate
+luggage compartment trim panel assembly,облицовка багажного отделения в сборе,candidate
+lumbar support,поясничная поддержка,candidate
+lumbar support adjustment button ring,декоративное кольцо кнопки регулировки поясничной поддержки,candidate
+maintain engine speed,поддерживать заданную частоту вращения двигателя,candidate
+match the installation position,совместить установочное положение,candidate
+maximum airflow,максимальная подача воздуха,candidate
+maximum load,максимально допустимая нагрузка,candidate
+mechanical fault,механическая неисправность,candidate
+mechanical seat switch,механический переключатель регулировки сиденья,candidate
+memory position,запомненное положение сиденья,candidate
+middle channel lower front reinforcing plate,нижняя передняя усиливающая пластина центрального тоннеля,candidate
+middle channel reinforcing beam assembly,усилитель центрального тоннеля в сборе,candidate
+middle channel reinforcing beam bracket assembly,кронштейн усилителя центрального тоннеля в сборе,candidate
+middle floor front connecting plate assembly,передняя соединительная панель средней части пола в сборе,candidate
+mineral oil,минеральное масло,candidate
+mobile electrical equipment,переносное электрооборудование,candidate
+monitor the motor position,контролировать положение электродвигателя,candidate
+monitor the switch signal,контролировать сигнал переключателя,candidate
+motor forward rotation,вращение электродвигателя в прямом направлении,candidate
+motor position,положение электродвигателя,candidate
+motor reverse rotation,вращение электродвигателя в обратном направлении,candidate
+mounting hole,монтажное отверстие,candidate
+move the component to the installation position,установить деталь в монтажное положение,candidate
+move the horn to the installation position,установить звуковой сигнал в монтажное положение,candidate
+move the seat to the front,переместить сиденье вперёд,candidate
+move the seat to the installation position,переместить сиденье в положение установки,candidate
+move the seat to the rear,переместить сиденье назад,candidate
+nitrogen oxide,оксиды азота,candidate
+nominal dimension,номинальный размер,candidate
+obstruction,посторонний предмет,candidate
+oil inlet pipe,маслоподводящая трубка,candidate
+oil leak check,проверка на утечки моторного масла,candidate
+oil return pipe,маслоотводящая трубка,candidate
+open flame,открытое пламя,candidate
+open space,открытое пространство,candidate
+open the engine compartment cover,открыть капот,candidate
+outboard seat adjustment switch,наружный переключатель регулировки сиденья,candidate
+overhead console unit,потолочная консоль в сборе,candidate
+overload damage,повреждение вследствие перегрузки,candidate
+park the vehicle on level ground,установить автомобиль на ровной горизонтальной площадке,candidate
+parking brake cable mounting plate assembly,панель крепления троса стояночного тормоза в сборе,candidate
+passenger seat,сиденье переднего пассажира,candidate
+passenger seat assembly procedure,сборка сиденья переднего пассажира,candidate
+passenger seat disassembly,разборка сиденья переднего пассажира,candidate
+passenger seat module,модуль сиденья переднего пассажира,candidate
+perform adjustment if necessary,при необходимости выполнить регулировку,candidate
+polish the repair area,зачистить ремонтируемый участок,candidate
+polish the welding surface to bare metal,зачистить сварочную поверхность до чистого металла,candidate
+power circuit,цепь питания,candidate
+power seat switch and control panel,панель переключателей управления электроприводом сиденья,candidate
+power seat switch panel,панель переключателей электрорегулировки сиденья,candidate
+preliminary positioning,предварительное позиционирование,candidate
+preset position,предустановленное положение,candidate
+prevent fin damage,не допускать повреждения пластин,candidate
+prevent hands from being crushed,не допускать защемления рук,candidate
+protective clothing,защитная одежда,candidate
+protective cream,защитный крем,candidate
+pry off the guide sleeve,поддеть и снять направляющую втулку,candidate
+radiator frame,рамка радиатора,candidate
+radiator inlet hose,впускной шланг радиатора,candidate
+radiator outlet hose,выпускной шланг радиатора,candidate
+radio frequency antenna,радиочастотная антенна,candidate
+radio frequency antenna connector,разъём радиочастотной антенны,candidate
+radio frequency antenna replacement,замена радиочастотной антенны,candidate
+rated voltage,номинальное напряжение,candidate
+rear bumper harness,жгут проводов заднего бампера,candidate
+rear bumper lower body,нижняя часть заднего бампера,candidate
+rear bumper lower panel,нижняя панель заднего бампера,candidate
+rear combination lamp mounting hole,отверстие крепления заднего комбинированного фонаря,candidate
+rear crankshaft oil seal,задний сальник коленчатого вала,candidate
+rear defogger switch,выключатель обогрева заднего стекла,candidate
+rear door sill trim panel,облицовка порога задней двери,candidate
+rear floor rear connecting plate,задняя соединительная панель задней части пола,candidate
+rear floor right rear connecting plate,правая задняя соединительная панель задней части пола,candidate
+rear keyless vehicle antenna,задняя антенна системы бесключевого доступа,candidate
+rear overhead console,задняя потолочная консоль,candidate
+rear quarter window glass,стекло задней боковины,candidate
+rear seat backrest assembly,спинка заднего сиденья в сборе,candidate
+rear seat belt retractor bracket supporting plate,опорная пластина кронштейна втягивающего устройства заднего ремня безопасности,candidate
+rear seat cushion,подушка заднего сиденья,candidate
+rear seat left backrest assembly,левая спинка заднего сиденья в сборе,candidate
+rear seat right backrest assembly,правая спинка заднего сиденья в сборе,candidate
+rear section of the seat sliding rail,задняя часть салазок сиденья,candidate
+rear track width,колея задних колёс,candidate
+rear wall panel assembly,панель задней стенки кузова в сборе,candidate
+rear wheel arch trim panel,накладка задней колёсной арки,candidate
+rear wheel brow trim panel,облицовка арки заднего колеса,candidate
+rear windscreen harness,жгут проводов заднего стекла,candidate
+rear windscreen heated defrost control,управление электрообогревом заднего стекла,candidate
+rear windscreen heater,нагревательный элемент заднего стекла,candidate
+rearview mirror glass,стекло наружного зеркала заднего вида,candidate
+rearview mirror heating element,нагревательный элемент наружного зеркала заднего вида,candidate
+record a DTC,записать диагностический код неисправности,candidate
+reload SMD,повторно загрузить программное обеспечение модуля сиденья,candidate
+reload the seat module software,повторно загрузить программное обеспечение модуля сиденья,candidate
+remove paint rust and adhesive residues,удалить остатки краски ржавчины и клея,candidate
+remove the horn,снять звуковой сигнал,candidate
+remove the seat cushion foam with cover,снять подушку сиденья с обивкой в сборе,candidate
+remove welding marks,удалить следы сварки,candidate
+request medical assistance,вызвать медицинскую помощь,candidate
+respiratory protection,средства защиты органов дыхания,candidate
+rewire the bus lead,повторно припаять токоведущий вывод,candidate
+right front seat assembly,правое переднее сиденье в сборе,candidate
+right front seat left guard,левый боковой кожух правого переднего сиденья,candidate
+right front seat right guard,правый боковой кожух правого переднего сиденья,candidate
+rinse with water,промыть водой,candidate
+roof harness,жгут проводов крыши,candidate
+roof harness connector,разъём жгута проводов крыши,candidate
+roof interior trim panel,обивка потолка,candidate
+rosin flux,канифольный флюс,candidate
+sandblasting equipment,пескоструйное оборудование,candidate
+seat adjustment button ring,декоративное кольцо кнопки регулировки сиденья,candidate
+seat adjustment switch signal,сигнал переключателя регулировки сиденья,candidate
+seat adjustment system,система регулировки сиденья,candidate
+seat adjustment system principle,принцип работы системы регулировки сиденья,candidate
+seat assembly,сиденье в сборе,candidate
+seat back cover,крышка спинки сиденья,candidate
+seat back foam with cover,набивка спинки сиденья с обивкой в сборе,candidate
+seat backrest,спинка сиденья,candidate
+seat backrest frame,каркас спинки сиденья,candidate
+seat belt buckle sensor,датчик замка ремня безопасности,candidate
+seat cushion foam with cover,подушка сиденья с обивкой в сборе,candidate
+seat fixing bolt,болт крепления сиденья,candidate
+seat harness,жгут проводов сиденья,candidate
+seat harness connector,разъём жгута проводов сиденья,candidate
+seat harness fixing clip,фиксатор жгута проводов сиденья,candidate
+seat heating,обогрев сиденья,candidate
+seat heating control module,модуль управления обогревом сиденья,candidate
+seat heating request signal,сигнал запроса обогрева сиденья,candidate
+seat heating temperature,температура обогрева сиденья,candidate
+seat heating wire,нагревательный элемент сиденья,candidate
+seat height motor,электродвигатель регулировки высоты сиденья,candidate
+seat height motor bracket,кронштейн электродвигателя регулировки высоты сиденья,candidate
+seat height motor connector,разъём электродвигателя регулировки высоты сиденья,candidate
+seat leg guard,защитный кожух основания сиденья,candidate
+seat leg support,опора ног сиденья,candidate
+seat leg support foam block,пенополиуретановый вкладыш опоры ног,candidate
+seat lifting mechanism,механизм подъёма сиденья,candidate
+seat lifting motor bracket,кронштейн электродвигателя подъёма сиденья,candidate
+seat memory adjustment,регулировка положения сиденья по памяти,candidate
+seat memory function,функция памяти положения сиденья,candidate
+seat memory position signal,сигнал запоминаемого положения сиденья,candidate
+seat module fixing screw,винт крепления модуля сиденья,candidate
+seat module software,программное обеспечение модуля сиденья,candidate
+seat motor,электродвигатель регулировки сиденья,candidate
+seat side guard,боковой защитный кожух сиденья,candidate
+seat ventilation,вентиляция сиденья,candidate
+seek medical attention,обратиться за медицинской помощью,candidate
+separate the panel from the body,отделить панель от кузова,candidate
+sharp edge,острая кромка,candidate
+six-way adjustment,шестипозиционная регулировка,candidate
+skin allergy,аллергическая реакция кожи,candidate
+skin irritation,раздражение кожи,candidate
+sliding rail end trim cover,декоративная крышка конца салазки,candidate
+solder,припой,candidate
+soldering iron,паяльник,candidate
+sound a warning,подать звуковой сигнал,candidate
+sound pressure level,уровень звукового давления,candidate
+sound-producing device,звуковое сигнальное устройство,candidate
+standard mark,контрольная метка,candidate
+steering wheel horn button,кнопка звукового сигнала на рулевом колесе,candidate
+strut mounting hole,отверстие крепления газонаполненного упора,candidate
+stud distribution,расположение приварных шпилек,candidate
+suitable fire extinguisher,подходящий огнетушитель,candidate
+sun visor,солнцезащитный козырёк,candidate
+supply power to the horn,подать питание на звуковой сигнал,candidate
+supply power to the windscreen heater,подать питание на обогреватель стекла,candidate
+switch position,положение переключателя,candidate
+tail keyless vehicle antenna,задняя антенна системы бесключевого доступа,candidate
+tailgate upper interior trim panel assembly,верхняя облицовка двери багажного отделения в сборе,candidate
+temperature monitoring,контроль температуры,candidate
+temporarily install the new component,временно установить новую деталь,candidate
+test voltage,испытательное напряжение,candidate
+thermal cutting,термическая резка,candidate
+thermostat opening and closing,открытие и закрытие термостата,candidate
+thigh support,поддержка бёдер,candidate
+timing cover,крышка привода газораспределительного механизма,candidate
+transparent conductive film,прозрачная токопроводящая плёнка,candidate
+trunk sill trim panel assembly,облицовка порога багажного отделения в сборе,candidate
+turn off the power supply,отключить питание,candidate
+unauthorized entry warning,предупреждение о несанкционированном проникновении,candidate
+uncured foam,неотверждённая пена,candidate
+uniformly arranged heating wires,равномерно расположенные нагревательные дорожки,candidate
+used engine oil,отработанное моторное масло,candidate
+used oil filter,отработанный масляный фильтр,candidate
+vapor and spray,пары и аэрозоль,candidate
+VCU mounting bracket assembly,кронштейн крепления VCU в сборе,candidate
+vehicle body floor,панель пола кузова,candidate
+vehicle height,высота автомобиля,candidate
+vehicle length,длина автомобиля,candidate
+vehicle locating function,функция поиска автомобиля,candidate
+vehicle search function,функция поиска автомобиля,candidate
+vehicle width,ширина автомобиля,candidate
+verify connector locking,проверить фиксацию разъёма,candidate
+visor hook,фиксатор солнцезащитного козырька,candidate
+voltage lower limit,нижний предел напряжения,candidate
+voltage upper limit,верхний предел напряжения,candidate
+warn pedestrians and other vehicles,предупреждать пешеходов и водителей других автомобилей,candidate
+waste gas,отработавшие газы,candidate
+weld respectively to,приварить соответственно к,candidate
+welding location,место сварки,candidate
+welding operation,сварочная операция,candidate
+well-ventilated area,хорошо проветриваемая зона,candidate
+wheelbase,колёсная база,candidate
+windscreen defrost system,система обогрева ветрового стекла,candidate
+windscreen fogging,запотевание ветрового стекла,candidate
+windscreen frost,иней на ветровом стекле,candidate
+wiping cloth,обтирочная ветошь,candidate
+working area,рабочая зона,candidate
+working condition,исправное состояние,candidate
+workshop tools and equipment,инструменты и оборудование мастерской,candidate
