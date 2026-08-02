@@ -1,0 +1,24 @@
+source,target_preferred,status,category,source_id,confidence
+battery electric vehicle,аккумуляторный электромобиль,candidate,ev,UNECE_EV_GUIDE,medium
+hybrid electric vehicle,гибридный электромобиль,candidate,ev,UNECE_EV_GUIDE,medium
+plug-in hybrid electric vehicle,подключаемый гибридный электромобиль,candidate,ev,UNECE_EV_GUIDE,medium
+fuel cell vehicle,автомобиль на топливных элементах,candidate,ev,UNECE_EV_GUIDE,medium
+extended-range electric vehicle,электромобиль с увеличенным запасом хода,candidate,ev,COVESA_VSS_6,medium
+rechargeable energy storage system,перезаряжаемая система накопления энергии,candidate,ev,UNECE_EV_GUIDE,medium
+traction battery,тяговая аккумуляторная батарея,candidate,ev,UNECE_EV_GUIDE,medium
+battery management system,система управления аккумуляторной батареей,candidate,ev,COVESA_VSS_6,medium
+state of charge,степень заряженности,candidate,ev,COVESA_VSS_6,medium
+state of health,степень технического состояния батареи,candidate,ev,COVESA_VSS_6,medium
+high-voltage battery,высоковольтная аккумуляторная батарея,candidate,ev,COVESA_VSS_6,medium
+high-voltage interlock loop,контур блокировки высоковольтной цепи,candidate,ev,UNECE_EV_GUIDE,medium
+electric drive unit,электрический приводной агрегат,candidate,ev,COVESA_VSS_6,medium
+electric machine,электрическая машина,candidate,ev,ISO_TC22,medium
+traction inverter,тяговый инвертор,candidate,ev,COVESA_VSS_6,medium
+DC/DC converter,преобразователь постоянного тока,candidate,ev,ISO_TC22,medium
+regenerative braking,рекуперативное торможение,candidate,ev,COVESA_VSS_6,medium
+state of energy,степень энергетического состояния,candidate,ev,COVESA_VSS_6,medium
+available energy,доступная энергия,candidate,ev,COVESA_VSS_6,high
+usable battery capacity,доступная ёмкость аккумуляторной батареи,candidate,ev,COVESA_VSS_6,medium
+cell balancing,балансировка элементов батареи,candidate,ev,UNECE_EV_GUIDE,high
+battery preconditioning,предварительная термоподготовка батареи,candidate,ev,COVESA_VSS_6,medium
+high-voltage bus,высоковольтная шина,candidate,ev,UNECE_EV_GUIDE,high
