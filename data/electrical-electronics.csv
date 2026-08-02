@@ -1,0 +1,100 @@
+source,target_preferred,status,category,source_id,confidence
+battery,аккумуляторная батарея,candidate,electrical,EDITORIAL_CORE_2026,high
+battery case,корпус аккумуляторной батареи,candidate,electrical,EDITORIAL_CORE_2026,high
+battery cell,аккумуляторный элемент,candidate,electrical,EDITORIAL_CORE_2026,high
+battery terminal,клемма аккумуляторной батареи,candidate,electrical,EDITORIAL_CORE_2026,high
+positive terminal,положительная клемма,candidate,electrical,EDITORIAL_CORE_2026,high
+negative terminal,отрицательная клемма,candidate,electrical,EDITORIAL_CORE_2026,high
+battery hold-down clamp,прижимная планка аккумуляторной батареи,candidate,electrical,EDITORIAL_CORE_2026,high
+battery tray,поддон аккумуляторной батареи,candidate,electrical,EDITORIAL_CORE_2026,high
+battery cable,провод аккумуляторной батареи,candidate,electrical,EDITORIAL_CORE_2026,high
+state of charge,степень заряженности,candidate,electrical,EDITORIAL_CORE_2026,high
+open-circuit voltage,напряжение холостого хода,candidate,electrical,EDITORIAL_CORE_2026,high
+cranking voltage,напряжение при прокручивании,candidate,electrical,EDITORIAL_CORE_2026,medium
+parasitic current draw,ток утечки при выключенном зажигании,candidate,electrical,EDITORIAL_CORE_2026,high
+charging system,система зарядки,candidate,electrical,EDITORIAL_CORE_2026,high
+alternator,генератор,candidate,electrical,EDITORIAL_CORE_2026,high
+alternator pulley,шкив генератора,candidate,electrical,EDITORIAL_CORE_2026,high
+voltage regulator,регулятор напряжения,candidate,electrical,EDITORIAL_CORE_2026,high
+rectifier,выпрямитель,candidate,electrical,EDITORIAL_CORE_2026,high
+stator winding,обмотка статора,candidate,electrical,EDITORIAL_CORE_2026,high
+rotor winding,обмотка ротора,candidate,electrical,EDITORIAL_CORE_2026,high
+slip ring,контактное кольцо,candidate,electrical,EDITORIAL_CORE_2026,high
+carbon brush,угольная щётка,candidate,electrical,EDITORIAL_CORE_2026,high
+starter motor,стартер,candidate,electrical,EDITORIAL_CORE_2026,high
+starter solenoid,тяговое реле стартера,candidate,electrical,EDITORIAL_CORE_2026,high
+starter drive,привод стартера,candidate,electrical,EDITORIAL_CORE_2026,medium
+pinion gear,ведущая шестерня стартера,candidate,electrical,EDITORIAL_CORE_2026,medium
+overrunning clutch,обгонная муфта,candidate,electrical,EDITORIAL_CORE_2026,high
+ignition switch,выключатель зажигания,candidate,electrical,EDITORIAL_CORE_2026,high
+start button,кнопка запуска двигателя,candidate,electrical,EDITORIAL_CORE_2026,high
+main relay,главное реле,candidate,electrical,EDITORIAL_CORE_2026,high
+starter relay,реле стартера,candidate,electrical,EDITORIAL_CORE_2026,high
+fuse,предохранитель,candidate,electrical,EDITORIAL_CORE_2026,high
+fuse box,блок предохранителей,candidate,electrical,EDITORIAL_CORE_2026,high
+fusible link,плавкая вставка,candidate,electrical,EDITORIAL_CORE_2026,high
+circuit breaker,автоматический выключатель,candidate,electrical,EDITORIAL_CORE_2026,high
+relay box,блок реле,candidate,electrical,EDITORIAL_CORE_2026,high
+normally open contact,нормально разомкнутый контакт,candidate,electrical,EDITORIAL_CORE_2026,high
+normally closed contact,нормально замкнутый контакт,candidate,electrical,EDITORIAL_CORE_2026,high
+wire harness,жгут проводов,candidate,electrical,EDITORIAL_CORE_2026,high
+engine wire harness,жгут проводов двигателя,candidate,electrical,EDITORIAL_CORE_2026,high
+body wire harness,кузовной жгут проводов,candidate,electrical,EDITORIAL_CORE_2026,high
+branch harness,ответвительный жгут проводов,candidate,electrical,EDITORIAL_CORE_2026,high
+shielded cable,экранированный кабель,candidate,electrical,EDITORIAL_CORE_2026,high
+twisted pair,витая пара,candidate,electrical,EDITORIAL_CORE_2026,high
+connector housing,корпус разъёма,candidate,electrical,EDITORIAL_CORE_2026,high
+connector terminal,контакт разъёма,candidate,electrical,EDITORIAL_CORE_2026,high
+terminal lock,фиксатор контакта,candidate,electrical,EDITORIAL_CORE_2026,high
+secondary lock,вторичный фиксатор разъёма,candidate,electrical,EDITORIAL_CORE_2026,high
+weatherproof connector,герметичный разъём,candidate,electrical,EDITORIAL_CORE_2026,high
+junction connector,соединительный разъём,candidate,electrical,EDITORIAL_CORE_2026,medium
+ground point,точка массы,candidate,electrical,EDITORIAL_CORE_2026,high
+ground strap,перемычка массы,candidate,electrical,EDITORIAL_CORE_2026,high
+short to ground,короткое замыкание на массу,candidate,electrical,EDITORIAL_CORE_2026,high
+short to power,короткое замыкание на питание,candidate,electrical,EDITORIAL_CORE_2026,high
+open circuit,обрыв цепи,candidate,electrical,EDITORIAL_CORE_2026,high
+high resistance connection,соединение с повышенным сопротивлением,candidate,electrical,EDITORIAL_CORE_2026,high
+voltage drop,падение напряжения,candidate,electrical,EDITORIAL_CORE_2026,high
+continuity test,проверка целостности цепи,candidate,electrical,EDITORIAL_CORE_2026,high
+insulation resistance,сопротивление изоляции,candidate,electrical,EDITORIAL_CORE_2026,high
+power supply circuit,цепь питания,candidate,electrical,EDITORIAL_CORE_2026,high
+ground circuit,цепь массы,candidate,electrical,EDITORIAL_CORE_2026,high
+signal circuit,сигнальная цепь,candidate,electrical,EDITORIAL_CORE_2026,high
+reference voltage,опорное напряжение,candidate,electrical,EDITORIAL_CORE_2026,high
+pulse-width modulation,широтно-импульсная модуляция,candidate,electronics,EDITORIAL_CORE_2026,high
+sensor,датчик,candidate,electronics,EDITORIAL_CORE_2026,high
+actuator,исполнительный механизм,candidate,electronics,EDITORIAL_CORE_2026,high
+control module,блок управления,candidate,electronics,EDITORIAL_CORE_2026,high
+body control module,блок управления электрооборудованием кузова,candidate,electronics,EDITORIAL_CORE_2026,medium
+powertrain control module,блок управления силовым агрегатом,candidate,electronics,EDITORIAL_CORE_2026,medium
+engine control module,блок управления двигателем,candidate,electronics,EDITORIAL_CORE_2026,high
+transmission control module,блок управления трансмиссией,candidate,electronics,EDITORIAL_CORE_2026,high
+central gateway,центральный шлюз,candidate,electronics,EDITORIAL_CORE_2026,high
+communication bus,шина связи,candidate,electronics,EDITORIAL_CORE_2026,high
+CAN bus,шина CAN,candidate,electronics,EDITORIAL_CORE_2026,high
+LIN bus,шина LIN,candidate,electronics,EDITORIAL_CORE_2026,high
+termination resistor,согласующий резистор,candidate,electronics,EDITORIAL_CORE_2026,high
+bus off state,состояние отключения от шины,candidate,electronics,EDITORIAL_CORE_2026,medium
+wake-up signal,сигнал пробуждения,candidate,electronics,EDITORIAL_CORE_2026,high
+sleep mode,режим сна,candidate,electronics,EDITORIAL_CORE_2026,high
+network topology,топология сети,candidate,electronics,EDITORIAL_CORE_2026,high
+software calibration,калибровка программного обеспечения,candidate,electronics,EDITORIAL_CORE_2026,high
+parameter coding,кодирование параметров,candidate,electronics,EDITORIAL_CORE_2026,high
+module programming,программирование блока управления,candidate,electronics,EDITORIAL_CORE_2026,high
+fault memory,память неисправностей,candidate,diagnostics,EDITORIAL_CORE_2026,high
+freeze frame data,данные стоп-кадра,candidate,diagnostics,EDITORIAL_CORE_2026,high
+live data,текущие параметры,candidate,diagnostics,EDITORIAL_CORE_2026,high
+input signal,входной сигнал,candidate,electronics,EDITORIAL_CORE_2026,high
+output signal,выходной сигнал,candidate,electronics,EDITORIAL_CORE_2026,high
+implausible signal,недостоверный сигнал,candidate,diagnostics,EDITORIAL_CORE_2026,high
+intermittent fault,периодически возникающая неисправность,candidate,diagnostics,EDITORIAL_CORE_2026,high
+permanent fault,постоянная неисправность,candidate,diagnostics,EDITORIAL_CORE_2026,high
+check the power supply,проверить цепь питания,candidate,service,EDITORIAL_CORE_2026,high
+check the ground connection,проверить соединение с массой,candidate,service,EDITORIAL_CORE_2026,high
+check connector engagement,проверить фиксацию разъёма,candidate,service,EDITORIAL_CORE_2026,high
+check terminal tension,проверить усилие удержания контакта,candidate,service,EDITORIAL_CORE_2026,medium
+repair the wire harness,отремонтировать жгут проводов,candidate,service,EDITORIAL_CORE_2026,high
+replace the connector terminal,заменить контакт разъёма,candidate,service,EDITORIAL_CORE_2026,high
+clear the fault memory,очистить память неисправностей,candidate,service,EDITORIAL_CORE_2026,high
+perform module initialization,выполнить инициализацию блока управления,candidate,service,EDITORIAL_CORE_2026,high
