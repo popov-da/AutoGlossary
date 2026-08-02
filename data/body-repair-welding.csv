@@ -1,0 +1,168 @@
+source,target_preferred,status,category,source_id,confidence
+body panel,кузовная панель,candidate,body_repair,EDITORIAL_CORE_2026,high
+outer panel,наружная панель,candidate,body_repair,EDITORIAL_CORE_2026,high
+inner panel,внутренняя панель,candidate,body_repair,EDITORIAL_CORE_2026,high
+reinforcement panel,усилительная панель,candidate,body_repair,EDITORIAL_CORE_2026,high
+closure panel,закрывающая панель,candidate,body_repair,EDITORIAL_CORE_2026,medium
+front side member,передний лонжерон,candidate,body_repair,EDITORIAL_CORE_2026,high
+rear side member,задний лонжерон,candidate,body_repair,EDITORIAL_CORE_2026,high
+front floor panel,передняя панель пола,candidate,body_repair,EDITORIAL_CORE_2026,high
+rear floor panel,задняя панель пола,candidate,body_repair,EDITORIAL_CORE_2026,high
+floor crossmember,поперечина пола,candidate,body_repair,EDITORIAL_CORE_2026,high
+front crossmember,передняя поперечина,candidate,body_repair,EDITORIAL_CORE_2026,high
+rear crossmember,задняя поперечина,candidate,body_repair,EDITORIAL_CORE_2026,high
+radiator support,панель рамки радиатора,candidate,body_repair,EDITORIAL_CORE_2026,medium
+upper tie bar,верхняя поперечина рамки радиатора,candidate,body_repair,EDITORIAL_CORE_2026,medium
+lower tie bar,нижняя поперечина рамки радиатора,candidate,body_repair,EDITORIAL_CORE_2026,medium
+front apron panel,передняя панель брызговика,candidate,body_repair,EDITORIAL_CORE_2026,medium
+apron reinforcement,усилитель брызговика,candidate,body_repair,EDITORIAL_CORE_2026,medium
+wheelhouse,колёсная ниша,candidate,body_repair,EDITORIAL_CORE_2026,high
+wheelhouse inner panel,внутренняя панель колёсной ниши,candidate,body_repair,EDITORIAL_CORE_2026,high
+wheelhouse outer panel,наружная панель колёсной ниши,candidate,body_repair,EDITORIAL_CORE_2026,high
+front fender,переднее крыло,candidate,body_repair,EDITORIAL_CORE_2026,high
+rear quarter panel,заднее крыло,candidate,body_repair,EDITORIAL_CORE_2026,medium
+quarter inner panel,внутренняя панель заднего крыла,candidate,body_repair,EDITORIAL_CORE_2026,high
+rocker panel,панель порога,candidate,body_repair,EDITORIAL_CORE_2026,high
+inner rocker panel,внутренняя панель порога,candidate,body_repair,EDITORIAL_CORE_2026,high
+outer rocker panel,наружная панель порога,candidate,body_repair,EDITORIAL_CORE_2026,high
+A-pillar,передняя стойка кузова,candidate,body_repair,EDITORIAL_CORE_2026,high
+B-pillar,центральная стойка кузова,candidate,body_repair,EDITORIAL_CORE_2026,high
+C-pillar,задняя стойка кузова,candidate,body_repair,EDITORIAL_CORE_2026,high
+roof side rail,боковая продольная балка крыши,candidate,body_repair,EDITORIAL_CORE_2026,high
+roof panel,панель крыши,candidate,body_repair,EDITORIAL_CORE_2026,high
+roof bow,поперечина крыши,candidate,body_repair,EDITORIAL_CORE_2026,high
+roof reinforcement,усилитель крыши,candidate,body_repair,EDITORIAL_CORE_2026,high
+cowl panel,панель передка кузова,candidate,body_repair,EDITORIAL_CORE_2026,medium
+dash panel,щит передка,candidate,body_repair,EDITORIAL_CORE_2026,high
+plenum chamber,короб воздухопритока,candidate,body_repair,EDITORIAL_CORE_2026,medium
+rear panel,задняя панель кузова,candidate,body_repair,EDITORIAL_CORE_2026,high
+back panel,задняя панель кузова,candidate,body_repair,EDITORIAL_CORE_2026,medium
+trunk floor,пол багажного отделения,candidate,body_repair,EDITORIAL_CORE_2026,high
+spare wheel well,ниша запасного колеса,candidate,body_repair,EDITORIAL_CORE_2026,high
+rear wheelhouse,задняя колёсная ниша,candidate,body_repair,EDITORIAL_CORE_2026,high
+front door outer panel,наружная панель передней двери,candidate,body_repair,EDITORIAL_CORE_2026,high
+front door inner panel,внутренняя панель передней двери,candidate,body_repair,EDITORIAL_CORE_2026,high
+rear door outer panel,наружная панель задней двери,candidate,body_repair,EDITORIAL_CORE_2026,high
+rear door inner panel,внутренняя панель задней двери,candidate,body_repair,EDITORIAL_CORE_2026,high
+door intrusion beam,усилитель двери,candidate,body_repair,EDITORIAL_CORE_2026,medium
+door hinge reinforcement,усилитель крепления петли двери,candidate,body_repair,EDITORIAL_CORE_2026,high
+door striker reinforcement,усилитель крепления замка двери,candidate,body_repair,EDITORIAL_CORE_2026,high
+hood outer panel,наружная панель капота,candidate,body_repair,EDITORIAL_CORE_2026,high
+hood inner panel,внутренняя панель капота,candidate,body_repair,EDITORIAL_CORE_2026,high
+hood hinge reinforcement,усилитель крепления петли капота,candidate,body_repair,EDITORIAL_CORE_2026,high
+tailgate outer panel,наружная панель двери багажного отделения,candidate,body_repair,EDITORIAL_CORE_2026,high
+tailgate inner panel,внутренняя панель двери багажного отделения,candidate,body_repair,EDITORIAL_CORE_2026,high
+deck lid,крышка багажника,candidate,body_repair,EDITORIAL_CORE_2026,high
+deck lid outer panel,наружная панель крышки багажника,candidate,body_repair,EDITORIAL_CORE_2026,high
+deck lid inner panel,внутренняя панель крышки багажника,candidate,body_repair,EDITORIAL_CORE_2026,high
+bumper reinforcement,усилитель бампера,candidate,body_repair,EDITORIAL_CORE_2026,high
+crash box,энергопоглощающий элемент бампера,candidate,body_repair,EDITORIAL_CORE_2026,medium
+body side outer,наружная боковина кузова,candidate,body_repair,EDITORIAL_CORE_2026,high
+body side inner,внутренняя боковина кузова,candidate,body_repair,EDITORIAL_CORE_2026,high
+body opening,проём кузова,candidate,body_repair,EDITORIAL_CORE_2026,high
+door opening,дверной проём,candidate,body_repair,EDITORIAL_CORE_2026,high
+windshield opening,проём ветрового стекла,candidate,body_repair,EDITORIAL_CORE_2026,high
+back window opening,проём заднего стекла,candidate,body_repair,EDITORIAL_CORE_2026,high
+body datum point,контрольная точка кузова,candidate,body_measurement,EDITORIAL_CORE_2026,high
+body dimension,контрольный размер кузова,candidate,body_measurement,EDITORIAL_CORE_2026,high
+diagonal measurement,диагональный размер,candidate,body_measurement,EDITORIAL_CORE_2026,high
+reference hole,контрольное отверстие,candidate,body_measurement,EDITORIAL_CORE_2026,high
+centerline,продольная ось кузова,candidate,body_measurement,EDITORIAL_CORE_2026,medium
+body alignment bench,стапель для правки кузова,candidate,body_measurement,EDITORIAL_CORE_2026,high
+body measuring system,система измерения геометрии кузова,candidate,body_measurement,EDITORIAL_CORE_2026,high
+body straightening,правка кузова,candidate,body_repair,EDITORIAL_CORE_2026,high
+pulling direction,направление вытяжки,candidate,body_repair,EDITORIAL_CORE_2026,high
+pulling force,усилие вытяжки,candidate,body_repair,EDITORIAL_CORE_2026,high
+collision damage,аварийное повреждение,candidate,body_repair,EDITORIAL_CORE_2026,high
+deformation,деформация,candidate,body_repair,EDITORIAL_CORE_2026,high
+buckling,потеря устойчивости панели,candidate,body_repair,EDITORIAL_CORE_2026,medium
+crease,резкая складка,candidate,body_repair,EDITORIAL_CORE_2026,medium
+dent,вмятина,candidate,body_repair,EDITORIAL_CORE_2026,high
+tear,разрыв,candidate,body_repair,EDITORIAL_CORE_2026,high
+crack,трещина,candidate,body_repair,EDITORIAL_CORE_2026,high
+corrosion perforation,сквозная коррозия,candidate,body_repair,EDITORIAL_CORE_2026,high
+sectioning,частичная замена панели,candidate,body_repair,EDITORIAL_CORE_2026,medium
+sectioning joint,стык при частичной замене,candidate,body_repair,EDITORIAL_CORE_2026,medium
+cutting line,линия реза,candidate,body_repair,EDITORIAL_CORE_2026,high
+cut location,место реза,candidate,body_repair,EDITORIAL_CORE_2026,high
+trim line,линия обрезки,candidate,body_repair,EDITORIAL_CORE_2026,high
+overlap joint,нахлёсточное соединение,candidate,joining,EDITORIAL_CORE_2026,high
+butt joint,стыковое соединение,candidate,joining,EDITORIAL_CORE_2026,high
+lap joint,соединение внахлёст,candidate,joining,EDITORIAL_CORE_2026,high
+flanged joint,фланцевое соединение,candidate,joining,EDITORIAL_CORE_2026,high
+hem flange,завальцованный фланец,candidate,joining,EDITORIAL_CORE_2026,high
+flange,фланец панели,candidate,joining,EDITORIAL_CORE_2026,medium
+spot weld,точечное сварное соединение,candidate,welding,EDITORIAL_CORE_2026,high
+resistance spot welding,контактная точечная сварка,candidate,welding,EDITORIAL_CORE_2026,high
+plug weld,электрозаклёпочное сварное соединение,candidate,welding,EDITORIAL_CORE_2026,medium
+MIG plug weld,электрозаклёпка MIG,candidate,welding,EDITORIAL_CORE_2026,medium
+seam weld,шовное сварное соединение,candidate,welding,EDITORIAL_CORE_2026,high
+stitch weld,прерывистый сварной шов,candidate,welding,EDITORIAL_CORE_2026,high
+fillet weld,угловой сварной шов,candidate,welding,EDITORIAL_CORE_2026,high
+butt weld,стыковой сварной шов,candidate,welding,EDITORIAL_CORE_2026,high
+MIG welding,сварка MIG,candidate,welding,EDITORIAL_CORE_2026,high
+MAG welding,сварка MAG,candidate,welding,EDITORIAL_CORE_2026,high
+TIG welding,сварка TIG,candidate,welding,EDITORIAL_CORE_2026,high
+braze welding,сварка-пайка,candidate,welding,EDITORIAL_CORE_2026,medium
+MIG brazing,пайка MIG,candidate,welding,EDITORIAL_CORE_2026,medium
+laser brazing,лазерная пайка,candidate,welding,EDITORIAL_CORE_2026,high
+weld nugget,литое ядро сварной точки,candidate,welding,EDITORIAL_CORE_2026,medium
+weld penetration,провар,candidate,welding,EDITORIAL_CORE_2026,high
+weld bead,валик сварного шва,candidate,welding,EDITORIAL_CORE_2026,high
+weld pitch,шаг сварных точек,candidate,welding,EDITORIAL_CORE_2026,high
+weld spacing,расстояние между сварными точками,candidate,welding,EDITORIAL_CORE_2026,high
+weld diameter,диаметр сварной точки,candidate,welding,EDITORIAL_CORE_2026,high
+weld-through primer,токопроводящий сварочный грунт,candidate,materials,EDITORIAL_CORE_2026,medium
+spot weld cutter,фреза для высверливания сварных точек,candidate,tools,EDITORIAL_CORE_2026,medium
+weld drill,сверло для сварных точек,candidate,tools,EDITORIAL_CORE_2026,high
+weld remover,инструмент для удаления сварных точек,candidate,tools,EDITORIAL_CORE_2026,medium
+welding clamp,сварочный зажим,candidate,tools,EDITORIAL_CORE_2026,high
+panel clamp,зажим для кузовных панелей,candidate,tools,EDITORIAL_CORE_2026,high
+self-piercing rivet,самопроникающая заклёпка,candidate,joining,EDITORIAL_CORE_2026,high
+blind rivet,вытяжная заклёпка,candidate,joining,EDITORIAL_CORE_2026,high
+solid rivet,цельная заклёпка,candidate,joining,EDITORIAL_CORE_2026,high
+flow-form screw,формующий винт,candidate,joining,EDITORIAL_CORE_2026,medium
+structural adhesive,конструкционный клей,candidate,materials,EDITORIAL_CORE_2026,high
+panel bonding adhesive,клей для соединения кузовных панелей,candidate,materials,EDITORIAL_CORE_2026,high
+hem flange adhesive,клей для завальцованных соединений,candidate,materials,EDITORIAL_CORE_2026,high
+seam sealer,шовный герметик,candidate,materials,EDITORIAL_CORE_2026,high
+brushable seam sealer,кистевой шовный герметик,candidate,materials,EDITORIAL_CORE_2026,high
+sprayable seam sealer,распыляемый шовный герметик,candidate,materials,EDITORIAL_CORE_2026,high
+cavity wax,антикоррозионный состав для скрытых полостей,candidate,materials,EDITORIAL_CORE_2026,high
+underbody coating,антикоррозионное покрытие днища,candidate,materials,EDITORIAL_CORE_2026,high
+stone-chip coating,антигравийное покрытие,candidate,materials,EDITORIAL_CORE_2026,high
+corrosion protection,антикоррозионная защита,candidate,materials,EDITORIAL_CORE_2026,high
+epoxy primer,эпоксидный грунт,candidate,materials,EDITORIAL_CORE_2026,high
+etch primer,кислотный грунт,candidate,materials,EDITORIAL_CORE_2026,medium
+zinc-rich primer,цинконаполненный грунт,candidate,materials,EDITORIAL_CORE_2026,high
+adhesion promoter,активатор адгезии,candidate,materials,EDITORIAL_CORE_2026,high
+body filler,кузовная шпатлёвка,candidate,materials,EDITORIAL_CORE_2026,high
+finishing putty,финишная шпатлёвка,candidate,materials,EDITORIAL_CORE_2026,high
+sound deadener,шумопоглощающий материал,candidate,materials,EDITORIAL_CORE_2026,medium
+anti-flutter adhesive,виброгасящий клей,candidate,materials,EDITORIAL_CORE_2026,medium
+remove the spot welds,удалить сварные точки,candidate,service,EDITORIAL_CORE_2026,high
+drill out the spot welds,высверлить сварные точки,candidate,service,EDITORIAL_CORE_2026,high
+cut along the marked line,разрезать по отмеченной линии,candidate,service,EDITORIAL_CORE_2026,high
+separate the panel,отделить панель,candidate,service,EDITORIAL_CORE_2026,high
+remove the damaged panel,снять повреждённую панель,candidate,service,EDITORIAL_CORE_2026,high
+straighten the mating flange,выправить сопрягаемый фланец,candidate,service,EDITORIAL_CORE_2026,high
+remove burrs,удалить заусенцы,candidate,service,EDITORIAL_CORE_2026,high
+grind the welds flush,зачистить сварные швы заподлицо,candidate,service,EDITORIAL_CORE_2026,high
+clean the mating surfaces,очистить сопрягаемые поверхности,candidate,service,EDITORIAL_CORE_2026,high
+apply weld-through primer,нанести токопроводящий сварочный грунт,candidate,service,EDITORIAL_CORE_2026,high
+apply structural adhesive,нанести конструкционный клей,candidate,service,EDITORIAL_CORE_2026,high
+position the replacement panel,установить ремонтную панель,candidate,service,EDITORIAL_CORE_2026,high
+clamp the panel in position,зафиксировать панель зажимами,candidate,service,EDITORIAL_CORE_2026,high
+check the body dimensions,проверить контрольные размеры кузова,candidate,service,EDITORIAL_CORE_2026,high
+check the panel gaps,проверить зазоры между панелями,candidate,service,EDITORIAL_CORE_2026,high
+check the flushness,проверить положение панелей по высоте,candidate,service,EDITORIAL_CORE_2026,medium
+make plug welds,выполнить электрозаклёпочные сварные соединения,candidate,service,EDITORIAL_CORE_2026,high
+make resistance spot welds,выполнить контактную точечную сварку,candidate,service,EDITORIAL_CORE_2026,high
+weld in the specified sequence,выполнить сварку в указанной последовательности,candidate,service,EDITORIAL_CORE_2026,high
+allow the welds to cool,дать сварным швам остыть,candidate,service,EDITORIAL_CORE_2026,high
+avoid overheating the panel,не допускать перегрева панели,candidate,service,EDITORIAL_CORE_2026,high
+apply seam sealer,нанести шовный герметик,candidate,service,EDITORIAL_CORE_2026,high
+restore corrosion protection,восстановить антикоррозионную защиту,candidate,service,EDITORIAL_CORE_2026,high
+apply cavity wax,нанести антикоррозионный состав в скрытые полости,candidate,service,EDITORIAL_CORE_2026,high
+restore the underbody coating,восстановить покрытие днища,candidate,service,EDITORIAL_CORE_2026,high
+refinish the repaired area,восстановить лакокрасочное покрытие отремонтированного участка,candidate,service,EDITORIAL_CORE_2026,high
