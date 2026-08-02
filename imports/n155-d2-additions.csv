@@ -1,89 +1,89 @@
-source,target_preferred,status,category,source_id,confidence,source_document,term_type
-rear bumper lower panel,нижняя панель заднего бампера,candidate,body.exterior,N155_D2_CORPUS,high,11.9.4.6 无钥匙车辆天线(尾部)的更换-N155-D2.dita,component
-radio frequency antenna connector,разъём радиочастотной антенны,candidate,electrical.antenna,N155_D2_CORPUS,high,11.9.4.8 无线电频率天线的更换-N155-D2.dita,component
-radio frequency antenna replacement,замена радиочастотной антенны,candidate,electrical.antenna,N155_D2_CORPUS,high,11.9.4.8 无线电频率天线的更换-N155-D2.dita,procedure
-roof harness connector,разъём жгута проводов крыши,candidate,electrical.antenna,N155_D2_CORPUS,high,11.9.4.8 无线电频率天线的更换-N155-D2.dita,component
-air conditioning control panel switch,переключатель панели управления системой кондиционирования,candidate,electrical.defrost,N155_D2_CORPUS,high,11.11.1.2 系统-N155-D2.dita,component
-back door glass defrost braid lead repair,ремонт плетёного вывода обогревателя стекла двери багажного отделения,candidate,electrical.defrost,N155_D2_CORPUS,high,11.11.2.1 背门玻璃除霜编织引线的修理-N155-D2.dita,procedure
-defrost bus lead,токоведущий вывод обогревателя стекла,candidate,electrical.defrost,N155_D2_CORPUS,high,11.11.2.1 背门玻璃除霜编织引线的修理-N155-D2.dita,component
-defrost request signal,сигнал запроса обогрева стекла,candidate,electrical.defrost,N155_D2_CORPUS,high,11.11.1.2 系统-N155-D2.dita,signal
-defrosting and demisting system,система удаления инея и запотевания,candidate,electrical.defrost,N155_D2_CORPUS,high,11.11.1.1 概述-N155-D2.dita,system
-defrosting effect,эффект удаления инея,candidate,electrical.defrost,N155_D2_CORPUS,high,11.11.1.3 零部件信息-N155-D2.dita,function
-do not overheat the conductor,не перегревать токопроводящую дорожку,candidate,electrical.defrost,N155_D2_CORPUS,high,11.11.2.1 背门玻璃除霜编织引线的修理-N155-D2.dita,warning
-exterior rearview mirror heating wire,нагревательный элемент наружного зеркала заднего вида,candidate,electrical.defrost,N155_D2_CORPUS,high,11.11.1.2 系统-N155-D2.dita,component
-fine steel wool,тонкая стальная вата,candidate,electrical.defrost,N155_D2_CORPUS,high,11.11.2.1 背门玻璃除霜编织引线的修理-N155-D2.dita,tool
-glass heating temperature,температура нагрева стекла,candidate,electrical.defrost,N155_D2_CORPUS,high,11.11.1.3 零部件信息-N155-D2.dita,parameter
-polish the repair area,зачистить ремонтируемый участок,candidate,electrical.defrost,N155_D2_CORPUS,high,11.11.2.1 背门玻璃除霜编织引线的修理-N155-D2.dita,procedure
-rear defogger switch,выключатель обогрева заднего стекла,candidate,electrical.defrost,N155_D2_CORPUS,high,11.11.1.3 零部件信息-N155-D2.dita,component
-rearview mirror glass,стекло наружного зеркала заднего вида,candidate,electrical.defrost,N155_D2_CORPUS,high,11.11.1.1 概述-N155-D2.dita,component
-rearview mirror heating element,нагревательный элемент наружного зеркала заднего вида,candidate,electrical.defrost,N155_D2_CORPUS,high,11.11.1.1 概述-N155-D2.dita,component
-rewire the bus lead,повторно припаять токоведущий вывод,candidate,electrical.defrost,N155_D2_CORPUS,high,11.11.2.1 背门玻璃除霜编织引线的修理-N155-D2.dita,procedure
-rosin flux,канифольный флюс,candidate,electrical.defrost,N155_D2_CORPUS,high,11.11.2.1 背门玻璃除霜编织引线的修理-N155-D2.dita,material
-solder,припой,candidate,electrical.defrost,N155_D2_CORPUS,high,11.11.2.1 背门玻璃除霜编织引线的修理-N155-D2.dita,material
-soldering iron,паяльник,candidate,electrical.defrost,N155_D2_CORPUS,high,11.11.2.1 背门玻璃除霜编织引线的修理-N155-D2.dita,tool
-supply power to the windscreen heater,подать питание на обогреватель стекла,candidate,electrical.defrost,N155_D2_CORPUS,high,11.11.1.2 系统-N155-D2.dita,procedure
-uniformly arranged heating wires,равномерно расположенные нагревательные дорожки,candidate,electrical.defrost,N155_D2_CORPUS,high,11.11.1.3 零部件信息-N155-D2.dita,concept
-windscreen fogging,запотевание ветрового стекла,candidate,electrical.defrost,N155_D2_CORPUS,high,11.11.1.1 概述-N155-D2.dita,condition
-windscreen frost,иней на ветровом стекле,candidate,electrical.defrost,N155_D2_CORPUS,high,11.11.1.1 概述-N155-D2.dita,condition
-door lock confirmation beep,звуковой сигнал подтверждения запирания дверей,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.3.3 零部件信息-N155-D2.dita,function
-door unlock confirmation beep,звуковой сигнал подтверждения отпирания дверей,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.3.3 零部件信息-N155-D2.dita,function
-fundamental frequency,основная частота,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.1.1 维修数据-N155-D2.dita,parameter
-horn current consumption,потребляемый ток звукового сигнала,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.1.1 维修数据-N155-D2.dita,parameter
-horn harness connector,разъём жгута проводов звукового сигнала,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.4.2 喇叭(高音)的更换-N155-D2.dita,component
-horn mounting bolt,болт крепления звукового сигнала,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.4.2 喇叭(高音)的更换-N155-D2.dita,component
-horn rated voltage,номинальное напряжение звукового сигнала,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.1.1 维修数据-N155-D2.dita,parameter
-horn relay actuation,срабатывание реле звукового сигнала,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.3.2 系统-N155-D2.dita,function
-horn system working principle,принцип работы системы звукового сигнала,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.3.2 系统-N155-D2.dita,concept
-horn test current,ток при проверке звукового сигнала,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.1.1 维修数据-N155-D2.dita,parameter
-install and tighten the horn mounting bolt,установить и затянуть болт крепления звукового сигнала,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.4.2 喇叭(高音)的更换-N155-D2.dita,procedure
-remove the horn,снять звуковой сигнал,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.4.2 喇叭(高音)的更换-N155-D2.dita,procedure
-sound pressure level,уровень звукового давления,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.1.1 维修数据-N155-D2.dita,parameter
-sound-producing device,звуковое сигнальное устройство,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.3.1 概述-N155-D2.dita,device
-steering wheel horn button,кнопка звукового сигнала на рулевом колесе,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.3.3 零部件信息-N155-D2.dita,component
-supply power to the horn,подать питание на звуковой сигнал,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.3.2 系统-N155-D2.dita,procedure
-unauthorized entry warning,предупреждение о несанкционированном проникновении,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.3.3 零部件信息-N155-D2.dita,function
-vehicle locating function,функция поиска автомобиля,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.3.1 概述-N155-D2.dita,function
-warn pedestrians and other vehicles,предупреждать пешеходов и водителей других автомобилей,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.3.1 概述-N155-D2.dita,function
-keyless antenna fixing screw,винт крепления антенны системы бесключевого доступа,candidate,electrical.keyless,N155_D2_CORPUS,high,11.9.4.6 无钥匙车辆天线(尾部)的更换-N155-D2.dita,component
-tail keyless vehicle antenna,задняя антенна системы бесключевого доступа,candidate,electrical.keyless,N155_D2_CORPUS,high,11.9.4.6 无钥匙车辆天线(尾部)的更换-N155-D2.dita,component
-adjust the seat to a comfortable position,отрегулировать сиденье в удобное положение,candidate,interior.seat,N155_D2_CORPUS,high,11.10.4.2 驾驶员座椅模块的更换-N155-D2.dita,procedure
-desired memory position,требуемое запоминаемое положение сиденья,candidate,interior.seat,N155_D2_CORPUS,high,11.10.3.2 系统-N155-D2.dita,parameter
-disconnect the floor harness connector,отсоединить разъём жгута проводов пола,candidate,interior.seat,N155_D2_CORPUS,high,11.10.4.1 驾驶员座椅的更换-N155-D2.dita,procedure
-disconnect the seat harness fixing clips,отсоединить фиксаторы жгута проводов сиденья,candidate,interior.seat,N155_D2_CORPUS,high,11.10.4.3 左前座椅总成(电动)的分解与组装(型式一)-N155-D2.dita,procedure
-front section of the seat sliding rail,передняя часть салазок сиденья,candidate,interior.seat,N155_D2_CORPUS,high,11.10.4.1 驾驶员座椅的更换-N155-D2.dita,component
-ground circuit,цепь массы,candidate,interior.seat,N155_D2_CORPUS,high,11.10.3.2 系统-N155-D2.dita,circuit
-install the floor harness fixing clips,установить фиксаторы жгута проводов пола,candidate,interior.seat,N155_D2_CORPUS,high,11.10.4.1 驾驶员座椅的更换-N155-D2.dita,procedure
-internal circuit engagement,замыкание внутренних цепей переключателя,candidate,interior.seat,N155_D2_CORPUS,high,11.10.3.3 零部件信息-N155-D2.dita,function
-mechanical seat switch,механический переключатель регулировки сиденья,candidate,interior.seat,N155_D2_CORPUS,high,11.10.3.3 零部件信息-N155-D2.dita,component
-monitor the motor position,контролировать положение электродвигателя,candidate,interior.seat,N155_D2_CORPUS,high,11.10.3.2 系统-N155-D2.dita,procedure
-monitor the switch signal,контролировать сигнал переключателя,candidate,interior.seat,N155_D2_CORPUS,high,11.10.3.2 系统-N155-D2.dita,procedure
-motor forward rotation,вращение электродвигателя в прямом направлении,candidate,interior.seat,N155_D2_CORPUS,high,11.10.3.2 系统-N155-D2.dita,function
-motor reverse rotation,вращение электродвигателя в обратном направлении,candidate,interior.seat,N155_D2_CORPUS,high,11.10.3.2 系统-N155-D2.dita,function
-move the seat to the installation position,переместить сиденье в положение установки,candidate,interior.seat,N155_D2_CORPUS,high,11.10.4.1 驾驶员座椅的更换-N155-D2.dita,procedure
-passenger seat assembly procedure,сборка сиденья переднего пассажира,candidate,interior.seat,N155_D2_CORPUS,high,11.10.4.7 乘客座椅的分解与组装-N155-D2.dita,procedure
-passenger seat disassembly,разборка сиденья переднего пассажира,candidate,interior.seat,N155_D2_CORPUS,high,11.10.4.7 乘客座椅的分解与组装-N155-D2.dita,procedure
-power circuit,цепь питания,candidate,interior.seat,N155_D2_CORPUS,high,11.10.3.2 系统-N155-D2.dita,circuit
-pry off the guide sleeve,поддеть и снять направляющую втулку,candidate,interior.seat,N155_D2_CORPUS,high,11.10.4.3 左前座椅总成(电动)的分解与组装(型式一)-N155-D2.dita,procedure
-rear seat left backrest assembly,левая спинка заднего сиденья в сборе,candidate,interior.seat,N155_D2_CORPUS,high,11.9.4.8 无线电频率天线的更换-N155-D2.dita,assembly
-rear seat right backrest assembly,правая спинка заднего сиденья в сборе,candidate,interior.seat,N155_D2_CORPUS,high,11.9.4.8 无线电频率天线的更换-N155-D2.dita,assembly
-rear section of the seat sliding rail,задняя часть салазок сиденья,candidate,interior.seat,N155_D2_CORPUS,high,11.10.4.1 驾驶员座椅的更换-N155-D2.dita,component
-reload SMD,повторно загрузить программное обеспечение модуля сиденья,candidate,interior.seat,N155_D2_CORPUS,medium,11.10.4.2 驾驶员座椅模块的更换-N155-D2.dita,procedure
-remove the seat cushion foam with cover,снять подушку сиденья с обивкой в сборе,candidate,interior.seat,N155_D2_CORPUS,high,11.10.4.3 左前座椅总成(电动)的分解与组装(型式一)-N155-D2.dita,procedure
-seat assembly,сиденье в сборе,candidate,interior.seat,N155_D2_CORPUS,high,11.10.4.2 驾驶员座椅模块的更换-N155-D2.dita,assembly
-seat fixing bolt,болт крепления сиденья,candidate,interior.seat,N155_D2_CORPUS,high,11.10.4.1 驾驶员座椅的更换-N155-D2.dita,component
-seat height motor bracket,кронштейн электродвигателя регулировки высоты сиденья,candidate,interior.seat,N155_D2_CORPUS,high,11.10.4.3 左前座椅总成(电动)的分解与组装(型式一)-N155-D2.dita,component
-seat height motor connector,разъём электродвигателя регулировки высоты сиденья,candidate,interior.seat,N155_D2_CORPUS,high,11.10.4.3 左前座椅总成(电动)的分解与组装(型式一)-N155-D2.dita,component
-seat leg support,опора ног сиденья,candidate,interior.seat,N155_D2_CORPUS,high,11.10.4.7 乘客座椅的分解与组装-N155-D2.dita,component
-seat lifting mechanism,механизм подъёма сиденья,candidate,interior.seat,N155_D2_CORPUS,high,11.10.4.3 左前座椅总成(电动)的分解与组装(型式一)-N155-D2.dita,component
-seat memory position signal,сигнал запоминаемого положения сиденья,candidate,interior.seat,N155_D2_CORPUS,high,11.10.3.2 系统-N155-D2.dita,signal
-seat module fixing screw,винт крепления модуля сиденья,candidate,interior.seat,N155_D2_CORPUS,high,11.10.4.2 驾驶员座椅模块的更换-N155-D2.dita,component
-seat module software,программное обеспечение модуля сиденья,candidate,interior.seat,N155_D2_CORPUS,high,11.10.4.2 驾驶员座椅模块的更换-N155-D2.dita,software
-switch position,положение переключателя,candidate,interior.seat,N155_D2_CORPUS,high,11.10.3.2 系统-N155-D2.dita,parameter
-temperature monitoring,контроль температуры,candidate,interior.seat,N155_D2_CORPUS,high,11.10.3.2 系统-N155-D2.dita,function
-lower the headliner,опустить обивку потолка,candidate,interior.trim,N155_D2_CORPUS,high,11.9.4.8 无线电频率天线的更换-N155-D2.dita,procedure
-luggage compartment side trim panel assembly,боковая облицовка багажного отделения в сборе,candidate,interior.trim,N155_D2_CORPUS,high,11.9.4.8 无线电频率天线的更换-N155-D2.dita,assembly
-rear door sill trim panel,облицовка порога задней двери,candidate,interior.trim,N155_D2_CORPUS,high,11.9.4.8 无线电频率天线的更换-N155-D2.dita,component
-tailgate upper interior trim panel assembly,верхняя облицовка двери багажного отделения в сборе,candidate,interior.trim,N155_D2_CORPUS,high,11.11.2.1 背门玻璃除霜编织引线的修理-N155-D2.dita,assembly
-trunk sill trim panel assembly,облицовка порога багажного отделения в сборе,candidate,interior.trim,N155_D2_CORPUS,high,11.9.4.8 无线电频率天线的更换-N155-D2.dita,assembly
-jack the vehicle,поднять автомобиль домкратом,candidate,service.procedure,N155_D2_CORPUS,high,11.9.4.6 无钥匙车辆天线(尾部)的更换-N155-D2.dita,procedure
-flagship model,топовая комплектация,candidate,vehicle.configuration,N155_D2_CORPUS,medium,11.10.3.3 零部件信息-N155-D2.dita,configuration
+﻿source,target_preferred,status,category,source_id,confidence,source_document,term_type
+rear bumper lower panel,нижняя панель заднего бампера,candidate,body.exterior,N155_D2_CORPUS,high,N155_CORPUS,component
+radio frequency antenna connector,разъём радиочастотной антенны,candidate,electrical.antenna,N155_D2_CORPUS,high,N155_CORPUS,component
+radio frequency antenna replacement,замена радиочастотной антенны,candidate,electrical.antenna,N155_D2_CORPUS,high,N155_CORPUS,procedure
+roof harness connector,разъём жгута проводов крыши,candidate,electrical.antenna,N155_D2_CORPUS,high,N155_CORPUS,component
+air conditioning control panel switch,переключатель панели управления системой кондиционирования,candidate,electrical.defrost,N155_D2_CORPUS,high,N155_CORPUS,component
+back door glass defrost braid lead repair,ремонт плетёного вывода обогревателя стекла двери багажного отделения,candidate,electrical.defrost,N155_D2_CORPUS,high,N155_CORPUS,procedure
+defrost bus lead,токоведущий вывод обогревателя стекла,candidate,electrical.defrost,N155_D2_CORPUS,high,N155_CORPUS,component
+defrost request signal,сигнал запроса обогрева стекла,candidate,electrical.defrost,N155_D2_CORPUS,high,N155_CORPUS,signal
+defrosting and demisting system,система удаления инея и запотевания,candidate,electrical.defrost,N155_D2_CORPUS,high,N155_CORPUS,system
+defrosting effect,эффект удаления инея,candidate,electrical.defrost,N155_D2_CORPUS,high,N155_CORPUS,function
+do not overheat the conductor,не перегревать токопроводящую дорожку,candidate,electrical.defrost,N155_D2_CORPUS,high,N155_CORPUS,warning
+exterior rearview mirror heating wire,нагревательный элемент наружного зеркала заднего вида,candidate,electrical.defrost,N155_D2_CORPUS,high,N155_CORPUS,component
+fine steel wool,тонкая стальная вата,candidate,electrical.defrost,N155_D2_CORPUS,high,N155_CORPUS,tool
+glass heating temperature,температура нагрева стекла,candidate,electrical.defrost,N155_D2_CORPUS,high,N155_CORPUS,parameter
+polish the repair area,зачистить ремонтируемый участок,candidate,electrical.defrost,N155_D2_CORPUS,high,N155_CORPUS,procedure
+rear defogger switch,выключатель обогрева заднего стекла,candidate,electrical.defrost,N155_D2_CORPUS,high,N155_CORPUS,component
+rearview mirror glass,стекло наружного зеркала заднего вида,candidate,electrical.defrost,N155_D2_CORPUS,high,N155_CORPUS,component
+rearview mirror heating element,нагревательный элемент наружного зеркала заднего вида,candidate,electrical.defrost,N155_D2_CORPUS,high,N155_CORPUS,component
+rewire the bus lead,повторно припаять токоведущий вывод,candidate,electrical.defrost,N155_D2_CORPUS,high,N155_CORPUS,procedure
+rosin flux,канифольный флюс,candidate,electrical.defrost,N155_D2_CORPUS,high,N155_CORPUS,material
+solder,припой,candidate,electrical.defrost,N155_D2_CORPUS,high,N155_CORPUS,material
+soldering iron,паяльник,candidate,electrical.defrost,N155_D2_CORPUS,high,N155_CORPUS,tool
+supply power to the windscreen heater,подать питание на обогреватель стекла,candidate,electrical.defrost,N155_D2_CORPUS,high,N155_CORPUS,procedure
+uniformly arranged heating wires,равномерно расположенные нагревательные дорожки,candidate,electrical.defrost,N155_D2_CORPUS,high,N155_CORPUS,concept
+windscreen fogging,запотевание ветрового стекла,candidate,electrical.defrost,N155_D2_CORPUS,high,N155_CORPUS,condition
+windscreen frost,иней на ветровом стекле,candidate,electrical.defrost,N155_D2_CORPUS,high,N155_CORPUS,condition
+door lock confirmation beep,звуковой сигнал подтверждения запирания дверей,candidate,electrical.horn,N155_D2_CORPUS,high,N155_CORPUS,function
+door unlock confirmation beep,звуковой сигнал подтверждения отпирания дверей,candidate,electrical.horn,N155_D2_CORPUS,high,N155_CORPUS,function
+fundamental frequency,основная частота,candidate,electrical.horn,N155_D2_CORPUS,high,N155_CORPUS,parameter
+horn current consumption,потребляемый ток звукового сигнала,candidate,electrical.horn,N155_D2_CORPUS,high,N155_CORPUS,parameter
+horn harness connector,разъём жгута проводов звукового сигнала,candidate,electrical.horn,N155_D2_CORPUS,high,N155_CORPUS,component
+horn mounting bolt,болт крепления звукового сигнала,candidate,electrical.horn,N155_D2_CORPUS,high,N155_CORPUS,component
+horn rated voltage,номинальное напряжение звукового сигнала,candidate,electrical.horn,N155_D2_CORPUS,high,N155_CORPUS,parameter
+horn relay actuation,срабатывание реле звукового сигнала,candidate,electrical.horn,N155_D2_CORPUS,high,N155_CORPUS,function
+horn system working principle,принцип работы системы звукового сигнала,candidate,electrical.horn,N155_D2_CORPUS,high,N155_CORPUS,concept
+horn test current,ток при проверке звукового сигнала,candidate,electrical.horn,N155_D2_CORPUS,high,N155_CORPUS,parameter
+install and tighten the horn mounting bolt,установить и затянуть болт крепления звукового сигнала,candidate,electrical.horn,N155_D2_CORPUS,high,N155_CORPUS,procedure
+remove the horn,снять звуковой сигнал,candidate,electrical.horn,N155_D2_CORPUS,high,N155_CORPUS,procedure
+sound pressure level,уровень звукового давления,candidate,electrical.horn,N155_D2_CORPUS,high,N155_CORPUS,parameter
+sound-producing device,звуковое сигнальное устройство,candidate,electrical.horn,N155_D2_CORPUS,high,N155_CORPUS,device
+steering wheel horn button,кнопка звукового сигнала на рулевом колесе,candidate,electrical.horn,N155_D2_CORPUS,high,N155_CORPUS,component
+supply power to the horn,подать питание на звуковой сигнал,candidate,electrical.horn,N155_D2_CORPUS,high,N155_CORPUS,procedure
+unauthorized entry warning,предупреждение о несанкционированном проникновении,candidate,electrical.horn,N155_D2_CORPUS,high,N155_CORPUS,function
+vehicle locating function,функция поиска автомобиля,candidate,electrical.horn,N155_D2_CORPUS,high,N155_CORPUS,function
+warn pedestrians and other vehicles,предупреждать пешеходов и водителей других автомобилей,candidate,electrical.horn,N155_D2_CORPUS,high,N155_CORPUS,function
+keyless antenna fixing screw,винт крепления антенны системы бесключевого доступа,candidate,electrical.keyless,N155_D2_CORPUS,high,N155_CORPUS,component
+tail keyless vehicle antenna,задняя антенна системы бесключевого доступа,candidate,electrical.keyless,N155_D2_CORPUS,high,N155_CORPUS,component
+adjust the seat to a comfortable position,отрегулировать сиденье в удобное положение,candidate,interior.seat,N155_D2_CORPUS,high,N155_CORPUS,procedure
+desired memory position,требуемое запоминаемое положение сиденья,candidate,interior.seat,N155_D2_CORPUS,high,N155_CORPUS,parameter
+disconnect the floor harness connector,отсоединить разъём жгута проводов пола,candidate,interior.seat,N155_D2_CORPUS,high,N155_CORPUS,procedure
+disconnect the seat harness fixing clips,отсоединить фиксаторы жгута проводов сиденья,candidate,interior.seat,N155_D2_CORPUS,high,N155_CORPUS,procedure
+front section of the seat sliding rail,передняя часть салазок сиденья,candidate,interior.seat,N155_D2_CORPUS,high,N155_CORPUS,component
+ground circuit,цепь массы,candidate,interior.seat,N155_D2_CORPUS,high,N155_CORPUS,circuit
+install the floor harness fixing clips,установить фиксаторы жгута проводов пола,candidate,interior.seat,N155_D2_CORPUS,high,N155_CORPUS,procedure
+internal circuit engagement,замыкание внутренних цепей переключателя,candidate,interior.seat,N155_D2_CORPUS,high,N155_CORPUS,function
+mechanical seat switch,механический переключатель регулировки сиденья,candidate,interior.seat,N155_D2_CORPUS,high,N155_CORPUS,component
+monitor the motor position,контролировать положение электродвигателя,candidate,interior.seat,N155_D2_CORPUS,high,N155_CORPUS,procedure
+monitor the switch signal,контролировать сигнал переключателя,candidate,interior.seat,N155_D2_CORPUS,high,N155_CORPUS,procedure
+motor forward rotation,вращение электродвигателя в прямом направлении,candidate,interior.seat,N155_D2_CORPUS,high,N155_CORPUS,function
+motor reverse rotation,вращение электродвигателя в обратном направлении,candidate,interior.seat,N155_D2_CORPUS,high,N155_CORPUS,function
+move the seat to the installation position,переместить сиденье в положение установки,candidate,interior.seat,N155_D2_CORPUS,high,N155_CORPUS,procedure
+passenger seat assembly procedure,сборка сиденья переднего пассажира,candidate,interior.seat,N155_D2_CORPUS,high,N155_CORPUS,procedure
+passenger seat disassembly,разборка сиденья переднего пассажира,candidate,interior.seat,N155_D2_CORPUS,high,N155_CORPUS,procedure
+power circuit,цепь питания,candidate,interior.seat,N155_D2_CORPUS,high,N155_CORPUS,circuit
+pry off the guide sleeve,поддеть и снять направляющую втулку,candidate,interior.seat,N155_D2_CORPUS,high,N155_CORPUS,procedure
+rear seat left backrest assembly,левая спинка заднего сиденья в сборе,candidate,interior.seat,N155_D2_CORPUS,high,N155_CORPUS,assembly
+rear seat right backrest assembly,правая спинка заднего сиденья в сборе,candidate,interior.seat,N155_D2_CORPUS,high,N155_CORPUS,assembly
+rear section of the seat sliding rail,задняя часть салазок сиденья,candidate,interior.seat,N155_D2_CORPUS,high,N155_CORPUS,component
+reload SMD,повторно загрузить программное обеспечение модуля сиденья,candidate,interior.seat,N155_D2_CORPUS,medium,N155_CORPUS,procedure
+remove the seat cushion foam with cover,снять подушку сиденья с обивкой в сборе,candidate,interior.seat,N155_D2_CORPUS,high,N155_CORPUS,procedure
+seat assembly,сиденье в сборе,candidate,interior.seat,N155_D2_CORPUS,high,N155_CORPUS,assembly
+seat fixing bolt,болт крепления сиденья,candidate,interior.seat,N155_D2_CORPUS,high,N155_CORPUS,component
+seat height motor bracket,кронштейн электродвигателя регулировки высоты сиденья,candidate,interior.seat,N155_D2_CORPUS,high,N155_CORPUS,component
+seat height motor connector,разъём электродвигателя регулировки высоты сиденья,candidate,interior.seat,N155_D2_CORPUS,high,N155_CORPUS,component
+seat leg support,опора ног сиденья,candidate,interior.seat,N155_D2_CORPUS,high,N155_CORPUS,component
+seat lifting mechanism,механизм подъёма сиденья,candidate,interior.seat,N155_D2_CORPUS,high,N155_CORPUS,component
+seat memory position signal,сигнал запоминаемого положения сиденья,candidate,interior.seat,N155_D2_CORPUS,high,N155_CORPUS,signal
+seat module fixing screw,винт крепления модуля сиденья,candidate,interior.seat,N155_D2_CORPUS,high,N155_CORPUS,component
+seat module software,программное обеспечение модуля сиденья,candidate,interior.seat,N155_D2_CORPUS,high,N155_CORPUS,software
+switch position,положение переключателя,candidate,interior.seat,N155_D2_CORPUS,high,N155_CORPUS,parameter
+temperature monitoring,контроль температуры,candidate,interior.seat,N155_D2_CORPUS,high,N155_CORPUS,function
+lower the headliner,опустить обивку потолка,candidate,interior.trim,N155_D2_CORPUS,high,N155_CORPUS,procedure
+luggage compartment side trim panel assembly,боковая облицовка багажного отделения в сборе,candidate,interior.trim,N155_D2_CORPUS,high,N155_CORPUS,assembly
+rear door sill trim panel,облицовка порога задней двери,candidate,interior.trim,N155_D2_CORPUS,high,N155_CORPUS,component
+tailgate upper interior trim panel assembly,верхняя облицовка двери багажного отделения в сборе,candidate,interior.trim,N155_D2_CORPUS,high,N155_CORPUS,assembly
+trunk sill trim panel assembly,облицовка порога багажного отделения в сборе,candidate,interior.trim,N155_D2_CORPUS,high,N155_CORPUS,assembly
+jack the vehicle,поднять автомобиль домкратом,candidate,service.procedure,N155_D2_CORPUS,high,N155_CORPUS,procedure
+flagship model,топовая комплектация,candidate,vehicle.configuration,N155_D2_CORPUS,medium,N155_CORPUS,configuration
