@@ -1,0 +1,123 @@
+source,target_preferred,status,category,source_id,confidence
+remove,снять,candidate,service_action,EDITORIAL_CORE_2026,high
+install,установить,candidate,service_action,EDITORIAL_CORE_2026,high
+remove and install,снять и установить,candidate,service_action,EDITORIAL_CORE_2026,high
+disconnect,отсоединить,candidate,service_action,EDITORIAL_CORE_2026,high
+connect,подсоединить,candidate,service_action,EDITORIAL_CORE_2026,high
+detach,отсоединить,candidate,service_action,EDITORIAL_CORE_2026,medium
+attach,присоединить,candidate,service_action,EDITORIAL_CORE_2026,high
+release,освободить,candidate,service_action,EDITORIAL_CORE_2026,medium
+engage,ввести в зацепление,candidate,service_action,EDITORIAL_CORE_2026,medium
+disengage,вывести из зацепления,candidate,service_action,EDITORIAL_CORE_2026,medium
+loosen,ослабить,candidate,service_action,EDITORIAL_CORE_2026,high
+tighten,затянуть,candidate,service_action,EDITORIAL_CORE_2026,high
+retighten,повторно затянуть,candidate,service_action,EDITORIAL_CORE_2026,high
+tighten by hand,затянуть от руки,candidate,service_action,EDITORIAL_CORE_2026,high
+tighten to the specified torque,затянуть установленным моментом,candidate,service_action,EDITORIAL_CORE_2026,high
+torque in sequence,затянуть в указанной последовательности,candidate,service_action,EDITORIAL_CORE_2026,high
+turn,повернуть,candidate,service_action,EDITORIAL_CORE_2026,high
+rotate,вращать,candidate,service_action,EDITORIAL_CORE_2026,high
+hold,удерживать,candidate,service_action,EDITORIAL_CORE_2026,high
+support,поддерживать,candidate,service_action,EDITORIAL_CORE_2026,high
+secure,закрепить,candidate,service_action,EDITORIAL_CORE_2026,high
+lock,зафиксировать,candidate,service_action,EDITORIAL_CORE_2026,medium
+unlock,разблокировать,candidate,service_action,EDITORIAL_CORE_2026,high
+raise,поднять,candidate,service_action,EDITORIAL_CORE_2026,high
+lower,опустить,candidate,service_action,EDITORIAL_CORE_2026,high
+lift,поднять,candidate,service_action,EDITORIAL_CORE_2026,high
+pull,потянуть,candidate,service_action,EDITORIAL_CORE_2026,high
+push,нажать,candidate,service_action,EDITORIAL_CORE_2026,high
+press,запрессовать,candidate,service_action,EDITORIAL_CORE_2026,medium
+press out,выпрессовать,candidate,service_action,EDITORIAL_CORE_2026,high
+press in,запрессовать,candidate,service_action,EDITORIAL_CORE_2026,high
+pry,поддеть,candidate,service_action,EDITORIAL_CORE_2026,high
+tap lightly,слегка постучать,candidate,service_action,EDITORIAL_CORE_2026,high
+strike,нанести удар,candidate,service_action,EDITORIAL_CORE_2026,medium
+slide,сдвинуть,candidate,service_action,EDITORIAL_CORE_2026,medium
+insert,вставить,candidate,service_action,EDITORIAL_CORE_2026,high
+withdraw,извлечь,candidate,service_action,EDITORIAL_CORE_2026,medium
+extract,извлечь,candidate,service_action,EDITORIAL_CORE_2026,high
+replace,заменить,candidate,service_action,EDITORIAL_CORE_2026,high
+discard,утилизировать,candidate,service_action,EDITORIAL_CORE_2026,high
+reuse,использовать повторно,candidate,service_action,EDITORIAL_CORE_2026,high
+clean,очистить,candidate,service_action,EDITORIAL_CORE_2026,high
+wipe,протереть,candidate,service_action,EDITORIAL_CORE_2026,high
+dry,высушить,candidate,service_action,EDITORIAL_CORE_2026,high
+wash,промыть,candidate,service_action,EDITORIAL_CORE_2026,high
+flush,промыть,candidate,service_action,EDITORIAL_CORE_2026,high
+blow out with compressed air,продуть сжатым воздухом,candidate,service_action,EDITORIAL_CORE_2026,high
+remove dirt,удалить загрязнения,candidate,service_action,EDITORIAL_CORE_2026,high
+remove old sealant,удалить старый герметик,candidate,service_action,EDITORIAL_CORE_2026,high
+degrease,обезжирить,candidate,service_action,EDITORIAL_CORE_2026,high
+inspect,проверить,candidate,service_action,EDITORIAL_CORE_2026,high
+check,проверить,candidate,service_action,EDITORIAL_CORE_2026,high
+visually inspect,осмотреть,candidate,service_action,EDITORIAL_CORE_2026,high
+check for damage,проверить на наличие повреждений,candidate,service_action,EDITORIAL_CORE_2026,high
+check for wear,проверить на наличие износа,candidate,service_action,EDITORIAL_CORE_2026,high
+check for cracks,проверить на наличие трещин,candidate,service_action,EDITORIAL_CORE_2026,high
+check for deformation,проверить на наличие деформации,candidate,service_action,EDITORIAL_CORE_2026,high
+check for leakage,проверить на отсутствие утечек,candidate,service_action,EDITORIAL_CORE_2026,high
+check for looseness,проверить на наличие люфта,candidate,service_action,EDITORIAL_CORE_2026,medium
+measure,измерить,candidate,service_action,EDITORIAL_CORE_2026,high
+measure the clearance,измерить зазор,candidate,service_action,EDITORIAL_CORE_2026,high
+measure the resistance,измерить сопротивление,candidate,service_action,EDITORIAL_CORE_2026,high
+measure the voltage,измерить напряжение,candidate,service_action,EDITORIAL_CORE_2026,high
+measure the runout,измерить биение,candidate,service_action,EDITORIAL_CORE_2026,high
+measure the end play,измерить осевой зазор,candidate,service_action,EDITORIAL_CORE_2026,high
+compare with the specification,сравнить с установленным значением,candidate,service_action,EDITORIAL_CORE_2026,high
+adjust,отрегулировать,candidate,service_action,EDITORIAL_CORE_2026,high
+set,установить,candidate,service_action,EDITORIAL_CORE_2026,medium
+align,выровнять,candidate,service_action,EDITORIAL_CORE_2026,high
+align the marks,совместить метки,candidate,service_action,EDITORIAL_CORE_2026,high
+center,отцентрировать,candidate,service_action,EDITORIAL_CORE_2026,high
+position,расположить,candidate,service_action,EDITORIAL_CORE_2026,high
+reposition,изменить положение,candidate,service_action,EDITORIAL_CORE_2026,high
+calibrate,откалибровать,candidate,service_action,EDITORIAL_CORE_2026,high
+initialize,инициализировать,candidate,service_action,EDITORIAL_CORE_2026,high
+reset,сбросить,candidate,service_action,EDITORIAL_CORE_2026,high
+program,запрограммировать,candidate,service_action,EDITORIAL_CORE_2026,high
+configure,настроить,candidate,service_action,EDITORIAL_CORE_2026,high
+verify,убедиться,candidate,service_action,EDITORIAL_CORE_2026,medium
+confirm,подтвердить,candidate,service_action,EDITORIAL_CORE_2026,high
+apply,нанести,candidate,service_action,EDITORIAL_CORE_2026,high
+apply sealant,нанести герметик,candidate,service_action,EDITORIAL_CORE_2026,high
+apply grease,нанести консистентную смазку,candidate,service_action,EDITORIAL_CORE_2026,high
+apply engine oil,нанести моторное масло,candidate,service_action,EDITORIAL_CORE_2026,high
+coat,покрыть,candidate,service_action,EDITORIAL_CORE_2026,high
+lubricate,смазать,candidate,service_action,EDITORIAL_CORE_2026,high
+fill,заполнить,candidate,service_action,EDITORIAL_CORE_2026,high
+refill,заправить,candidate,service_action,EDITORIAL_CORE_2026,high
+drain,слить,candidate,service_action,EDITORIAL_CORE_2026,high
+bleed,удалить воздух,candidate,service_action,EDITORIAL_CORE_2026,high
+bleed the brake system,удалить воздух из тормозной системы,candidate,service_action,EDITORIAL_CORE_2026,high
+vent,стравить,candidate,service_action,EDITORIAL_CORE_2026,medium
+prime,заполнить рабочей жидкостью перед пуском,candidate,service_action,EDITORIAL_CORE_2026,medium
+charge,зарядить,candidate,service_action,EDITORIAL_CORE_2026,high
+discharge,разрядить,candidate,service_action,EDITORIAL_CORE_2026,high
+recover refrigerant,откачать хладагент,candidate,service_action,EDITORIAL_CORE_2026,high
+evacuate the system,вакуумировать систему,candidate,service_action,EDITORIAL_CORE_2026,high
+stake,закернить,candidate,service_action,EDITORIAL_CORE_2026,high
+crimp,обжать,candidate,service_action,EDITORIAL_CORE_2026,high
+bend,согнуть,candidate,service_action,EDITORIAL_CORE_2026,high
+straighten,выправить,candidate,service_action,EDITORIAL_CORE_2026,high
+cut,отрезать,candidate,service_action,EDITORIAL_CORE_2026,high
+drill,просверлить,candidate,service_action,EDITORIAL_CORE_2026,high
+ream,развернуть отверстие,candidate,service_action,EDITORIAL_CORE_2026,high
+grind,зачистить,candidate,service_action,EDITORIAL_CORE_2026,medium
+sand,отшлифовать,candidate,service_action,EDITORIAL_CORE_2026,high
+weld,сварить,candidate,service_action,EDITORIAL_CORE_2026,high
+spot weld,выполнить точечную сварку,candidate,service_action,EDITORIAL_CORE_2026,high
+plug weld,выполнить пробочную сварку,candidate,service_action,EDITORIAL_CORE_2026,high
+braze,выполнить пайку твёрдым припоем,candidate,service_action,EDITORIAL_CORE_2026,high
+solder,выполнить пайку мягким припоем,candidate,service_action,EDITORIAL_CORE_2026,high
+bond,склеить,candidate,service_action,EDITORIAL_CORE_2026,medium
+seal,герметизировать,candidate,service_action,EDITORIAL_CORE_2026,high
+road test,выполнить дорожное испытание,candidate,service_action,EDITORIAL_CORE_2026,high
+start the engine,запустить двигатель,candidate,service_action,EDITORIAL_CORE_2026,high
+stop the engine,остановить двигатель,candidate,service_action,EDITORIAL_CORE_2026,high
+warm up the engine,прогреть двигатель,candidate,service_action,EDITORIAL_CORE_2026,high
+allow the engine to cool,дать двигателю остыть,candidate,service_action,EDITORIAL_CORE_2026,high
+operate the system,привести систему в действие,candidate,service_action,EDITORIAL_CORE_2026,medium
+check operation,проверить работу,candidate,service_action,EDITORIAL_CORE_2026,high
+check the fluid level,проверить уровень рабочей жидкости,candidate,service_action,EDITORIAL_CORE_2026,high
+restore the vehicle,привести автомобиль в исходное состояние,candidate,service_action,EDITORIAL_CORE_2026,medium
