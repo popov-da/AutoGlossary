@@ -1,0 +1,50 @@
+source,target_preferred,status,category,source_id,confidence
+oil seal,манжетное уплотнение,candidate,seals,EDITORIAL_CORE_2026,high
+radial shaft seal,радиальное манжетное уплотнение вала,candidate,seals,EDITORIAL_CORE_2026,high
+shaft seal,уплотнение вала,candidate,seals,EDITORIAL_CORE_2026,high
+mechanical seal,торцевое уплотнение,candidate,seals,EDITORIAL_CORE_2026,high
+lip seal,манжетное уплотнение,candidate,seals,EDITORIAL_CORE_2026,high
+sealing lip,рабочая кромка манжеты,candidate,seals,EDITORIAL_CORE_2026,high
+dust lip,пылезащитная кромка манжеты,candidate,seals,EDITORIAL_CORE_2026,high
+O-ring,уплотнительное кольцо круглого сечения,candidate,seals,EDITORIAL_CORE_2026,high
+backup ring,опорное кольцо уплотнения,candidate,seals,EDITORIAL_CORE_2026,high
+bonded seal,металлорезиновая уплотнительная шайба,candidate,seals,EDITORIAL_CORE_2026,medium
+copper sealing washer,медная уплотнительная шайба,candidate,seals,EDITORIAL_CORE_2026,high
+crush washer,деформируемая уплотнительная шайба,candidate,seals,EDITORIAL_CORE_2026,medium
+gasket,прокладка,candidate,seals,EDITORIAL_CORE_2026,high
+metal gasket,металлическая прокладка,candidate,seals,EDITORIAL_CORE_2026,high
+composite gasket,композитная прокладка,candidate,seals,EDITORIAL_CORE_2026,high
+liquid gasket,жидкая прокладка,candidate,seals,EDITORIAL_CORE_2026,high
+form-in-place gasket,формируемая на месте прокладка,candidate,seals,EDITORIAL_CORE_2026,medium
+sealant bead,валик герметика,candidate,seals,EDITORIAL_CORE_2026,high
+sealing surface,уплотняемая поверхность,candidate,seals,EDITORIAL_CORE_2026,high
+mating surface,сопрягаемая поверхность,candidate,assembly,EDITORIAL_CORE_2026,high
+seal groove,канавка под уплотнение,candidate,seals,EDITORIAL_CORE_2026,high
+seal driver,оправка для установки манжеты,candidate,tools,EDITORIAL_CORE_2026,high
+seal puller,съёмник манжеты,candidate,tools,EDITORIAL_CORE_2026,high
+protect the sealing lip,защитить рабочую кромку манжеты,candidate,assembly,EDITORIAL_CORE_2026,high
+lubricate the sealing lip,смазать рабочую кромку манжеты,candidate,assembly,EDITORIAL_CORE_2026,high
+install with the lip facing inward,установить рабочей кромкой внутрь,candidate,assembly,EDITORIAL_CORE_2026,high
+install with the spring side inward,установить стороной с пружиной внутрь,candidate,assembly,EDITORIAL_CORE_2026,high
+do not damage the sealing lip,не повредить рабочую кромку манжеты,candidate,assembly,EDITORIAL_CORE_2026,high
+replace the O-ring,заменить уплотнительное кольцо,candidate,service,EDITORIAL_CORE_2026,high
+do not reuse the gasket,не использовать прокладку повторно,candidate,service,EDITORIAL_CORE_2026,high
+remove all gasket material,полностью удалить остатки прокладки,candidate,service,EDITORIAL_CORE_2026,high
+clean the mating surfaces,очистить сопрягаемые поверхности,candidate,service,EDITORIAL_CORE_2026,high
+degrease the sealing surface,обезжирить уплотняемую поверхность,candidate,service,EDITORIAL_CORE_2026,high
+apply a continuous bead,нанести непрерывный валик герметика,candidate,service,EDITORIAL_CORE_2026,high
+do not apply excessive sealant,не наносить избыточное количество герметика,candidate,service,EDITORIAL_CORE_2026,high
+assemble within the specified time,выполнить сборку в течение установленного времени,candidate,service,EDITORIAL_CORE_2026,high
+allow the sealant to cure,дать герметику отвердеть,candidate,service,EDITORIAL_CORE_2026,high
+retaining ring,стопорное кольцо,candidate,fasteners,EDITORIAL_CORE_2026,high
+snap ring,пружинное стопорное кольцо,candidate,fasteners,EDITORIAL_CORE_2026,high
+internal retaining ring,внутреннее стопорное кольцо,candidate,fasteners,EDITORIAL_CORE_2026,high
+external retaining ring,наружное стопорное кольцо,candidate,fasteners,EDITORIAL_CORE_2026,high
+retaining ring groove,канавка под стопорное кольцо,candidate,fasteners,EDITORIAL_CORE_2026,high
+make sure the ring is fully seated,убедиться что кольцо полностью вошло в канавку,candidate,inspection,EDITORIAL_CORE_2026,high
+align the oil holes,совместить масляные отверстия,candidate,assembly,EDITORIAL_CORE_2026,high
+align the locating tabs,совместить установочные выступы,candidate,assembly,EDITORIAL_CORE_2026,high
+align the dowel pins,совместить установочные штифты,candidate,assembly,EDITORIAL_CORE_2026,high
+observe the installation direction,соблюдать направление установки,candidate,assembly,EDITORIAL_CORE_2026,high
+check the installation depth,проверить глубину установки,candidate,inspection,EDITORIAL_CORE_2026,high
+check for leakage after assembly,после сборки проверить на наличие утечек,candidate,inspection,EDITORIAL_CORE_2026,high
