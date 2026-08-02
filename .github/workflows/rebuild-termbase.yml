@@ -1,0 +1,40 @@
+name: Rebuild termbase
+
+on:
+  push:
+    branches: [main]
+    paths:
+      - "data/**.csv"
+      - "imports/**.csv"
+      - "scripts/rebuild_termbase.py"
+      - ".github/workflows/rebuild-termbase.yml"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  rebuild:
+    if: github.actor != 'github-actions[bot]'
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+
+      - name: Build authoritative termbase
+        run: python scripts/rebuild_termbase.py
+
+      - name: Commit generated files
+        run: |
+          if git diff --quiet -- data/termbase.csv reports/conflicts.csv; then
+            echo "No generated changes"
+            exit 0
+          fi
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/termbase.csv reports/conflicts.csv
+          git commit -m "Rebuild authoritative termbase"
+          git push
