@@ -1,0 +1,22 @@
+source,target_preferred,status,category,source_id,confidence
+advanced driver assistance system,усовершенствованная система помощи водителю,candidate,adas,UNECE_ADS,medium
+driver monitoring system,система контроля состояния водителя,candidate,adas,UNECE_ADS,medium
+automated lane keeping system,автоматизированная система удержания в полосе,candidate,adas,UNECE_ADS,medium
+lane departure warning,предупреждение о выходе из полосы,candidate,adas,COVESA_VSS_6,medium
+lane keeping assistance,помощь в удержании полосы,candidate,adas,COVESA_VSS_6,medium
+adaptive cruise control,адаптивный круиз-контроль,candidate,adas,COVESA_VSS_6,medium
+automatic emergency braking,автоматическое экстренное торможение,candidate,adas,UNECE_ADS,medium
+blind spot detection,контроль слепых зон,candidate,adas,COVESA_VSS_6,medium
+forward collision warning,предупреждение о фронтальном столкновении,candidate,adas,COVESA_VSS_6,medium
+traffic sign recognition,распознавание дорожных знаков,candidate,adas,COVESA_VSS_6,medium
+driver availability recognition system,система распознавания готовности водителя,candidate,adas,UNECE_ADS,medium
+automated valet parking,автоматизированная парковка без водителя,candidate,adas,ASAM_OPENX,medium
+parking manoeuvre,парковочный манёвр,candidate,adas,ASAM_OPENX,high
+time to collision,время до столкновения,candidate,adas,ASAM_OPENX,high
+time headway,временной интервал следования,candidate,adas,ASAM_OPENX,medium
+post-encroachment time,время после пересечения конфликтной точки,candidate,adas,ASAM_OPENX,medium
+sensor fusion,комплексирование данных датчиков,candidate,adas,ASAM_OPENX,medium
+perception stack,стек восприятия окружающей обстановки,candidate,adas,ASAM_OPENX,medium
+vulnerable road user,уязвимый участник дорожного движения,candidate,adas,UNECE_ADS,high
+object classification,классификация объектов,candidate,adas,ASAM_OPENX,high
+drivable area,"область, доступная для движения",candidate,adas,ASAM_OPENX,medium
