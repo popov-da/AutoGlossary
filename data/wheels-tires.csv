@@ -1,0 +1,131 @@
+source,target_preferred,status,category,source_id,confidence
+wheel,колесо,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+road wheel,дисковое колесо,candidate,wheels_tires,EDITORIAL_CORE_2026,medium
+wheel rim,обод колеса,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+alloy wheel,легкосплавное колесо,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+steel wheel,стальное колесо,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+wheel disc,диск колеса,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+wheel hub,ступица колеса,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+wheel bearing,подшипник ступицы колеса,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+wheel stud,шпилька колеса,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+wheel bolt,колёсный болт,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+wheel nut,колёсная гайка,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+locking wheel nut,секретная колёсная гайка,candidate,wheels_tires,EDITORIAL_CORE_2026,medium
+wheel cover,колёсный колпак,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+center cap,центральный колпачок колеса,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+wheel offset,вылет колеса,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+rim width,ширина обода,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+rim diameter,посадочный диаметр обода,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+bolt pattern,схема расположения крепёжных отверстий,candidate,wheels_tires,EDITORIAL_CORE_2026,medium
+pitch circle diameter,диаметр расположения крепёжных отверстий,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+hub bore,диаметр центрального отверстия,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+wheel runout,биение колеса,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+radial runout,радиальное биение,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+lateral runout,осевое биение,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+wheel imbalance,дисбаланс колеса,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+static imbalance,статический дисбаланс,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+dynamic imbalance,динамический дисбаланс,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+wheel balance weight,балансировочный груз,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+clip-on weight,набивной балансировочный груз,candidate,wheels_tires,EDITORIAL_CORE_2026,medium
+adhesive weight,самоклеящийся балансировочный груз,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+wheel balancer,балансировочный станок,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+wheel alignment,регулировка углов установки колёс,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+tire,шина,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+radial tire,радиальная шина,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+tubeless tire,бескамерная шина,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+run-flat tire,шина с возможностью движения при потере давления,candidate,wheels_tires,EDITORIAL_CORE_2026,medium
+winter tire,зимняя шина,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+summer tire,летняя шина,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+all-season tire,всесезонная шина,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+spare tire,запасная шина,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+compact spare tire,малоразмерное запасное колесо,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+tire tread,протектор шины,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+tread block,блок протектора,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+tread groove,канавка протектора,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+tread depth,глубина рисунка протектора,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+tread wear indicator,индикатор износа протектора,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+tire shoulder,плечевая зона шины,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+tire sidewall,боковина шины,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+tire bead,борт шины,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+bead seat,посадочная полка обода,candidate,wheels_tires,EDITORIAL_CORE_2026,medium
+bead wire,бортовое кольцо шины,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+inner liner,герметизирующий слой шины,candidate,wheels_tires,EDITORIAL_CORE_2026,medium
+carcass,каркас шины,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+belt package,брекерный пояс,candidate,wheels_tires,EDITORIAL_CORE_2026,medium
+ply,слой корда,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+cord,корд,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+tire size,размер шины,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+section width,ширина профиля шины,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+aspect ratio,отношение высоты профиля к его ширине,candidate,wheels_tires,EDITORIAL_CORE_2026,medium
+load index,индекс нагрузки,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+speed rating,индекс скорости,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+maximum load,максимальная нагрузка,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+maximum inflation pressure,максимальное давление накачивания,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+recommended tire pressure,рекомендуемое давление в шинах,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+cold tire pressure,давление в холодной шине,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+hot tire pressure,давление в нагретой шине,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+tire inflation pressure,давление воздуха в шине,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+underinflation,недостаточное давление в шине,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+overinflation,повышенное давление в шине,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+slow leak,медленная утечка воздуха,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+puncture,прокол,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+sidewall damage,повреждение боковины,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+sidewall bulge,вздутие боковины,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+tread separation,расслоение протектора,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+belt separation,расслоение брекера,candidate,wheels_tires,EDITORIAL_CORE_2026,medium
+uneven tire wear,неравномерный износ шины,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+center wear,износ центральной части протектора,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+shoulder wear,износ плечевых зон,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+cupping wear,чашеобразный износ,candidate,wheels_tires,EDITORIAL_CORE_2026,medium
+feathered wear,пилообразный износ,candidate,wheels_tires,EDITORIAL_CORE_2026,medium
+flat spot,местная деформация протектора,candidate,wheels_tires,EDITORIAL_CORE_2026,medium
+dry rot,растрескивание резины от старения,candidate,wheels_tires,EDITORIAL_CORE_2026,medium
+tire aging,старение шины,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+tire date code,код даты изготовления шины,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+valve stem,вентиль шины,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+valve core,золотник вентиля,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+valve cap,колпачок вентиля,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+tubeless valve,вентиль бескамерной шины,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+tire pressure monitoring system,система контроля давления в шинах,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+tire pressure sensor,датчик давления в шине,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+TPMS sensor,датчик системы контроля давления в шинах,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+sensor valve,вентиль с датчиком давления,candidate,wheels_tires,EDITORIAL_CORE_2026,medium
+sensor ID,идентификатор датчика,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+TPMS initialization,инициализация системы контроля давления в шинах,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+TPMS calibration,калибровка системы контроля давления в шинах,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+tire rotation,перестановка колёс,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+rotation pattern,схема перестановки колёс,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+front-to-rear rotation,перестановка колёс спереди назад,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+cross rotation,перекрёстная перестановка колёс,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+directional tire,шина с направленным рисунком протектора,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+asymmetric tire,шина с асимметричным рисунком протектора,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+inside marking,маркировка внутренней стороны,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+outside marking,маркировка наружной стороны,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+rotation arrow,стрелка направления вращения,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+tire changer,шиномонтажный станок,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+bead breaker,устройство отрыва борта шины,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+mounting head,монтажная головка шиномонтажного станка,candidate,wheels_tires,EDITORIAL_CORE_2026,medium
+tire lever,монтажная лопатка,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+bead lubricant,монтажная смазка для борта шины,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+rim protector,защитная накладка обода,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+demount the tire,снять шину с обода,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+mount the tire,установить шину на обод,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+break the bead,отделить борт шины от обода,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+seat the bead,посадить борт шины на обод,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+inflate the tire,накачать шину,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+deflate the tire,стравить воздух из шины,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+remove the valve core,вывернуть золотник вентиля,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+install a new valve,установить новый вентиль,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+apply bead lubricant,нанести монтажную смазку на борт шины,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+align the balance mark,совместить балансировочную метку,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+balance the wheel,отбалансировать колесо,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+check wheel runout,проверить биение колеса,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+check tire pressure,проверить давление в шинах,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+adjust tire pressure,отрегулировать давление в шинах,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+inspect the tread,проверить состояние протектора,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+measure tread depth,измерить глубину рисунка протектора,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+replace the tire,заменить шину,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+tighten the wheel nuts in a crisscross pattern,затянуть колёсные гайки крест-накрест,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+tighten to the specified torque,затянуть установленным моментом,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+recheck the wheel nut torque,повторно проверить момент затяжки колёсных гаек,candidate,wheels_tires,EDITORIAL_CORE_2026,high
+lower the vehicle to the ground,опустить автомобиль на землю,candidate,wheels_tires,EDITORIAL_CORE_2026,high
