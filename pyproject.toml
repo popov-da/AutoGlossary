@@ -1,0 +1,21 @@
+[project]
+name = "autoglossary"
+version = "0.1.0"
+description = "Open EN-RU automotive terminology base and import tools"
+requires-python = ">=3.10"
+dependencies = [
+  "PyYAML>=6.0,<7",
+]
+
+[project.optional-dependencies]
+dev = [
+  "pytest>=8,<9",
+  "ruff>=0.12,<1",
+]
+
+[tool.ruff]
+line-length = 100
+target-version = "py310"
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
