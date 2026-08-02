@@ -1,0 +1,98 @@
+source,target_preferred,status,category,source_id,confidence
+brake pedal,педаль тормоза,candidate,brakes,EDITORIAL_CORE_2026,high
+brake pedal free play,свободный ход педали тормоза,candidate,brakes,EDITORIAL_CORE_2026,high
+brake pedal travel,ход педали тормоза,candidate,brakes,EDITORIAL_CORE_2026,high
+brake fluid reservoir,бачок тормозной жидкости,candidate,brakes,EDITORIAL_CORE_2026,high
+brake fluid level,уровень тормозной жидкости,candidate,brakes,EDITORIAL_CORE_2026,high
+brake master cylinder,главный тормозной цилиндр,candidate,brakes,EDITORIAL_CORE_2026,high
+brake booster,усилитель тормозов,candidate,brakes,EDITORIAL_CORE_2026,high
+vacuum brake booster,вакуумный усилитель тормозов,candidate,brakes,EDITORIAL_CORE_2026,high
+brake booster check valve,обратный клапан усилителя тормозов,candidate,brakes,EDITORIAL_CORE_2026,high
+brake pipe,тормозная трубка,candidate,brakes,EDITORIAL_CORE_2026,high
+brake hose,тормозной шланг,candidate,brakes,EDITORIAL_CORE_2026,high
+brake caliper,тормозной суппорт,candidate,brakes,EDITORIAL_CORE_2026,high
+caliper bracket,скоба тормозного суппорта,candidate,brakes,EDITORIAL_CORE_2026,high
+caliper guide pin,направляющий палец суппорта,candidate,brakes,EDITORIAL_CORE_2026,high
+caliper piston,поршень тормозного суппорта,candidate,brakes,EDITORIAL_CORE_2026,high
+piston dust boot,пылезащитный чехол поршня,candidate,brakes,EDITORIAL_CORE_2026,high
+brake pad,тормозная колодка,candidate,brakes,EDITORIAL_CORE_2026,high
+inner brake pad,внутренняя тормозная колодка,candidate,brakes,EDITORIAL_CORE_2026,high
+outer brake pad,наружная тормозная колодка,candidate,brakes,EDITORIAL_CORE_2026,high
+brake pad shim,противошумная пластина тормозной колодки,candidate,brakes,EDITORIAL_CORE_2026,medium
+brake pad wear indicator,индикатор износа тормозной колодки,candidate,brakes,EDITORIAL_CORE_2026,high
+brake disc,тормозной диск,candidate,brakes,EDITORIAL_CORE_2026,high
+brake disc thickness,толщина тормозного диска,candidate,brakes,EDITORIAL_CORE_2026,high
+minimum disc thickness,минимально допустимая толщина тормозного диска,candidate,brakes,EDITORIAL_CORE_2026,high
+disc runout,биение тормозного диска,candidate,brakes,EDITORIAL_CORE_2026,high
+brake drum,тормозной барабан,candidate,brakes,EDITORIAL_CORE_2026,high
+brake shoe,тормозная колодка барабанного тормоза,candidate,brakes,EDITORIAL_CORE_2026,medium
+wheel cylinder,колёсный тормозной цилиндр,candidate,brakes,EDITORIAL_CORE_2026,high
+return spring,стяжная пружина тормозных колодок,candidate,brakes,EDITORIAL_CORE_2026,medium
+parking brake lever,рычаг стояночного тормоза,candidate,parking_brake,EDITORIAL_CORE_2026,high
+parking brake cable,трос стояночного тормоза,candidate,parking_brake,EDITORIAL_CORE_2026,high
+parking brake actuator,исполнительный механизм стояночного тормоза,candidate,parking_brake,EDITORIAL_CORE_2026,high
+electric parking brake,электрический стояночный тормоз,candidate,parking_brake,EDITORIAL_CORE_2026,high
+brake control module,блок управления тормозной системой,candidate,brakes,EDITORIAL_CORE_2026,medium
+hydraulic control unit,гидравлический блок управления,candidate,brakes,EDITORIAL_CORE_2026,medium
+wheel speed sensor,датчик частоты вращения колеса,candidate,brakes,EDITORIAL_CORE_2026,high
+yaw rate sensor,датчик угловой скорости рыскания,candidate,stability,EDITORIAL_CORE_2026,medium
+steering angle sensor,датчик угла поворота рулевого колеса,candidate,steering,EDITORIAL_CORE_2026,high
+anti-lock braking system,антиблокировочная система тормозов,candidate,brakes,EDITORIAL_CORE_2026,high
+electronic stability control,система электронной стабилизации,candidate,stability,EDITORIAL_CORE_2026,high
+traction control system,противобуксовочная система,candidate,stability,EDITORIAL_CORE_2026,high
+brake pressure sensor,датчик давления в тормозной системе,candidate,brakes,EDITORIAL_CORE_2026,high
+bleeder screw,штуцер для удаления воздуха,candidate,brakes,EDITORIAL_CORE_2026,medium
+bleed nipple,штуцер для удаления воздуха,candidate,brakes,EDITORIAL_CORE_2026,medium
+bleed the brakes,удалить воздух из тормозной системы,candidate,brakes,EDITORIAL_CORE_2026,high
+check brake fluid level,проверить уровень тормозной жидкости,candidate,brakes,EDITORIAL_CORE_2026,high
+inspect pad thickness,проверить толщину тормозных колодок,candidate,brakes,EDITORIAL_CORE_2026,high
+measure disc runout,измерить биение тормозного диска,candidate,brakes,EDITORIAL_CORE_2026,high
+suspension strut,амортизаторная стойка,candidate,suspension,EDITORIAL_CORE_2026,high
+shock absorber,амортизатор,candidate,suspension,EDITORIAL_CORE_2026,high
+coil spring,винтовая пружина,candidate,suspension,EDITORIAL_CORE_2026,high
+spring seat,опора пружины,candidate,suspension,EDITORIAL_CORE_2026,medium
+strut mount,верхняя опора амортизаторной стойки,candidate,suspension,EDITORIAL_CORE_2026,high
+strut bearing,опорный подшипник амортизаторной стойки,candidate,suspension,EDITORIAL_CORE_2026,high
+bump stop,буфер хода сжатия,candidate,suspension,EDITORIAL_CORE_2026,medium
+dust boot,пылезащитный чехол,candidate,suspension,EDITORIAL_CORE_2026,high
+control arm,рычаг подвески,candidate,suspension,EDITORIAL_CORE_2026,high
+upper control arm,верхний рычаг подвески,candidate,suspension,EDITORIAL_CORE_2026,high
+lower control arm,нижний рычаг подвески,candidate,suspension,EDITORIAL_CORE_2026,high
+control arm bushing,сайлентблок рычага подвески,candidate,suspension,EDITORIAL_CORE_2026,medium
+ball joint,шаровая опора,candidate,suspension,EDITORIAL_CORE_2026,high
+steering knuckle,поворотный кулак,candidate,suspension,EDITORIAL_CORE_2026,high
+wheel hub,ступица колеса,candidate,suspension,EDITORIAL_CORE_2026,high
+wheel bearing,подшипник ступицы колеса,candidate,suspension,EDITORIAL_CORE_2026,high
+stabilizer bar,стабилизатор поперечной устойчивости,candidate,suspension,EDITORIAL_CORE_2026,high
+stabilizer link,стойка стабилизатора,candidate,suspension,EDITORIAL_CORE_2026,high
+stabilizer bushing,втулка стабилизатора,candidate,suspension,EDITORIAL_CORE_2026,high
+rear axle beam,балка задней подвески,candidate,suspension,EDITORIAL_CORE_2026,high
+subframe,подрамник,candidate,suspension,EDITORIAL_CORE_2026,high
+wheel alignment,углы установки колёс,candidate,suspension,EDITORIAL_CORE_2026,high
+camber angle,угол развала колеса,candidate,suspension,EDITORIAL_CORE_2026,high
+caster angle,угол продольного наклона оси поворота,candidate,suspension,EDITORIAL_CORE_2026,medium
+toe angle,угол схождения колёс,candidate,suspension,EDITORIAL_CORE_2026,high
+ride height,высота положения кузова,candidate,suspension,EDITORIAL_CORE_2026,medium
+suspension travel,ход подвески,candidate,suspension,EDITORIAL_CORE_2026,high
+check for play,проверить наличие люфта,candidate,suspension,EDITORIAL_CORE_2026,high
+check wheel alignment,проверить углы установки колёс,candidate,suspension,EDITORIAL_CORE_2026,high
+steering wheel,рулевое колесо,candidate,steering,EDITORIAL_CORE_2026,high
+steering column,рулевая колонка,candidate,steering,EDITORIAL_CORE_2026,high
+steering shaft,рулевой вал,candidate,steering,EDITORIAL_CORE_2026,high
+intermediate steering shaft,промежуточный рулевой вал,candidate,steering,EDITORIAL_CORE_2026,high
+steering gear,рулевой механизм,candidate,steering,EDITORIAL_CORE_2026,high
+steering rack,рулевая рейка,candidate,steering,EDITORIAL_CORE_2026,high
+rack housing,картер рулевого механизма,candidate,steering,EDITORIAL_CORE_2026,medium
+tie rod,рулевая тяга,candidate,steering,EDITORIAL_CORE_2026,high
+tie rod end,наконечник рулевой тяги,candidate,steering,EDITORIAL_CORE_2026,high
+steering rack boot,защитный чехол рулевой рейки,candidate,steering,EDITORIAL_CORE_2026,high
+power steering pump,насос гидроусилителя рулевого управления,candidate,steering,EDITORIAL_CORE_2026,high
+power steering fluid,рабочая жидкость усилителя рулевого управления,candidate,steering,EDITORIAL_CORE_2026,medium
+power steering reservoir,бачок рабочей жидкости усилителя рулевого управления,candidate,steering,EDITORIAL_CORE_2026,medium
+electric power steering,электроусилитель рулевого управления,candidate,steering,EDITORIAL_CORE_2026,high
+steering torque sensor,датчик крутящего момента рулевого управления,candidate,steering,EDITORIAL_CORE_2026,medium
+steering motor,электродвигатель усилителя рулевого управления,candidate,steering,EDITORIAL_CORE_2026,high
+steering wheel free play,свободный ход рулевого колеса,candidate,steering,EDITORIAL_CORE_2026,high
+steering effort,усилие на рулевом колесе,candidate,steering,EDITORIAL_CORE_2026,medium
+center the steering wheel,установить рулевое колесо в среднее положение,candidate,steering,EDITORIAL_CORE_2026,high
+calibrate steering angle sensor,откалибровать датчик угла поворота рулевого колеса,candidate,steering,EDITORIAL_CORE_2026,high
