@@ -1,0 +1,67 @@
+source,target_preferred,status,category,source_id,confidence,source_document,term_type
+accumulator,аккумулятор,candidate,ambiguous,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,ambiguous
+hydraulic accumulator,гидроаккумулятор,reviewed,hydraulics,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,component
+refrigerant accumulator,аккумулятор хладагента,reviewed,hvac,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,component
+assist grip,поручень салона,reviewed,interior.trim,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,component
+bearing puller,съёмник подшипников,reviewed,tools,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,tool
+bleed screw,штуцер для удаления воздуха,reviewed,hydraulics,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,component
+body gateway module,центральный шлюзовой модуль кузовной электроники,reviewed,electrical,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,module
+brake booster,вакуумный усилитель тормозов,reviewed,brakes,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,component
+check for leakage,проверить на наличие утечек,reviewed,service.procedure,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,procedure
+clutch release bearing,подшипник выключения сцепления,reviewed,clutch,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,component
+crankpin,шатунная шейка коленчатого вала,reviewed,engine,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,component
+cylinder bore,цилиндр цилиндрового блока,reviewed,engine,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,component
+diesel particulate filter,сажевый фильтр дизельного двигателя,reviewed,exhaust,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,component
+do not reuse,не использовать повторно,reviewed,service.procedure,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,warning
+drill out the spot welds,высверлить точки контактной сварки,reviewed,body.repair,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,procedure
+front compartment harness assembly,жгут проводов моторного отсека в сборе,reviewed,electrical,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,assembly
+fuel pump module,модуль топливного насоса,reviewed,fuel,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,assembly
+fuel return line,топливопровод обратной подачи,reviewed,fuel,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,component
+fuel supply line,топливопровод подачи топлива,reviewed,fuel,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,component
+grind,шлифовать,deprecated,ambiguous.action,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,ambiguous
+grind the weld,зачистить сварной шов,reviewed,body.repair,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,procedure
+grind the surface,шлифовать поверхность,reviewed,service.procedure,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,procedure
+hydraulic lash adjuster,гидрокомпенсатор зазора клапана,reviewed,engine,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,component
+inspect,проверить,reviewed,service.procedure,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,procedure
+install in the reverse order of removal,"установить в порядке, обратном снятию",reviewed,service.procedure,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,procedure
+intake air duct,воздуховод впускной системы,reviewed,intake,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,component
+lumbar support,поясничная опора,reviewed,interior.seat,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,component
+maximum load,максимально допустимая нагрузка,reviewed,safety,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,parameter
+oil pan,масляный поддон,deprecated,ambiguous,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,ambiguous
+engine oil pan,масляный поддон двигателя,reviewed,engine,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,component
+transmission oil pan,поддон коробки передач,reviewed,transmission,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,component
+oil pickup tube,маслоприёмная трубка,reviewed,lubrication,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,component
+oil pressure switch,датчик-сигнализатор давления масла,reviewed,lubrication,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,component
+oil seal,манжетное уплотнение,reviewed,seals,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,component
+oil strainer,сетчатый фильтр маслоприёмника,reviewed,lubrication,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,component
+plug weld,электрозаклёпочное сварное соединение,deprecated,ambiguous,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,ambiguous
+make a plug weld,выполнить электрозаклёпочную сварку,reviewed,body.repair,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,procedure
+position,установить в требуемое положение,reviewed,service.procedure,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,procedure
+positive crankcase ventilation valve,клапан принудительной вентиляции картера,reviewed,engine,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,component
+prime,предварительно заполнить рабочей жидкостью,reviewed,service.procedure,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,procedure
+refill,заправить повторно,reviewed,service.procedure,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,procedure
+ring gear,зубчатый венец,deprecated,ambiguous,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,ambiguous
+flywheel ring gear,зубчатый венец маховика,reviewed,engine,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,component
+planetary ring gear,коронная шестерня планетарного ряда,reviewed,transmission,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,component
+differential ring gear,ведомая шестерня главной передачи,reviewed,driveline,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,component
+rivet,заклёпка,deprecated,ambiguous,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,ambiguous
+install the rivet,установить заклёпку,reviewed,body.repair,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,procedure
+rotate,повернуть,reviewed,service.procedure,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,procedure
+sand,обработать шлифовальной бумагой,reviewed,service.procedure,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,procedure
+seal puller,съёмник манжетных уплотнений,reviewed,tools,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,tool
+selective catalytic reduction system,система селективной каталитической нейтрализации,reviewed,exhaust,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,system
+shaft seal,манжетное уплотнение вала,reviewed,seals,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,component
+snap ring,стопорное кольцо,reviewed,fasteners,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,component
+solder,припой,deprecated,ambiguous,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,ambiguous
+solder the lead,припаять вывод,reviewed,electrical.repair,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,procedure
+spot weld,точечное сварное соединение,deprecated,ambiguous,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,ambiguous
+make spot welds,выполнить точечную сварку,reviewed,body.repair,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,procedure
+steering rack,рулевой механизм реечного типа,reviewed,steering,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,component
+support,подпереть,reviewed,service.procedure,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,procedure
+transmission fluid,рабочая жидкость коробки передач,reviewed,transmission,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,material
+trim clip,фиксатор облицовки,reviewed,interior.trim,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,component
+valve stem,стержень клапана,deprecated,ambiguous,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,ambiguous
+engine valve stem,стержень клапана двигателя,reviewed,engine,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,component
+tire valve stem,вентиль шины,reviewed,wheels.tires,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,component
+vent,стравить воздух,reviewed,service.procedure,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,procedure
+wheel alignment,углы установки колёс,reviewed,suspension,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,procedure
