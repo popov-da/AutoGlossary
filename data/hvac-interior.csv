@@ -1,0 +1,120 @@
+source,target_preferred,status,category,source_id,confidence
+heating ventilation and air conditioning,система отопления вентиляции и кондиционирования,candidate,hvac,EDITORIAL_CORE_2026,high
+heater unit,блок отопителя,candidate,hvac,EDITORIAL_CORE_2026,high
+heater core,радиатор отопителя,candidate,hvac,EDITORIAL_CORE_2026,high
+blower motor,электродвигатель вентилятора отопителя,candidate,hvac,EDITORIAL_CORE_2026,high
+blower wheel,крыльчатка вентилятора отопителя,candidate,hvac,EDITORIAL_CORE_2026,high
+blower motor resistor,резистор электродвигателя вентилятора,candidate,hvac,EDITORIAL_CORE_2026,high
+blower control module,блок управления вентилятором,candidate,hvac,EDITORIAL_CORE_2026,high
+air inlet duct,воздухозаборный канал,candidate,hvac,EDITORIAL_CORE_2026,high
+air outlet duct,выпускной воздуховод,candidate,hvac,EDITORIAL_CORE_2026,high
+floor duct,напольный воздуховод,candidate,hvac,EDITORIAL_CORE_2026,high
+defroster duct,воздуховод обдува ветрового стекла,candidate,hvac,EDITORIAL_CORE_2026,high
+center vent,центральный дефлектор,candidate,hvac,EDITORIAL_CORE_2026,high
+side vent,боковой дефлектор,candidate,hvac,EDITORIAL_CORE_2026,high
+blend door,заслонка смешивания воздуха,candidate,hvac,EDITORIAL_CORE_2026,high
+mode door,заслонка распределения потоков воздуха,candidate,hvac,EDITORIAL_CORE_2026,high
+recirculation door,заслонка рециркуляции,candidate,hvac,EDITORIAL_CORE_2026,high
+air mix actuator,привод заслонки смешивания воздуха,candidate,hvac,EDITORIAL_CORE_2026,high
+mode door actuator,привод заслонки распределения потоков,candidate,hvac,EDITORIAL_CORE_2026,high
+recirculation actuator,привод заслонки рециркуляции,candidate,hvac,EDITORIAL_CORE_2026,high
+cabin air filter,салонный фильтр,candidate,hvac,EDITORIAL_CORE_2026,high
+filter housing,корпус фильтра,candidate,hvac,EDITORIAL_CORE_2026,high
+air conditioning compressor,компрессор кондиционера,candidate,hvac,EDITORIAL_CORE_2026,high
+compressor clutch,муфта компрессора кондиционера,candidate,hvac,EDITORIAL_CORE_2026,high
+compressor control valve,регулирующий клапан компрессора,candidate,hvac,EDITORIAL_CORE_2026,high
+condenser,конденсор,candidate,hvac,EDITORIAL_CORE_2026,high
+evaporator,испаритель,candidate,hvac,EDITORIAL_CORE_2026,high
+receiver drier,ресивер-осушитель,candidate,hvac,EDITORIAL_CORE_2026,high
+accumulator,аккумулятор хладагента,candidate,hvac,EDITORIAL_CORE_2026,medium
+expansion valve,терморегулирующий вентиль,candidate,hvac,EDITORIAL_CORE_2026,high
+orifice tube,дроссельная трубка,candidate,hvac,EDITORIAL_CORE_2026,high
+refrigerant line,трубопровод хладагента,candidate,hvac,EDITORIAL_CORE_2026,high
+high-pressure line,магистраль высокого давления,candidate,hvac,EDITORIAL_CORE_2026,high
+low-pressure line,магистраль низкого давления,candidate,hvac,EDITORIAL_CORE_2026,high
+service port,сервисный штуцер,candidate,hvac,EDITORIAL_CORE_2026,high
+refrigerant pressure sensor,датчик давления хладагента,candidate,hvac,EDITORIAL_CORE_2026,high
+evaporator temperature sensor,датчик температуры испарителя,candidate,hvac,EDITORIAL_CORE_2026,high
+ambient temperature sensor,датчик температуры наружного воздуха,candidate,hvac,EDITORIAL_CORE_2026,high
+in-vehicle temperature sensor,датчик температуры воздуха в салоне,candidate,hvac,EDITORIAL_CORE_2026,high
+sunload sensor,датчик солнечной радиации,candidate,hvac,EDITORIAL_CORE_2026,high
+humidity sensor,датчик влажности,candidate,hvac,EDITORIAL_CORE_2026,high
+automatic climate control,автоматический климат-контроль,candidate,hvac,EDITORIAL_CORE_2026,high
+dual-zone climate control,двухзонный климат-контроль,candidate,hvac,EDITORIAL_CORE_2026,high
+rear climate control,задняя климатическая установка,candidate,hvac,EDITORIAL_CORE_2026,high
+defrost mode,режим обдува ветрового стекла,candidate,hvac,EDITORIAL_CORE_2026,high
+defogging,устранение запотевания,candidate,hvac,EDITORIAL_CORE_2026,high
+refrigerant charge,заправочная масса хладагента,candidate,hvac,EDITORIAL_CORE_2026,high
+refrigerant recovery,откачка хладагента,candidate,hvac,EDITORIAL_CORE_2026,high
+system evacuation,вакуумирование системы,candidate,hvac,EDITORIAL_CORE_2026,high
+leak detection,поиск утечек,candidate,hvac,EDITORIAL_CORE_2026,high
+fluorescent dye,флуоресцентный краситель,candidate,hvac,EDITORIAL_CORE_2026,high
+check cooling performance,проверить эффективность охлаждения,candidate,service,EDITORIAL_CORE_2026,high
+recover the refrigerant,откачать хладагент,candidate,service,EDITORIAL_CORE_2026,high
+evacuate the system,вакуумировать систему,candidate,service,EDITORIAL_CORE_2026,high
+charge the specified amount of refrigerant,заправить установленное количество хладагента,candidate,service,EDITORIAL_CORE_2026,high
+instrument panel,панель приборов,candidate,interior,EDITORIAL_CORE_2026,high
+instrument cluster,комбинация приборов,candidate,interior,EDITORIAL_CORE_2026,high
+center console,центральная консоль,candidate,interior,EDITORIAL_CORE_2026,high
+console side panel,боковая панель консоли,candidate,interior,EDITORIAL_CORE_2026,high
+glove compartment,вещевой ящик,candidate,interior,EDITORIAL_CORE_2026,high
+glove compartment damper,демпфер вещевого ящика,candidate,interior,EDITORIAL_CORE_2026,high
+instrument panel reinforcement,усилитель панели приборов,candidate,interior,EDITORIAL_CORE_2026,high
+instrument panel garnish,декоративная накладка панели приборов,candidate,interior,EDITORIAL_CORE_2026,high
+steering column cover,кожух рулевой колонки,candidate,interior,EDITORIAL_CORE_2026,high
+center finish panel,центральная декоративная панель,candidate,interior,EDITORIAL_CORE_2026,medium
+door trim panel,обивка двери,candidate,interior,EDITORIAL_CORE_2026,high
+door pull handle,ручка закрывания двери,candidate,interior,EDITORIAL_CORE_2026,high
+inside door handle,внутренняя ручка двери,candidate,interior,EDITORIAL_CORE_2026,high
+armrest,подлокотник,candidate,interior,EDITORIAL_CORE_2026,high
+window switch panel,панель переключателей стеклоподъёмников,candidate,interior,EDITORIAL_CORE_2026,high
+speaker grille,решётка динамика,candidate,interior,EDITORIAL_CORE_2026,high
+front seat,переднее сиденье,candidate,interior,EDITORIAL_CORE_2026,high
+rear seat,заднее сиденье,candidate,interior,EDITORIAL_CORE_2026,high
+seat cushion,подушка сиденья,candidate,interior,EDITORIAL_CORE_2026,high
+seatback,спинка сиденья,candidate,interior,EDITORIAL_CORE_2026,high
+seat cushion frame,каркас подушки сиденья,candidate,interior,EDITORIAL_CORE_2026,high
+seatback frame,каркас спинки сиденья,candidate,interior,EDITORIAL_CORE_2026,high
+seat track,салазки сиденья,candidate,interior,EDITORIAL_CORE_2026,high
+seat adjuster,механизм регулировки сиденья,candidate,interior,EDITORIAL_CORE_2026,high
+seat height adjuster,механизм регулировки высоты сиденья,candidate,interior,EDITORIAL_CORE_2026,high
+seat recliner,механизм регулировки наклона спинки,candidate,interior,EDITORIAL_CORE_2026,high
+lumbar support,поясничная опора,candidate,interior,EDITORIAL_CORE_2026,high
+head restraint,подголовник,candidate,interior,EDITORIAL_CORE_2026,high
+seat heater,обогреватель сиденья,candidate,interior,EDITORIAL_CORE_2026,high
+seat ventilation fan,вентилятор вентиляции сиденья,candidate,interior,EDITORIAL_CORE_2026,high
+occupant detection sensor,датчик присутствия пассажира,candidate,interior,EDITORIAL_CORE_2026,high
+seat position sensor,датчик положения сиденья,candidate,interior,EDITORIAL_CORE_2026,high
+seat belt,ремень безопасности,candidate,restraint,EDITORIAL_CORE_2026,high
+seat belt buckle,замок ремня безопасности,candidate,restraint,EDITORIAL_CORE_2026,high
+seat belt retractor,втягивающее устройство ремня безопасности,candidate,restraint,EDITORIAL_CORE_2026,high
+seat belt pretensioner,преднатяжитель ремня безопасности,candidate,restraint,EDITORIAL_CORE_2026,high
+seat belt anchor,крепление ремня безопасности,candidate,restraint,EDITORIAL_CORE_2026,high
+upper anchor,верхнее крепление ремня,candidate,restraint,EDITORIAL_CORE_2026,high
+lower anchor,нижнее крепление ремня,candidate,restraint,EDITORIAL_CORE_2026,high
+headliner,обивка потолка,candidate,interior,EDITORIAL_CORE_2026,high
+sun visor,солнцезащитный козырёк,candidate,interior,EDITORIAL_CORE_2026,high
+assist grip,поручень,candidate,interior,EDITORIAL_CORE_2026,high
+overhead console,потолочная консоль,candidate,interior,EDITORIAL_CORE_2026,high
+map lamp,лампа местного освещения,candidate,interior,EDITORIAL_CORE_2026,high
+room lamp,плафон освещения салона,candidate,interior,EDITORIAL_CORE_2026,high
+A-pillar trim,облицовка передней стойки,candidate,interior,EDITORIAL_CORE_2026,high
+B-pillar trim,облицовка средней стойки,candidate,interior,EDITORIAL_CORE_2026,high
+C-pillar trim,облицовка задней стойки,candidate,interior,EDITORIAL_CORE_2026,high
+scuff plate,накладка порога,candidate,interior,EDITORIAL_CORE_2026,high
+kick panel,боковая панель пространства для ног,candidate,interior,EDITORIAL_CORE_2026,medium
+carpet,ковровое покрытие пола,candidate,interior,EDITORIAL_CORE_2026,high
+floor mat,коврик пола,candidate,interior,EDITORIAL_CORE_2026,high
+luggage compartment trim,облицовка багажного отделения,candidate,interior,EDITORIAL_CORE_2026,high
+luggage floor panel,панель пола багажного отделения,candidate,interior,EDITORIAL_CORE_2026,high
+parcel shelf,полка багажного отделения,candidate,interior,EDITORIAL_CORE_2026,high
+sound insulation pad,шумоизоляционная накладка,candidate,interior,EDITORIAL_CORE_2026,high
+foam insulator,пеноматериал шумоизоляции,candidate,interior,EDITORIAL_CORE_2026,medium
+trim clip,клипса облицовки,candidate,interior,EDITORIAL_CORE_2026,high
+retaining tab,фиксирующий язычок,candidate,interior,EDITORIAL_CORE_2026,high
+locating pin,направляющий штифт,candidate,interior,EDITORIAL_CORE_2026,high
+remove the trim panel,снять панель облицовки,candidate,service,EDITORIAL_CORE_2026,high
+release the retaining tabs,освободить фиксирующие язычки,candidate,service,EDITORIAL_CORE_2026,high
+do not damage the clips,не повредить клипсы,candidate,service,EDITORIAL_CORE_2026,high
+replace damaged clips,заменить повреждённые клипсы,candidate,service,EDITORIAL_CORE_2026,high
+install in the reverse order of removal,установить в последовательности обратной снятию,candidate,service,EDITORIAL_CORE_2026,high
