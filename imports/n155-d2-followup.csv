@@ -1,0 +1,24 @@
+source,target_preferred,status,category,source_id,confidence,source_document,term_type
+voltage lower limit,нижний предел напряжения,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.1.1 维修数据-N155-D2.dita,parameter
+voltage upper limit,верхний предел напряжения,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.1.1 维修数据-N155-D2.dita,parameter
+test voltage,испытательное напряжение,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.1.1 维修数据-N155-D2.dita,parameter
+horn switch,выключатель звукового сигнала,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.3.2 系统-N155-D2.dita,component
+horn relay,реле звукового сигнала,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.3.2 系统-N155-D2.dita,component
+body gateway module,шлюзовой модуль кузовной электроники,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.3.2 系统-N155-D2.dita,module
+anti-theft function,функция противоугонной системы,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.3.2 系统-N155-D2.dita,function
+vehicle search function,функция поиска автомобиля,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.3.2 系统-N155-D2.dita,function
+horn warning signal,предупредительный звуковой сигнал,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.3.2 系统-N155-D2.dita,function
+horn circuit,цепь звукового сигнала,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.3.3 零部件信息-N155-D2.dita,circuit
+audible warning,звуковое предупреждение,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.3.3 零部件信息-N155-D2.dita,function
+abnormal door opening,несанкционированное открывание двери,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.3.3 零部件信息-N155-D2.dita,condition
+horn tweeter,высокочастотный звуковой сигнал,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.1.1 维修数据-N155-D2.dita,component
+horn woofer,низкочастотный звуковой сигнал,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.1.1 维修数据-N155-D2.dita,component
+front compartment harness assembly,жгут проводов моторного отсека в сборе,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.4.2 喇叭(高音)的更换-N155-D2.dita,assembly
+radiator frame,рамка радиатора,candidate,body.front,N155_D2_CORPUS,high,11.12.4.2 喇叭(高音)的更换-N155-D2.dita,component
+rear wheel brow trim panel,облицовка арки заднего колеса,candidate,body.exterior,N155_D2_CORPUS,high,d5f4bc5d-a8c4-4b60-8123-023b34f35ad5.dita,component
+rear bumper harness,жгут проводов заднего бампера,candidate,electrical.keyless,N155_D2_CORPUS,high,d5f4bc5d-a8c4-4b60-8123-023b34f35ad5.dita,component
+rear bumper lower body,нижняя часть заднего бампера,candidate,body.exterior,N155_D2_CORPUS,medium,d5f4bc5d-a8c4-4b60-8123-023b34f35ad5.dita,component
+lifting and jacking of vehicles,подъём автомобиля подъёмником и домкратом,candidate,service.procedure,N155_D2_CORPUS,high,d5f4bc5d-a8c4-4b60-8123-023b34f35ad5.dita,procedure
+left and right removal methods are similar,порядок снятия с левой и правой сторон одинаков,candidate,service.procedure,N155_D2_CORPUS,high,11.12.4.2 喇叭(高音)的更换-N155-D2.dita,procedure
+move the horn to the installation position,установить звуковой сигнал в монтажное положение,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.4.2 喇叭(高音)的更换-N155-D2.dita,procedure
+connect the horn harness connector,подсоединить разъём жгута проводов звукового сигнала,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.4.2 喇叭(高音)的更换-N155-D2.dita,procedure
