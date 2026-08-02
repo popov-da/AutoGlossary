@@ -120,9 +120,6 @@ def validate_csv(path: Path, kind: str) -> list[str]:
             if status not in allowed_statuses:
                 errors.append(f"line {line}: invalid status {status!r}")
 
-            # Domain files may intentionally contain homonyms or contextual variants.
-            # Uniqueness by casefold is required only in the generated master and
-            # consumer exports.
             if kind in {"master", "consumer"}:
                 normalized = source.casefold()
                 if normalized in seen:
@@ -139,9 +136,8 @@ def validate_csv(path: Path, kind: str) -> list[str]:
                 if kind == "master" and not confidence:
                     errors.append(f"line {line}: empty confidence")
 
-            if kind == "master" and ".dita" in clean(
-                row.get("source_document", "")
-            ).casefold():
+            source_document = clean(row.get("source_document", ""))
+            if source_document and ".dita" in source_document.casefold():
                 errors.append(
                     f"line {line}: private DITA filename leaked into source_document"
                 )
