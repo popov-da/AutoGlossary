@@ -1,0 +1,139 @@
+source,target_preferred,status,category,source_id,confidence
+electric shock,поражение электрическим током,candidate,safety,N165_D2_CORPUS,high
+electrical equipment,электрооборудование,candidate,safety,N165_D2_CORPUS,high
+faulty equipment,неисправное оборудование,candidate,safety,N165_D2_CORPUS,high
+working area,рабочая зона,candidate,safety,N165_D2_CORPUS,high
+mobile electrical equipment,переносное электрооборудование,candidate,safety,N165_D2_CORPUS,high
+dry insulating material,сухой изоляционный материал,candidate,safety,N165_D2_CORPUS,high
+turn off the power supply,отключить питание,candidate,safety,N165_D2_CORPUS,high
+request medical assistance,вызвать медицинскую помощь,candidate,safety,N165_D2_CORPUS,high
+waste gas,отработавшие газы,candidate,safety,N165_D2_CORPUS,medium
+exhaust ventilation equipment,оборудование вытяжной вентиляции,candidate,safety,N165_D2_CORPUS,high
+general ventilation equipment,общеобменная вентиляция,candidate,safety,N165_D2_CORPUS,high
+open space,открытое пространство,candidate,safety,N165_D2_CORPUS,high
+carbon monoxide,оксид углерода,candidate,safety,N165_D2_CORPUS,high
+nitrogen oxide,оксиды азота,candidate,safety,N165_D2_CORPUS,high
+aromatic hydrocarbons,ароматические углеводороды,candidate,safety,N165_D2_CORPUS,high
+fibrous material,волокнистый материал,candidate,safety,N165_D2_CORPUS,high
+sharp edge,острая кромка,candidate,safety,N165_D2_CORPUS,high
+skin irritation,раздражение кожи,candidate,safety,N165_D2_CORPUS,high
+skin allergy,аллергическая реакция кожи,candidate,safety,N165_D2_CORPUS,high
+avoid excessive skin contact,избегать длительного контакта с кожей,candidate,safety,N165_D2_CORPUS,high
+fire hazard,пожароопасность,candidate,safety,N165_D2_CORPUS,high
+highly flammable material,легковоспламеняющийся материал,candidate,safety,N165_D2_CORPUS,high
+flammable solvent,легковоспламеняющийся растворитель,candidate,safety,N165_D2_CORPUS,high
+fire safety requirements,требования пожарной безопасности,candidate,safety,N165_D2_CORPUS,high
+suitable fire extinguisher,подходящий огнетушитель,candidate,safety,N165_D2_CORPUS,high
+welding operation,сварочная операция,candidate,safety,N165_D2_CORPUS,high
+heating equipment,нагревательное оборудование,candidate,safety,N165_D2_CORPUS,high
+first aid,первая помощь,candidate,safety,N165_D2_CORPUS,high
+eyewash equipment,устройство для промывания глаз,candidate,safety,N165_D2_CORPUS,high
+rinse with water,промыть водой,candidate,safety,N165_D2_CORPUS,high
+contaminated area,загрязнённый участок,candidate,safety,N165_D2_CORPUS,high
+fresh air area,зона с чистым воздухом,candidate,safety,N165_D2_CORPUS,high
+seek medical attention,обратиться за медицинской помощью,candidate,safety,N165_D2_CORPUS,high
+do not induce vomiting,не вызывать рвоту,candidate,safety,N165_D2_CORPUS,high
+cured foam,отверждённая пена,candidate,materials,N165_D2_CORPUS,high
+uncured foam,неотверждённая пена,candidate,materials,N165_D2_CORPUS,high
+foam pad,пенополиуретановая прокладка,candidate,materials,N165_D2_CORPUS,medium
+vapor and spray,пары и аэрозоль,candidate,safety,N165_D2_CORPUS,high
+respiratory protection,средства защиты органов дыхания,candidate,safety,N165_D2_CORPUS,high
+well-ventilated area,хорошо проветриваемая зона,candidate,safety,N165_D2_CORPUS,high
+open flame,открытое пламя,candidate,safety,N165_D2_CORPUS,high
+thermal cutting,термическая резка,candidate,service,N165_D2_CORPUS,high
+fuel vapor,пары топлива,candidate,safety,N165_D2_CORPUS,high
+gasoline vapor concentration,концентрация паров бензина,candidate,safety,N165_D2_CORPUS,high
+confined space,замкнутое пространство,candidate,safety,N165_D2_CORPUS,high
+fuel storage equipment,оборудование для хранения топлива,candidate,safety,N165_D2_CORPUS,high
+do not use gasoline as a cleaning agent,не использовать бензин в качестве очистителя,candidate,safety,N165_D2_CORPUS,high
+mineral oil,минеральное масло,candidate,materials,N165_D2_CORPUS,high
+lubricating grease,консистентная смазка,candidate,materials,N165_D2_CORPUS,high
+used engine oil,отработанное моторное масло,candidate,materials,N165_D2_CORPUS,high
+protective clothing,защитная одежда,candidate,safety,N165_D2_CORPUS,high
+impermeable gloves,непроницаемые перчатки,candidate,safety,N165_D2_CORPUS,high
+protective cream,защитный крем,candidate,safety,N165_D2_CORPUS,high
+wiping cloth,обтирочная ветошь,candidate,tools,N165_D2_CORPUS,high
+used oil filter,отработанный масляный фильтр,candidate,materials,N165_D2_CORPUS,high
+licensed waste processor,лицензированная организация по обращению с отходами,candidate,environment,N165_D2_CORPUS,high
+workshop tools and equipment,инструменты и оборудование мастерской,candidate,tools,N165_D2_CORPUS,high
+working condition,исправное состояние,candidate,tools,N165_D2_CORPUS,high
+maximum load,максимально допустимая нагрузка,candidate,tools,N165_D2_CORPUS,high
+overload damage,повреждение вследствие перегрузки,candidate,tools,N165_D2_CORPUS,high
+grinding wheel,шлифовальный круг,candidate,tools,N165_D2_CORPUS,high
+sandblasting equipment,пескоструйное оборудование,candidate,tools,N165_D2_CORPUS,high
+eye protection equipment,средства защиты глаз,candidate,safety,N165_D2_CORPUS,high
+hearing protection equipment,средства защиты органов слуха,candidate,safety,N165_D2_CORPUS,high
+high-decibel noise,шум высокого уровня,candidate,safety,N165_D2_CORPUS,high
+idle speed inspection,проверка частоты вращения холостого хода,candidate,maintenance,N165_D2_CORPUS,high
+ambient temperature,температура окружающего воздуха,candidate,maintenance,N165_D2_CORPUS,high
+mechanical fault,механическая неисправность,candidate,diagnostics,N165_D2_CORPUS,high
+electrical fault,электрическая неисправность,candidate,diagnostics,N165_D2_CORPUS,high
+battery voltage,напряжение аккумуляторной батареи,candidate,electrical,N165_D2_CORPUS,high
+engine coolant temperature,температура охлаждающей жидкости двигателя,candidate,cooling,N165_D2_CORPUS,high
+flat surface,ровная горизонтальная площадка,candidate,maintenance,N165_D2_CORPUS,high
+engine no-load condition,работа двигателя без нагрузки,candidate,maintenance,N165_D2_CORPUS,high
+high-power electrical loads,мощные электрические потребители,candidate,electrical,N165_D2_CORPUS,high
+engine speed remains stable,частота вращения двигателя остаётся стабильной,candidate,diagnostics,N165_D2_CORPUS,high
+engine oil level check,проверка уровня моторного масла,candidate,maintenance,N165_D2_CORPUS,high
+diagnostic tool,диагностический прибор,candidate,diagnostics,N165_D2_CORPUS,high
+instrument cluster,комбинация приборов,candidate,electrical,N165_D2_CORPUS,high
+coolant level check,проверка уровня охлаждающей жидкости,candidate,maintenance,N165_D2_CORPUS,high
+cold engine,холодный двигатель,candidate,maintenance,N165_D2_CORPUS,high
+engine switched off,двигатель выключен,candidate,maintenance,N165_D2_CORPUS,high
+standard mark,контрольная метка,candidate,maintenance,N165_D2_CORPUS,medium
+oil leak check,проверка на утечки моторного масла,candidate,maintenance,N165_D2_CORPUS,high
+cylinder head cover,крышка головки блока цилиндров,candidate,engine,N165_D2_CORPUS,high
+oil inlet pipe,маслоподводящая трубка,candidate,lubrication,N165_D2_CORPUS,high
+oil return pipe,маслоотводящая трубка,candidate,lubrication,N165_D2_CORPUS,high
+cylinder head-to-block joint,стык головки блока цилиндров с блоком цилиндров,candidate,engine,N165_D2_CORPUS,high
+timing cover,крышка привода газораспределительного механизма,candidate,engine,N165_D2_CORPUS,high
+front crankshaft oil seal,передний сальник коленчатого вала,candidate,engine,N165_D2_CORPUS,high
+rear crankshaft oil seal,задний сальник коленчатого вала,candidate,engine,N165_D2_CORPUS,high
+fuel leak check,проверка на утечки топлива,candidate,maintenance,N165_D2_CORPUS,high
+fuel leakage trace,следы утечки топлива,candidate,diagnostics,N165_D2_CORPUS,high
+fuel rail injector subassembly,топливная рампа с форсунками в сборе,candidate,fuel,N165_D2_CORPUS,medium
+high-pressure fuel pump,топливный насос высокого давления,candidate,fuel,N165_D2_CORPUS,high
+fuel pipe joint,соединение топливопровода,candidate,fuel,N165_D2_CORPUS,high
+fuel supply pipe,топливоподающий трубопровод,candidate,fuel,N165_D2_CORPUS,high
+fuel supply line,магистраль подачи топлива,candidate,fuel,N165_D2_CORPUS,high
+fuel tank body,корпус топливного бака,candidate,fuel,N165_D2_CORPUS,high
+coolant leak check,проверка на утечки охлаждающей жидкости,candidate,maintenance,N165_D2_CORPUS,high
+coolant pipe,трубопровод охлаждающей жидкости,candidate,cooling,N165_D2_CORPUS,high
+radiator inlet hose,впускной шланг радиатора,candidate,cooling,N165_D2_CORPUS,high
+radiator outlet hose,выпускной шланг радиатора,candidate,cooling,N165_D2_CORPUS,high
+coolant refill hose,шланг заправки охлаждающей жидкости,candidate,cooling,N165_D2_CORPUS,medium
+coolant vent pipe,воздухоотводящая трубка системы охлаждения,candidate,cooling,N165_D2_CORPUS,high
+heater hose,шланг отопителя,candidate,cooling,N165_D2_CORPUS,high
+air-conditioning drain pipe,дренажная трубка кондиционера,candidate,hvac,N165_D2_CORPUS,high
+interior floor carpet,напольное ковровое покрытие салона,candidate,interior,N165_D2_CORPUS,high
+cooling module inspection,проверка модуля охлаждения,candidate,maintenance,N165_D2_CORPUS,high
+cooling module,модуль охлаждения,candidate,cooling,N165_D2_CORPUS,high
+installation condition,состояние установки,candidate,maintenance,N165_D2_CORPUS,high
+looseness or instability,ослабление крепления или неустойчивость,candidate,diagnostics,N165_D2_CORPUS,medium
+obstruction,посторонний предмет,candidate,diagnostics,N165_D2_CORPUS,medium
+heat dissipation opening,проход для отвода тепла,candidate,cooling,N165_D2_CORPUS,medium
+cooling fin,охлаждающая пластина,candidate,cooling,N165_D2_CORPUS,medium
+cooling module cleaning,очистка модуля охлаждения,candidate,maintenance,N165_D2_CORPUS,high
+air gun,пневматический продувочный пистолет,candidate,tools,N165_D2_CORPUS,high
+blow from back to front,продувать сзади вперёд,candidate,service,N165_D2_CORPUS,high
+adjust the air pressure,отрегулировать давление воздуха,candidate,service,N165_D2_CORPUS,high
+prevent fin damage,не допускать повреждения пластин,candidate,service,N165_D2_CORPUS,high
+vehicle length,длина автомобиля,candidate,dimensions,N165_D2_CORPUS,high
+vehicle width,ширина автомобиля,candidate,dimensions,N165_D2_CORPUS,high
+vehicle height,высота автомобиля,candidate,dimensions,N165_D2_CORPUS,high
+front track width,колея передних колёс,candidate,dimensions,N165_D2_CORPUS,high
+rear track width,колея задних колёс,candidate,dimensions,N165_D2_CORPUS,high
+wheelbase,колёсная база,candidate,dimensions,N165_D2_CORPUS,high
+ground clearance,дорожный просвет,candidate,dimensions,N165_D2_CORPUS,high
+engine bottom shield,нижняя защита двигателя,candidate,body,N165_D2_CORPUS,high
+open the engine compartment cover,открыть капот,candidate,service,N165_D2_CORPUS,high
+lift and support the vehicle,поднять и надёжно установить автомобиль на опоры,candidate,service,N165_D2_CORPUS,high
+check for leakage,проверить на наличие утечек,candidate,service,N165_D2_CORPUS,high
+check for deformation or corrosion,проверить на наличие деформации или коррозии,candidate,service,N165_D2_CORPUS,high
+park the vehicle on level ground,установить автомобиль на ровной горизонтальной площадке,candidate,service,N165_D2_CORPUS,high
+engage the parking brake,включить стояночный тормоз,candidate,service,N165_D2_CORPUS,high
+maintain engine speed,поддерживать заданную частоту вращения двигателя,candidate,service,N165_D2_CORPUS,high
+maximum airflow,максимальная подача воздуха,candidate,hvac,N165_D2_CORPUS,high
+highest temperature setting,максимальная заданная температура,candidate,hvac,N165_D2_CORPUS,high
+cooling fan speed,частота вращения вентилятора системы охлаждения,candidate,cooling,N165_D2_CORPUS,high
+thermostat opening and closing,открытие и закрытие термостата,candidate,cooling,N165_D2_CORPUS,high
