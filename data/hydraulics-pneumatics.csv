@@ -1,0 +1,83 @@
+source,target_preferred,status,category,source_id,confidence
+hydraulic system,гидравлическая система,candidate,hydraulics,EDITORIAL_CORE_2026,high
+pneumatic system,пневматическая система,candidate,pneumatics,EDITORIAL_CORE_2026,high
+hydraulic circuit,гидравлический контур,candidate,hydraulics,EDITORIAL_CORE_2026,high
+pneumatic circuit,пневматический контур,candidate,pneumatics,EDITORIAL_CORE_2026,high
+hydraulic pump,гидравлический насос,candidate,hydraulics,EDITORIAL_CORE_2026,high
+gear pump,шестерённый насос,candidate,hydraulics,EDITORIAL_CORE_2026,high
+vane pump,пластинчатый насос,candidate,hydraulics,EDITORIAL_CORE_2026,high
+piston pump,поршневой насос,candidate,hydraulics,EDITORIAL_CORE_2026,high
+hydraulic motor,гидромотор,candidate,hydraulics,EDITORIAL_CORE_2026,high
+hydraulic cylinder,гидроцилиндр,candidate,hydraulics,EDITORIAL_CORE_2026,high
+single-acting cylinder,гидроцилиндр одностороннего действия,candidate,hydraulics,EDITORIAL_CORE_2026,high
+double-acting cylinder,гидроцилиндр двустороннего действия,candidate,hydraulics,EDITORIAL_CORE_2026,high
+cylinder rod,шток гидроцилиндра,candidate,hydraulics,EDITORIAL_CORE_2026,high
+cylinder barrel,гильза гидроцилиндра,candidate,hydraulics,EDITORIAL_CORE_2026,medium
+rod seal,уплотнение штока,candidate,hydraulics,EDITORIAL_CORE_2026,high
+piston seal,уплотнение поршня,candidate,hydraulics,EDITORIAL_CORE_2026,high
+wiper seal,грязесъёмное уплотнение,candidate,hydraulics,EDITORIAL_CORE_2026,high
+hydraulic reservoir,гидравлический бак,candidate,hydraulics,EDITORIAL_CORE_2026,high
+fluid reservoir,бачок рабочей жидкости,candidate,hydraulics,EDITORIAL_CORE_2026,high
+hydraulic fluid,гидравлическая жидкость,candidate,hydraulics,EDITORIAL_CORE_2026,high
+return line,сливная магистраль,candidate,hydraulics,EDITORIAL_CORE_2026,high
+pressure line,напорная магистраль,candidate,hydraulics,EDITORIAL_CORE_2026,high
+suction line,всасывающая магистраль,candidate,hydraulics,EDITORIAL_CORE_2026,high
+drain line,дренажная магистраль,candidate,hydraulics,EDITORIAL_CORE_2026,high
+pilot line,линия управления,candidate,hydraulics,EDITORIAL_CORE_2026,medium
+flexible hose,гибкий шланг,candidate,hydraulics,EDITORIAL_CORE_2026,high
+rigid pipe,жёсткая трубка,candidate,hydraulics,EDITORIAL_CORE_2026,high
+banjo fitting,штуцер типа банджо,candidate,hydraulics,EDITORIAL_CORE_2026,medium
+union fitting,соединительный штуцер,candidate,hydraulics,EDITORIAL_CORE_2026,high
+quick-release coupling,быстроразъёмная муфта,candidate,hydraulics,EDITORIAL_CORE_2026,high
+pressure relief valve,предохранительный клапан,candidate,hydraulics,EDITORIAL_CORE_2026,high
+pressure reducing valve,редукционный клапан,candidate,hydraulics,EDITORIAL_CORE_2026,high
+check valve,обратный клапан,candidate,hydraulics,EDITORIAL_CORE_2026,high
+shut-off valve,запорный клапан,candidate,hydraulics,EDITORIAL_CORE_2026,high
+flow control valve,регулятор расхода,candidate,hydraulics,EDITORIAL_CORE_2026,high
+directional control valve,распределительный клапан,candidate,hydraulics,EDITORIAL_CORE_2026,high
+solenoid valve,электромагнитный клапан,candidate,hydraulics,EDITORIAL_CORE_2026,high
+proportional valve,пропорциональный клапан,candidate,hydraulics,EDITORIAL_CORE_2026,high
+spool valve,золотниковый клапан,candidate,hydraulics,EDITORIAL_CORE_2026,high
+valve spool,золотник клапана,candidate,hydraulics,EDITORIAL_CORE_2026,high
+accumulator,гидроаккумулятор,candidate,hydraulics,EDITORIAL_CORE_2026,medium
+diaphragm accumulator,мембранный гидроаккумулятор,candidate,hydraulics,EDITORIAL_CORE_2026,high
+bladder accumulator,баллонный гидроаккумулятор,candidate,hydraulics,EDITORIAL_CORE_2026,high
+hydraulic filter,гидравлический фильтр,candidate,hydraulics,EDITORIAL_CORE_2026,high
+filter element,фильтрующий элемент,candidate,hydraulics,EDITORIAL_CORE_2026,high
+filter bypass valve,перепускной клапан фильтра,candidate,hydraulics,EDITORIAL_CORE_2026,high
+pressure sensor,датчик давления,candidate,hydraulics,EDITORIAL_CORE_2026,high
+pressure switch,реле давления,candidate,hydraulics,EDITORIAL_CORE_2026,high
+flow sensor,датчик расхода,candidate,hydraulics,EDITORIAL_CORE_2026,high
+pressure gauge,манометр,candidate,hydraulics,EDITORIAL_CORE_2026,high
+system pressure,давление в системе,candidate,hydraulics,EDITORIAL_CORE_2026,high
+operating pressure,рабочее давление,candidate,hydraulics,EDITORIAL_CORE_2026,high
+residual pressure,остаточное давление,candidate,hydraulics,EDITORIAL_CORE_2026,high
+pressure drop,падение давления,candidate,hydraulics,EDITORIAL_CORE_2026,high
+flow rate,расход рабочей жидкости,candidate,hydraulics,EDITORIAL_CORE_2026,high
+internal leakage,внутренняя утечка,candidate,hydraulics,EDITORIAL_CORE_2026,high
+external leakage,наружная утечка,candidate,hydraulics,EDITORIAL_CORE_2026,high
+fluid aeration,аэрация рабочей жидкости,candidate,hydraulics,EDITORIAL_CORE_2026,medium
+cavitation,кавитация,candidate,hydraulics,EDITORIAL_CORE_2026,high
+pressure pulsation,пульсация давления,candidate,hydraulics,EDITORIAL_CORE_2026,high
+bleed screw,винт для удаления воздуха,candidate,hydraulics,EDITORIAL_CORE_2026,high
+bleed the hydraulic system,удалить воздух из гидравлической системы,candidate,hydraulics,EDITORIAL_CORE_2026,high
+depressurize the system,сбросить давление в системе,candidate,hydraulics,EDITORIAL_CORE_2026,high
+fill with hydraulic fluid,заполнить гидравлической жидкостью,candidate,hydraulics,EDITORIAL_CORE_2026,high
+check the fluid level,проверить уровень рабочей жидкости,candidate,hydraulics,EDITORIAL_CORE_2026,high
+check for leaks,проверить на наличие утечек,candidate,hydraulics,EDITORIAL_CORE_2026,high
+inspect the hose for cracks,проверить шланг на наличие трещин,candidate,hydraulics,EDITORIAL_CORE_2026,high
+replace the sealing washer,заменить уплотнительную шайбу,candidate,hydraulics,EDITORIAL_CORE_2026,high
+compressed air,сжатый воздух,candidate,pneumatics,EDITORIAL_CORE_2026,high
+air compressor,воздушный компрессор,candidate,pneumatics,EDITORIAL_CORE_2026,high
+air dryer,осушитель воздуха,candidate,pneumatics,EDITORIAL_CORE_2026,high
+air reservoir,воздушный ресивер,candidate,pneumatics,EDITORIAL_CORE_2026,high
+pressure regulator,регулятор давления,candidate,pneumatics,EDITORIAL_CORE_2026,high
+pneumatic actuator,пневматический привод,candidate,pneumatics,EDITORIAL_CORE_2026,high
+air spring,пневматическая рессора,candidate,pneumatics,EDITORIAL_CORE_2026,high
+air suspension,пневматическая подвеска,candidate,pneumatics,EDITORIAL_CORE_2026,high
+height control valve,клапан регулирования высоты кузова,candidate,pneumatics,EDITORIAL_CORE_2026,medium
+pneumatic control valve,пневматический управляющий клапан,candidate,pneumatics,EDITORIAL_CORE_2026,high
+air line,пневматическая магистраль,candidate,pneumatics,EDITORIAL_CORE_2026,high
+air leak,утечка воздуха,candidate,pneumatics,EDITORIAL_CORE_2026,high
+pressure build-up time,время нарастания давления,candidate,pneumatics,EDITORIAL_CORE_2026,high
+vent the system,стравить давление из системы,candidate,pneumatics,EDITORIAL_CORE_2026,high
