@@ -1334,7 +1334,7 @@ installation condition,состояние установки,candidate,maintenan
 oil leak check,проверка на утечки моторного масла,candidate,maintenance,N165_D2_CORPUS,high,N165_CORPUS,term,
 standard mark,контрольная метка,candidate,maintenance,N165_D2_CORPUS,medium,N165_CORPUS,term,
 Adjustment,Регулировка,approved,manual.heading,VOLGA_PILOT,high,VOLGA_PILOT,heading,
-Contents,Содержание,approved,manual.heading,VOLGA_PILOT,high,VOLGA_PILOT,heading,
+Contents,Содержание,candidate,manual.heading,VOLGA_PILOT,medium,VOLGA_PILOT,heading,
 Description and operation,Описание и работа,approved,manual.heading,VOLGA_PILOT,high,VOLGA_PILOT,heading,
 Disassembly and assembly,Разборка и сборка,approved,manual.heading,VOLGA_PILOT,high,VOLGA_PILOT,heading,
 General information,Общие сведения,approved,manual.heading,VOLGA_PILOT,high,VOLGA_PILOT,heading,
