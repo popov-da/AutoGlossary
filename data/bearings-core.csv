@@ -1,0 +1,27 @@
+source,target_preferred,status,category,source_id,confidence
+rolling bearing,подшипник качения,candidate,bearings,EDITORIAL_CORE_2026,high
+plain bearing,подшипник скольжения,candidate,bearings,EDITORIAL_CORE_2026,high
+ball bearing,шариковый подшипник,candidate,bearings,EDITORIAL_CORE_2026,high
+roller bearing,роликовый подшипник,candidate,bearings,EDITORIAL_CORE_2026,high
+tapered roller bearing,конический роликовый подшипник,candidate,bearings,EDITORIAL_CORE_2026,high
+needle roller bearing,игольчатый подшипник,candidate,bearings,EDITORIAL_CORE_2026,high
+thrust bearing,упорный подшипник,candidate,bearings,EDITORIAL_CORE_2026,high
+angular contact bearing,радиально-упорный подшипник,candidate,bearings,EDITORIAL_CORE_2026,high
+bearing inner race,внутреннее кольцо подшипника,candidate,bearings,EDITORIAL_CORE_2026,high
+bearing outer race,наружное кольцо подшипника,candidate,bearings,EDITORIAL_CORE_2026,high
+bearing cage,сепаратор подшипника,candidate,bearings,EDITORIAL_CORE_2026,high
+bearing seat,посадочное место подшипника,candidate,bearings,EDITORIAL_CORE_2026,high
+bearing clearance,зазор в подшипнике,candidate,bearings,EDITORIAL_CORE_2026,high
+bearing preload,предварительный натяг подшипника,candidate,bearings,EDITORIAL_CORE_2026,high
+bearing end play,осевой люфт подшипника,candidate,bearings,EDITORIAL_CORE_2026,high
+bearing seizure,заклинивание подшипника,candidate,bearings,EDITORIAL_CORE_2026,high
+bearing puller,съёмник подшипника,candidate,tools,EDITORIAL_CORE_2026,high
+bearing driver,оправка для установки подшипника,candidate,tools,EDITORIAL_CORE_2026,high
+press-fit,посадка с натягом,candidate,assembly,EDITORIAL_CORE_2026,high
+clearance fit,посадка с зазором,candidate,assembly,EDITORIAL_CORE_2026,high
+press in,запрессовать,candidate,assembly,EDITORIAL_CORE_2026,high
+press out,выпрессовать,candidate,assembly,EDITORIAL_CORE_2026,high
+install squarely,установить без перекоса,candidate,assembly,EDITORIAL_CORE_2026,high
+install flush,установить заподлицо,candidate,assembly,EDITORIAL_CORE_2026,high
+check bearing rotation,проверить вращение подшипника,candidate,inspection,EDITORIAL_CORE_2026,high
+check for excessive play,проверить на наличие чрезмерного люфта,candidate,inspection,EDITORIAL_CORE_2026,high
