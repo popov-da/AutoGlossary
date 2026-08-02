@@ -113,7 +113,7 @@ def main() -> int:
     with args.input.open(encoding="utf-8") as source:
         document = json.load(source)
     if not isinstance(document, dict):
-        raise ValueError("The VSS JSON root must be an object")
+        raise TypeError("The VSS JSON root must be an object")
 
     rows = convert(document)
     args.output.parent.mkdir(parents=True, exist_ok=True)
