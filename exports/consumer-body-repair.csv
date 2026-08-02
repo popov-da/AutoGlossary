@@ -37,11 +37,11 @@ air suspension,пневматическая подвеска,candidate
 air-conditioning drain pipe,дренажная трубка кондиционера,candidate
 align,выровнять,candidate
 align the balance mark,совместить балансировочную метку,candidate
-align the dowel pins,совместить установочные штифты,candidate
-align the locating tabs,совместить установочные выступы,candidate
+align the dowel pins,совместить установочные штифты,approved
+align the locating tabs,совместить установочные выступы,approved
 align the marks,совместить метки,candidate
 align the matchmarks,совместить монтажные метки,candidate
-align the oil holes,совместить масляные отверстия,candidate
+align the oil holes,совместить масляные отверстия,approved
 align with the mark,совместить с меткой,candidate
 all-season tire,всесезонная шина,candidate
 allow the engine to cool,дать двигателю остыть,candidate
@@ -192,7 +192,7 @@ boost pressure sensor,датчик давления наддува,candidate
 boot clamp,хомут защитного чехла,candidate
 bore wear,износ цилиндра,candidate
 box-end wrench,накидной ключ,candidate
-brake band,тормозная лента,candidate
+brake band,тормозная лента,approved
 brake booster,вакуумный усилитель тормозов,reviewed
 brake booster check valve,обратный клапан усилителя тормозов,candidate
 brake caliper,тормозной суппорт,candidate
@@ -342,7 +342,7 @@ clean the thread,очистить резьбу,candidate
 cleaning solvent,очиститель-растворитель,candidate
 clear diagnostic trouble codes,удалить диагностические коды неисправностей,candidate
 clear the fault memory,очистить память неисправностей,candidate
-clearance fit,посадка с зазором,candidate
+clearance fit,посадка с зазором,approved
 clevis pin,палец вилки,candidate
 clip,зажим,candidate
 clip into place,зафиксировать зажимами,candidate
@@ -354,7 +354,7 @@ clutch disc,ведомый диск сцепления,candidate
 clutch engagement point,точка включения сцепления,candidate
 clutch judder,рывки при включении сцепления,candidate
 clutch master cylinder,главный цилиндр привода сцепления,candidate
-clutch pack,пакет фрикционов,candidate
+clutch pack,пакет фрикционов,approved
 clutch pedal free play,свободный ход педали сцепления,candidate
 clutch pressure plate,нажимной диск сцепления,candidate
 clutch release bearing,подшипник выключения сцепления,reviewed
@@ -406,7 +406,7 @@ continuously variable transmission,бесступенчатая трансмис
 control arm,рычаг подвески,candidate
 control arm bushing,сайлентблок рычага подвески,candidate
 control module,блок управления,candidate
-control valve body,блок гидравлических клапанов,candidate
+control valve body,блок гидравлических клапанов,approved
 coolant,охлаждающая жидкость,candidate
 coolant circulation,циркуляция охлаждающей жидкости,candidate
 coolant concentration,концентрация охлаждающей жидкости,candidate
@@ -539,7 +539,7 @@ do not apply excessive sealant,не наносить избыточное кол
 do not bend,не сгибать,candidate
 do not damage,не допускать повреждения,candidate
 do not damage the clips,не повредить клипсы,candidate
-do not damage the sealing lip,не повредить рабочую кромку манжеты,candidate
+do not damage the sealing lip,не повредить рабочую кромку манжеты,approved
 do not induce vomiting,не вызывать рвоту,candidate
 do not overheat the conductor,не перегревать токопроводящую дорожку,candidate
 do not pull on the wiring,не тянуть за провода,candidate
@@ -708,7 +708,7 @@ forward clutch,муфта переднего хода,candidate
 freeze frame data,данные стоп-кадра,candidate
 freezing point,температура замерзания,candidate
 fresh air area,зона с чистым воздухом,candidate
-friction plate,фрикционный диск,candidate
+friction plate,фрикционный диск,approved
 front apron panel,передняя панель брызговика,candidate
 front bumper reinforcement,усилитель переднего бампера,candidate
 front compartment harness assembly,жгут проводов моторного отсека в сборе,reviewed
@@ -887,13 +887,13 @@ inspect the tread,проверить состояние протектора,can
 install,установить,candidate
 install a new valve,установить новый вентиль,candidate
 install and tighten the horn mounting bolt,установить и затянуть болт крепления звукового сигнала,candidate
-install flush,установить заподлицо,candidate
+install flush,установить заподлицо,approved
 install in the reverse order of removal,"установить в порядке, обратном снятию",reviewed
-install squarely,установить без перекоса,candidate
+install squarely,установить без перекоса,approved
 install the floor harness fixing clips,установить фиксаторы жгута проводов пола,candidate
 install the rivet,установить заклёпку,reviewed
-install with the lip facing inward,установить рабочей кромкой внутрь,candidate
-install with the spring side inward,установить стороной с пружиной внутрь,candidate
+install with the lip facing inward,установить рабочей кромкой внутрь,approved
+install with the spring side inward,установить стороной с пружиной внутрь,approved
 installation condition,состояние установки,candidate
 installer,установочная оправка,candidate
 instrument cluster,комбинация приборов,candidate
@@ -944,7 +944,7 @@ lift off,снять поднятием,candidate
 lifting and jacking of vehicles,подъём автомобиля подъёмником и домкратом,candidate
 limited-slip differential,дифференциал повышенного трения,candidate
 LIN bus,шина LIN,candidate
-line pressure,магистральное давление,candidate
+line pressure,магистральное давление,approved
 lip seal,манжетное уплотнение,candidate
 liquid gasket,жидкая прокладка,candidate
 listen for the locking click,убедиться в наличии щелчка фиксатора,candidate
@@ -973,7 +973,7 @@ lower the headliner,опустить обивку потолка,candidate
 lower the vehicle to the ground,опустить автомобиль на землю,candidate
 lower tie bar,нижняя поперечина рамки радиатора,candidate
 lubricate,смазать,candidate
-lubricate the sealing lip,смазать рабочую кромку манжеты,candidate
+lubricate the sealing lip,смазать рабочую кромку манжеты,approved
 lubricate with clean engine oil,смазать чистым моторным маслом,candidate
 lubricating grease,консистентная смазка,candidate
 lubrication system,система смазки,candidate
@@ -1008,7 +1008,7 @@ mark the installed position,пометить установленное поло
 mass air flow sensor,датчик массового расхода воздуха,candidate
 match the installation position,совместить установочное положение,candidate
 matchmark,монтажная метка,candidate
-mating surface,сопрягаемая поверхность,candidate
+mating surface,сопрягаемая поверхность,approved
 maximum airflow,максимальная подача воздуха,candidate
 maximum inflation pressure,максимальное давление накачивания,candidate
 maximum load,максимально допустимая нагрузка,reviewed
@@ -1070,7 +1070,7 @@ normally open contact,нормально разомкнутый контакт,c
 note the installation direction,запомнить направление установки,candidate
 nut,гайка,candidate
 O-ring,уплотнительное кольцо круглого сечения,candidate
-observe the installation direction,соблюдать направление установки,candidate
+observe the installation direction,соблюдать направление установки,approved
 observe the orientation,соблюдать ориентацию при установке,candidate
 obstruction,посторонний предмет,candidate
 occupant detection sensor,датчик присутствия пассажира,candidate
@@ -1179,9 +1179,9 @@ piston seal,уплотнение поршня,candidate
 piston skirt,юбка поршня,candidate
 pitch circle diameter,диаметр расположения крепёжных отверстий,candidate
 plain bearing,подшипник скольжения,candidate
-planet carrier,водило,candidate
-planet gear,сателлит,candidate
-planetary gear set,планетарный ряд,candidate
+planet carrier,водило,approved
+planet gear,сателлит,approved
+planetary gear set,планетарный ряд,approved
 plastic hammer,пластиковый молоток,candidate
 plenum chamber,короб воздухопритока,candidate
 pliers,пассатижи,candidate
@@ -1210,13 +1210,13 @@ powertrain control module,блок управления силовым агре�
 preliminary positioning,предварительное позиционирование,candidate
 preset position,предустановленное положение,candidate
 press,запрессовать,candidate
-press in,запрессовать,candidate
-press out,выпрессовать,candidate
+press in,запрессовать,approved
+press out,выпрессовать,approved
 press tool,приспособление для запрессовки,candidate
-press-fit,посадка с натягом,candidate
+press-fit,посадка с натягом,approved
 pressure build-up time,время нарастания давления,candidate
 pressure cap,герметичная крышка системы охлаждения,candidate
-pressure control solenoid,электромагнитный клапан регулирования давления,candidate
+pressure control solenoid,электромагнитный клапан регулирования давления,approved
 pressure drop,падение давления,candidate
 pressure gauge,манометр,candidate
 pressure line,напорная магистраль,candidate
@@ -1239,7 +1239,7 @@ program,запрограммировать,candidate
 propeller shaft,карданный вал,candidate
 proportional valve,пропорциональный клапан,candidate
 protect from contamination,защитить от загрязнения,candidate
-protect the sealing lip,защитить рабочую кромку манжеты,candidate
+protect the sealing lip,защитить рабочую кромку манжеты,approved
 protective clothing,защитная одежда,candidate
 protective cream,защитный крем,candidate
 pry,поддеть,candidate
@@ -1529,7 +1529,7 @@ shift fork,вилка переключения передач,candidate
 shift lever,рычаг переключения передач,candidate
 shift rail,шток переключения передач,candidate
 shift rod,тяга переключения передач,candidate
-shift solenoid,электромагнитный клапан переключения передач,candidate
+shift solenoid,электромагнитный клапан переключения передач,approved
 shim,регулировочная шайба,candidate
 shock absorber,амортизатор,candidate
 short block,блок цилиндров в сборе с кривошипно-шатунным механизмом,candidate
@@ -1640,7 +1640,7 @@ subframe,подрамник,candidate
 suction line,всасывающая магистраль,candidate
 suitable fire extinguisher,подходящий огнетушитель,candidate
 summer tire,летняя шина,candidate
-sun gear,солнечная шестерня,candidate
+sun gear,солнечная шестерня,approved
 sun visor,солнцезащитный козырёк,candidate
 sunload sensor,датчик солнечной радиации,candidate
 supply power to the horn,подать питание на звуковой сигнал,candidate
@@ -1724,8 +1724,8 @@ toe angle,угол схождения колёс,candidate
 top up,долить до требуемого уровня,candidate
 torque,затянуть заданным моментом,candidate
 torque converter,гидротрансформатор,candidate
-torque converter housing,корпус гидротрансформатора,candidate
-torque converter lock-up clutch,блокировочная муфта гидротрансформатора,candidate
+torque converter housing,корпус гидротрансформатора,approved
+torque converter lock-up clutch,блокировочная муфта гидротрансформатора,approved
 torque in sequence,затянуть в указанной последовательности,candidate
 torque to specification,затянуть установленным моментом,candidate
 torque wrench,динамометрический ключ,candidate
@@ -1740,11 +1740,11 @@ transfer case,раздаточная коробка,candidate
 transfer case housing,картер раздаточной коробки,candidate
 transmission control module,блок управления трансмиссией,candidate
 transmission fluid,рабочая жидкость коробки передач,reviewed
-transmission fluid temperature sensor,датчик температуры рабочей жидкости коробки передач,candidate
+transmission fluid temperature sensor,датчик температуры рабочей жидкости коробки передач,approved
 transmission housing,картер коробки передач,candidate
 transmission oil,трансмиссионное масло,candidate
-transmission oil cooler,охладитель рабочей жидкости коробки передач,candidate
-transmission range sensor,датчик диапазона коробки передач,candidate
+transmission oil cooler,охладитель рабочей жидкости коробки передач,approved
+transmission range sensor,датчик диапазона коробки передач,approved
 transparent conductive film,прозрачная токопроводящая плёнка,candidate
 tread block,блок протектора,candidate
 tread depth,глубина рисунка протектора,candidate
@@ -1760,7 +1760,7 @@ trunk sill trim panel assembly,облицовка порога багажног�
 tubeless tire,бескамерная шина,candidate
 tubeless valve,вентиль бескамерной шины,candidate
 turbine housing,корпус турбины,candidate
-turbine wheel,турбинное колесо гидротрансформатора,candidate
+turbine wheel,турбинное колесо гидротрансформатора,approved
 turbocharger,турбокомпрессор,candidate
 turbocharger actuator,исполнительный механизм турбокомпрессора,candidate
 turbocharger compressor housing,корпус компрессора турбокомпрессора,candidate
