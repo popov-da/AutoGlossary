@@ -8,6 +8,7 @@ on:
       - "imports/**.csv"
       - "scripts/rebuild_termbase.py"
       - "scripts/export_consumer.py"
+      - "scripts/sanitize_source_documents.py"
       - "scripts/validate.py"
       - ".github/workflows/rebuild-termbase.yml"
   workflow_dispatch:
@@ -20,11 +21,14 @@ jobs:
     if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v5
 
-      - uses: actions/setup-python@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
+
+      - name: Sanitize committed corpus metadata
+        run: python scripts/sanitize_source_documents.py
 
       - name: Rebuild master termbase
         run: python scripts/rebuild_termbase.py
@@ -35,14 +39,14 @@ jobs:
       - name: Validate all CSV artifacts
         run: python scripts/validate.py
 
-      - name: Commit generated artifacts
+      - name: Commit generated artifacts and sanitized sources
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/termbase.csv reports/conflicts.csv exports/consumer-*.csv
+          git add data/*.csv imports/*.csv reports/conflicts.csv exports/consumer-*.csv
           if git diff --cached --quiet; then
             echo "No generated changes"
             exit 0
           fi
-          git commit -m "Rebuild and export glossary artifacts"
+          git commit -m "Rebuild glossary artifacts and sanitize sources"
           git push
