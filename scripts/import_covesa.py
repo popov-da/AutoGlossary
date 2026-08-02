@@ -12,8 +12,9 @@ from __future__ import annotations
 import argparse
 import csv
 import json
+from collections.abc import Iterator
 from pathlib import Path
-from typing import Any, Iterator
+from typing import Any
 
 FIELDS = [
     "source_key",
@@ -50,7 +51,10 @@ def humanize(name: str) -> str:
     return " ".join(result).strip()
 
 
-def walk(value: Any, path: tuple[str, ...] = ()) -> Iterator[tuple[tuple[str, ...], dict[str, Any]]]:
+def walk(
+    value: Any,
+    path: tuple[str, ...] = (),
+) -> Iterator[tuple[tuple[str, ...], dict[str, Any]]]:
     if not isinstance(value, dict):
         return
 
@@ -58,13 +62,9 @@ def walk(value: Any, path: tuple[str, ...] = ()) -> Iterator[tuple[tuple[str, ..
     if isinstance(node_type, str):
         yield path, value
 
+    ignored_keys = {"allowed", "default", "instances", "metadata"}
     for key, child in value.items():
-        if isinstance(child, dict) and key not in {
-            "allowed",
-            "default",
-            "instances",
-            "metadata",
-        }:
+        if isinstance(child, dict) and key not in ignored_keys:
             yield from walk(child, (*path, key))
 
 
