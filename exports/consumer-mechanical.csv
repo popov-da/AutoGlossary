@@ -1,6 +1,5 @@
 ﻿source,target_preferred,status
 accessory drive belt,ремень привода вспомогательных агрегатов,candidate
-accumulator,гидроаккумулятор,candidate
 adhesion promoter,активатор адгезии,candidate
 adhesive,клей,candidate
 adhesive weight,самоклеящийся балансировочный груз,candidate
@@ -55,7 +54,7 @@ bearing end play,осевой люфт подшипника,candidate
 bearing inner race,внутреннее кольцо подшипника,candidate
 bearing outer race,наружное кольцо подшипника,candidate
 bearing preload,предварительный натяг подшипника,candidate
-bearing puller,съёмник подшипников,candidate
+bearing puller,съёмник подшипников,reviewed
 bearing seat,посадочное место подшипника,candidate
 bearing seizure,заклинивание подшипника,candidate
 bell housing,картер сцепления,candidate
@@ -65,7 +64,7 @@ belt tensioner,натяжитель ремня,candidate
 bench vise,слесарные тиски,candidate
 bladder accumulator,баллонный гидроаккумулятор,candidate
 bleed nipple,штуцер для удаления воздуха,candidate
-bleed screw,винт для удаления воздуха,candidate
+bleed screw,штуцер для удаления воздуха,reviewed
 bleed the brakes,удалить воздух из тормозной системы,candidate
 bleed the cooling system,удалить воздух из системы охлаждения,candidate
 bleed the hydraulic system,удалить воздух из гидравлической системы,candidate
@@ -79,7 +78,7 @@ boot clamp,хомут защитного чехла,candidate
 bore wear,износ цилиндра,candidate
 box-end wrench,накидной ключ,candidate
 brake band,тормозная лента,candidate
-brake booster,усилитель тормозов,candidate
+brake booster,вакуумный усилитель тормозов,reviewed
 brake booster check valve,обратный клапан усилителя тормозов,candidate
 brake caliper,тормозной суппорт,candidate
 brake cleaner,очиститель тормозов,candidate
@@ -135,6 +134,7 @@ center wear,износ центральной части протектора,ca
 change the engine oil,заменить моторное масло,candidate
 check brake fluid level,проверить уровень тормозной жидкости,candidate
 check for coolant leaks,проверить систему на отсутствие утечек охлаждающей жидкости,candidate
+check for leakage,проверить на наличие утечек,reviewed
 check for leaks,проверить на наличие утечек,candidate
 check for oil leaks,проверить на отсутствие утечек масла,candidate
 check for play,проверить наличие люфта,candidate
@@ -202,7 +202,7 @@ cotter pin,шплинт,candidate
 countershaft,промежуточный вал,candidate
 crankcase breather hose,шланг вентиляции картера,candidate
 crankcase ventilation,вентиляция картера,candidate
-crankpin,шатунная шейка коленчатого вала,candidate
+crankpin,шатунная шейка коленчатого вала,reviewed
 crankshaft,коленчатый вал,candidate
 crankshaft end play,осевой зазор коленчатого вала,candidate
 crankshaft journal,шейка коленчатого вала,candidate
@@ -215,7 +215,7 @@ cupping wear,чашеобразный износ,candidate
 cured foam,отверждённая пена,candidate
 cylinder barrel,гильза гидроцилиндра,candidate
 cylinder block,блок цилиндров,candidate
-cylinder bore,цилиндрическое отверстие блока,candidate
+cylinder bore,цилиндр цилиндрового блока,reviewed
 cylinder head,головка блока цилиндров,candidate
 cylinder head cover,крышка головки блока цилиндров,candidate
 cylinder head gasket,прокладка головки блока цилиндров,candidate
@@ -236,12 +236,14 @@ differential carrier,корпус дифференциала,candidate
 differential case,корпус дифференциала,candidate
 differential lock,блокировка дифференциала,candidate
 differential pinion,сателлит дифференциала,candidate
+differential ring gear,ведомая шестерня главной передачи,reviewed
 differential side gear,полуосевая шестерня дифференциала,candidate
 directional control valve,распределительный клапан,candidate
 directional tire,шина с направленным рисунком протектора,candidate
 disc runout,биение тормозного диска,candidate
 do not damage the sealing lip,не повредить рабочую кромку манжеты,candidate
 do not remove the cap when hot,не снимать крышку на горячем двигателе,candidate
+do not reuse,не использовать повторно,reviewed
 double-acting cylinder,гидроцилиндр двустороннего действия,candidate
 dowel pin,установочный штифт,candidate
 drain line,дренажная магистраль,candidate
@@ -264,8 +266,9 @@ engine cooling system,система охлаждения двигателя,can
 engine mount,опора двигателя,candidate
 engine mounting bracket,кронштейн опоры двигателя,candidate
 engine oil,моторное масло,candidate
-engine oil pan,масляный поддон двигателя,candidate
+engine oil pan,масляный поддон двигателя,reviewed
 engine oil sump,масляный поддон двигателя,candidate
+engine valve stem,стержень клапана двигателя,reviewed
 ensure the connector is fully engaged,убедиться что разъём полностью соединён,candidate
 epoxy primer,эпоксидный грунт,candidate
 etch primer,кислотный грунт,candidate
@@ -304,6 +307,7 @@ fluid aeration,аэрация рабочей жидкости,candidate
 fluid reservoir,бачок рабочей жидкости,candidate
 flush the cooling system,промыть систему охлаждения,candidate
 flywheel,маховик,candidate
+flywheel ring gear,зубчатый венец маховика,reviewed
 foam pad,пенополиуретановая прокладка,candidate
 freezing point,температура замерзания,candidate
 friction plate,фрикционный диск,candidate
@@ -318,11 +322,11 @@ fuel level sensor,датчик уровня топлива,candidate
 fuel pipe joint,соединение топливопровода,candidate
 fuel pressure regulator,регулятор давления топлива,candidate
 fuel pressure sensor,датчик давления топлива,candidate
-fuel pump module,модуль топливного насоса,candidate
+fuel pump module,модуль топливного насоса,reviewed
 fuel rail,топливная рампа,candidate
 fuel rail injector subassembly,топливная рампа с форсунками в сборе,candidate
-fuel return line,топливопровод обратной подачи,candidate
-fuel supply line,топливопровод подачи,candidate
+fuel return line,топливопровод обратной подачи,reviewed
+fuel supply line,топливопровод подачи топлива,reviewed
 fuel supply pipe,топливоподающий трубопровод,candidate
 fuel tank,топливный бак,candidate
 fuel tank body,корпус топливного бака,candidate
@@ -330,6 +334,7 @@ gear backlash,боковой зазор в зацеплении,candidate
 gear pump,шестерённый насос,candidate
 gear set,комплект шестерён,candidate
 gear wheel,зубчатое колесо,candidate
+grind the surface,шлифовать поверхность,reviewed
 grinding wheel,шлифовальный круг,candidate
 half shaft,полуось,candidate
 heat dissipation opening,проход для отвода тепла,candidate
@@ -344,12 +349,13 @@ hose clamp,хомут шланга,candidate
 hot tire pressure,давление в нагретой шине,candidate
 hub bolt,болт ступицы,candidate
 hub bore,диаметр центрального отверстия,candidate
+hydraulic accumulator,гидроаккумулятор,reviewed
 hydraulic circuit,гидравлический контур,candidate
 hydraulic control unit,гидравлический блок управления,candidate
 hydraulic cylinder,гидроцилиндр,candidate
 hydraulic filter,гидравлический фильтр,candidate
 hydraulic fluid,гидравлическая жидкость,candidate
-hydraulic lash adjuster,гидрокомпенсатор зазора клапана,candidate
+hydraulic lash adjuster,гидрокомпенсатор зазора клапана,reviewed
 hydraulic motor,гидромотор,candidate
 hydraulic press,гидравлический пресс,candidate
 hydraulic pump,гидравлический насос,candidate
@@ -365,11 +371,13 @@ inner CV joint,внутренний ШРУС,candidate
 inner liner,герметизирующий слой шины,candidate
 input shaft,первичный вал,candidate
 inside marking,маркировка внутренней стороны,candidate
+inspect,проверить,reviewed
 inspect pad thickness,проверить толщину тормозных колодок,candidate
 inspect the hose for cracks,проверить шланг на наличие трещин,candidate
 inspect the tread,проверить состояние протектора,candidate
 install a new valve,установить новый вентиль,candidate
 install flush,установить заподлицо,candidate
+install in the reverse order of removal,"установить в порядке, обратном снятию",reviewed
 install squarely,установить без перекоса,candidate
 install with the lip facing inward,установить рабочей кромкой внутрь,candidate
 install with the spring side inward,установить стороной с пружиной внутрь,candidate
@@ -422,7 +430,6 @@ manual valve,клапан ручного выбора диапазона,candida
 mass air flow sensor,датчик массового расхода воздуха,candidate
 mating surface,сопрягаемая поверхность,candidate
 maximum inflation pressure,максимальное давление накачивания,candidate
-maximum load,максимально допустимая нагрузка,candidate
 measure disc runout,измерить биение тормозного диска,candidate
 measure tread depth,измерить глубину рисунка протектора,candidate
 medium-strength threadlocker,фиксатор резьбы средней прочности,candidate
@@ -456,13 +463,12 @@ oil jet,масляная форсунка,candidate
 oil leak,утечка масла,candidate
 oil level,уровень масла,candidate
 oil level plug,пробка контрольного отверстия уровня масла,candidate
-oil pan,поддон коробки передач,candidate
 oil passage,канал подачи масла,candidate
-oil pickup tube,маслоприёмник,candidate
+oil pickup tube,маслоприёмная трубка,reviewed
 oil pressure,давление масла,candidate
 oil pressure relief valve,редукционный клапан давления масла,candidate
 oil pressure sensor,датчик давления масла,candidate
-oil pressure switch,датчик-сигнализатор давления масла,candidate
+oil pressure switch,датчик-сигнализатор давления масла,reviewed
 oil pump,масляный насос,candidate
 oil pump drive,привод масляного насоса,candidate
 oil return pipe,маслоотводящая трубка,candidate
@@ -470,7 +476,7 @@ oil seepage,просачивание масла,candidate
 oil separator,маслоотделитель,candidate
 oil specification,спецификация моторного масла,candidate
 oil starvation,масляное голодание,candidate
-oil strainer,сетчатый фильтр маслоприёмника,candidate
+oil strainer,сетчатый фильтр маслоприёмника,reviewed
 oil temperature,температура масла,candidate
 oil viscosity,вязкость масла,candidate
 open-end wrench,рожковый ключ,candidate
@@ -508,6 +514,7 @@ plain bearing,подшипник скольжения,candidate
 planet carrier,водило,candidate
 planet gear,сателлит,candidate
 planetary gear set,планетарный ряд,candidate
+planetary ring gear,коронная шестерня планетарного ряда,reviewed
 plastic hammer,пластиковый молоток,candidate
 pliers,пассатижи,candidate
 ply,слой корда,candidate
@@ -515,6 +522,8 @@ pneumatic actuator,пневматический привод,candidate
 pneumatic circuit,пневматический контур,candidate
 pneumatic control valve,пневматический управляющий клапан,candidate
 pneumatic system,пневматическая система,candidate
+position,установить в требуемое положение,reviewed
+positive crankcase ventilation valve,клапан принудительной вентиляции картера,reviewed
 power steering fluid,рабочая жидкость усилителя рулевого управления,candidate
 power steering pump,насос гидроусилителя рулевого управления,candidate
 power steering reservoir,бачок рабочей жидкости усилителя рулевого управления,candidate
@@ -537,6 +546,7 @@ pressure switch,реле давления,candidate
 pressure test,проверка давлением,candidate
 pressure tester,прибор для проверки давления,candidate
 prevent hands from being crushed,не допускать защемления рук,candidate
+prime,предварительно заполнить рабочей жидкостью,reviewed
 prime the oil pump,заполнить масляный насос перед запуском,candidate
 primer,грунт,candidate
 propeller shaft,карданный вал,candidate
@@ -562,6 +572,7 @@ rear crankshaft oil seal,задний сальник коленчатого ва
 rear crankshaft seal,задний сальник коленчатого вала,candidate
 recheck the wheel nut torque,повторно проверить момент затяжки колёсных гаек,candidate
 recommended tire pressure,рекомендуемое давление в шинах,candidate
+refill,заправить повторно,reviewed
 reload the seat module software,повторно загрузить программное обеспечение модуля сиденья,candidate
 remove the valve core,вывернуть золотник вентиля,candidate
 replace after removal,заменить после снятия,candidate
@@ -580,25 +591,25 @@ rigid pipe,жёсткая трубка,candidate
 rim diameter,посадочный диаметр обода,candidate
 rim protector,защитная накладка обода,candidate
 rim width,ширина обода,candidate
-ring gear,коронная шестерня,candidate
 ring groove,канавка поршневого кольца,candidate
-rivet,заклёпка,candidate
 rivnut,заклёпочная гайка,candidate
 road wheel,дисковое колесо,candidate
 rocker arm,коромысло клапана,candidate
 rod seal,уплотнение штока,candidate
 roller bearing,роликовый подшипник,candidate
 rolling bearing,подшипник качения,candidate
+rotate,повернуть,reviewed
 rotation arrow,стрелка направления вращения,candidate
 rotation pattern,схема перестановки колёс,candidate
 rubber mallet,резиновая киянка,candidate
 run-flat tire,шина с возможностью движения при потере давления,candidate
 runout,радиальное биение,candidate
+sand,обработать шлифовальной бумагой,reviewed
 sandblasting equipment,пескоструйное оборудование,candidate
 screw,винт,candidate
 screwdriver,отвёртка,candidate
 seal driver,оправка для установки манжеты,candidate
-seal puller,съёмник сальников,candidate
+seal puller,съёмник манжетных уплотнений,reviewed
 sealant,герметик,candidate
 seam sealer,шовный герметик,candidate
 seat the bead,посадить борт шины на обод,candidate
@@ -632,7 +643,7 @@ sleeve,втулка,candidate
 slide hammer,обратный молоток,candidate
 slip yoke,скользящая вилка,candidate
 slow leak,медленная утечка воздуха,candidate
-snap ring,стопорное кольцо,candidate
+snap ring,стопорное кольцо,reviewed
 snap ring pliers,съёмник стопорных колец,candidate
 socket,торцовая головка,candidate
 socket wrench,торцовый ключ,candidate
@@ -667,7 +678,7 @@ steering effort,усилие на рулевом колесе,candidate
 steering gear,рулевой механизм,candidate
 steering knuckle,поворотный кулак,candidate
 steering motor,электродвигатель усилителя рулевого управления,candidate
-steering rack,рулевая рейка,candidate
+steering rack,рулевой механизм реечного типа,reviewed
 steering rack boot,защитный чехол рулевой рейки,candidate
 steering shaft,рулевой вал,candidate
 steering torque sensor,датчик крутящего момента рулевого управления,candidate
@@ -682,6 +693,7 @@ subframe,подрамник,candidate
 suction line,всасывающая магистраль,candidate
 summer tire,летняя шина,candidate
 sun gear,солнечная шестерня,candidate
+support,подпереть,reviewed
 suspension strut,амортизаторная стойка,candidate
 suspension travel,ход подвески,candidate
 synchronizer,синхронизатор,candidate
@@ -729,6 +741,7 @@ tire shoulder,плечевая зона шины,candidate
 tire sidewall,боковина шины,candidate
 tire size,размер шины,candidate
 tire tread,протектор шины,candidate
+tire valve stem,вентиль шины,reviewed
 toe angle,угол схождения колёс,candidate
 torque converter,гидротрансформатор,candidate
 torque converter housing,корпус гидротрансформатора,candidate
@@ -742,17 +755,18 @@ TPMS initialization,инициализация системы контроля �
 TPMS sensor,датчик системы контроля давления в шинах,candidate
 transfer case,раздаточная коробка,candidate
 transfer case housing,картер раздаточной коробки,candidate
+transmission fluid,рабочая жидкость коробки передач,reviewed
 transmission fluid temperature sensor,датчик температуры рабочей жидкости коробки передач,candidate
 transmission housing,картер коробки передач,candidate
 transmission oil,трансмиссионное масло,candidate
 transmission oil cooler,охладитель рабочей жидкости коробки передач,candidate
+transmission oil pan,поддон коробки передач,reviewed
 transmission range sensor,датчик диапазона коробки передач,candidate
 tread block,блок протектора,candidate
 tread depth,глубина рисунка протектора,candidate
 tread groove,канавка протектора,candidate
 tread separation,расслоение протектора,candidate
 tread wear indicator,индикатор износа протектора,candidate
-trim clip,фиксатор облицовки,candidate
 trim remover,съёмник облицовки,candidate
 tripod joint,трипоидный шарнир,candidate
 tubeless tire,бескамерная шина,candidate
@@ -785,12 +799,12 @@ valve spool,золотник клапана,candidate
 valve spring,пружина клапана,candidate
 valve spring compressor,рассухариватель клапанов,candidate
 valve spring retainer,тарелка пружины клапана,candidate
-valve stem,стержень клапана,candidate
 valve stem seal,маслосъёмный колпачок,candidate
 valve train,клапанный механизм,candidate
 vane pump,пластинчатый насос,candidate
 variable valve timing,система изменения фаз газораспределения,candidate
 variable valve timing solenoid,электромагнитный клапан системы изменения фаз газораспределения,candidate
+vent,стравить воздух,reviewed
 vent the system,стравить давление из системы,candidate
 verify connector locking,проверить фиксацию разъёма,candidate
 viscous coupling,вязкостная муфта,candidate
@@ -802,7 +816,7 @@ weld remover,инструмент для удаления сварных точ�
 weld-through primer,токопроводящий сварочный грунт,candidate
 welding clamp,сварочный зажим,candidate
 wheel,колесо,candidate
-wheel alignment,углы установки колёс,candidate
+wheel alignment,углы установки колёс,reviewed
 wheel balance weight,балансировочный груз,candidate
 wheel balancer,балансировочный станок,candidate
 wheel bearing,подшипник ступицы колеса,candidate

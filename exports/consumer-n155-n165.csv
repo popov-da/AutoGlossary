@@ -13,7 +13,7 @@ anti-theft alarm,противоугонная сигнализация,candidate
 anti-theft function,функция противоугонной системы,candidate
 application of primer,нанесение грунта,candidate
 aromatic hydrocarbons,ароматические углеводороды,candidate
-assist grip,поручень салона,candidate
+assist grip,поручень салона,reviewed
 audible warning,звуковое предупреждение,candidate
 avoid excessive skin contact,избегать длительного контакта с кожей,candidate
 B-pillar lower trim panel assembly,нижняя облицовка стойки B в сборе,candidate
@@ -23,7 +23,7 @@ back door glass defrosting braid lead,плетёный вывод обогрев
 back door harness,жгут проводов двери багажного отделения,candidate
 battery voltage,напряжение аккумуляторной батареи,candidate
 blow from back to front,продувать сзади вперёд,candidate
-body gateway module,шлюзовой модуль кузовной электроники,candidate
+body gateway module,центральный шлюзовой модуль кузовной электроники,reviewed
 body rear dimensions,контрольные размеры задней части кузова,candidate
 body sealant,кузовной герметик,candidate
 body sealing materials,кузовные герметизирующие материалы,candidate
@@ -36,7 +36,7 @@ center tunnel lower front reinforcement,нижний передний усили
 central console display,дисплей центральной консоли,candidate
 check and measure the position dimensions,проверить и измерить установочные размеры,candidate
 check for deformation or corrosion,проверить на наличие деформации или коррозии,candidate
-check for leakage,проверить на отсутствие утечек,candidate
+check for leakage,проверить на наличие утечек,reviewed
 clean the surface of foreign matter,очистить поверхность от посторонних материалов,candidate
 cold engine,холодный двигатель,candidate
 conductive adhesive,токопроводящий клей,candidate
@@ -79,7 +79,7 @@ door rocker inner panel assembly,внутренняя панель порога 
 door sill inner panel assembly,внутренняя панель порога в сборе,candidate
 door sill trim panel,накладка порога дверного проёма,candidate
 door unlock confirmation beep,звуковой сигнал подтверждения отпирания дверей,candidate
-drill out the spot welds,высверлить точки контактной сварки,candidate
+drill out the spot welds,высверлить точки контактной сварки,reviewed
 driver seat,сиденье водителя,candidate
 driver seat module,модуль сиденья водителя,candidate
 driver seat sliding rail,салазки сиденья водителя,candidate
@@ -115,7 +115,7 @@ floor harness assembly,жгут проводов пола в сборе,candidat
 foam pad,пенополиуретановая прокладка,candidate
 for compliance with standards,на соответствие нормативным значениям,candidate
 fresh air area,зона с чистым воздухом,candidate
-front compartment harness assembly,жгут проводов переднего отсека в сборе,candidate
+front compartment harness assembly,жгут проводов моторного отсека в сборе,reviewed
 front crankshaft oil seal,передний сальник коленчатого вала,candidate
 front floor,передняя панель пола,candidate
 front floor middle channel assembly,центральный тоннель передней панели пола в сборе,candidate
@@ -140,7 +140,7 @@ fuel leakage trace,следы утечки топлива,candidate
 fuel pipe joint,соединение топливопровода,candidate
 fuel rail injector subassembly,топливная рампа с форсунками в сборе,candidate
 fuel storage equipment,оборудование для хранения топлива,candidate
-fuel supply line,топливопровод подачи,candidate
+fuel supply line,топливопровод подачи топлива,reviewed
 fuel supply pipe,топливоподающий трубопровод,candidate
 fuel tank body,корпус топливного бака,candidate
 fuel vapor,пары топлива,candidate
@@ -183,7 +183,7 @@ impermeable gloves,непроницаемые перчатки,candidate
 inner sliding rail,внутренняя направляющая салазок,candidate
 inner sliding rail rear end trim cover,задняя декоративная крышка внутренней направляющей салазок,candidate
 install and tighten the horn mounting bolt,установить и затянуть болт крепления звукового сигнала,candidate
-install in the reverse order of removal,установить в последовательности обратной снятию,candidate
+install in the reverse order of removal,"установить в порядке, обратном снятию",reviewed
 install the floor harness fixing clips,установить фиксаторы жгута проводов пола,candidate
 installation condition,состояние установки,candidate
 instrument cluster,комбинация приборов,candidate
@@ -211,12 +211,12 @@ luggage compartment cover plate,панель пола багажного отд�
 luggage compartment lock catch mounting hole,отверстие крепления ответной части замка багажного отделения,candidate
 luggage compartment side trim panel assembly,боковая облицовка багажного отделения в сборе,candidate
 luggage compartment trim panel assembly,облицовка багажного отделения в сборе,candidate
-lumbar support,поясничная поддержка,candidate
+lumbar support,поясничная опора,reviewed
 lumbar support adjustment button ring,декоративное кольцо кнопки регулировки поясничной поддержки,candidate
 maintain engine speed,поддерживать заданную частоту вращения двигателя,candidate
 match the installation position,совместить установочное положение,candidate
 maximum airflow,максимальная подача воздуха,candidate
-maximum load,максимально допустимая нагрузка,candidate
+maximum load,максимально допустимая нагрузка,reviewed
 mechanical fault,механическая неисправность,candidate
 mechanical seat switch,механический переключатель регулировки сиденья,candidate
 memory position,запомненное положение сиденья,candidate
@@ -364,7 +364,7 @@ six-way adjustment,шестипозиционная регулировка,candi
 skin allergy,аллергическая реакция кожи,candidate
 skin irritation,раздражение кожи,candidate
 sliding rail end trim cover,декоративная крышка конца салазки,candidate
-solder,припой,candidate
+solder,припой,deprecated
 soldering iron,паяльник,candidate
 sound a warning,подать звуковой сигнал,candidate
 sound pressure level,уровень звукового давления,candidate

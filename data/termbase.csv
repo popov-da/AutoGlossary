@@ -28,6 +28,15 @@ time headway,временной интервал следования,candidate,
 time to collision,время до столкновения,candidate,adas,ASAM_OPENX,high,ASAM_OPENX,term,
 traffic sign recognition,распознавание дорожных знаков,candidate,adas,COVESA_VSS_6,medium,COVESA_VSS_6,term,
 vulnerable road user,уязвимый участник дорожного движения,candidate,adas,UNECE_ADS,high,UNECE_ADS,term,
+accumulator,аккумулятор,candidate,ambiguous,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,high,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,ambiguous,аккумулятор хладагента | гидроаккумулятор
+oil pan,масляный поддон,deprecated,ambiguous,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,high,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,ambiguous,поддон коробки передач
+plug weld,электрозаклёпочное сварное соединение,deprecated,ambiguous,EDITORIAL_CORE_2026 | EDITORIAL_RESOLUTION,high,EDITORIAL_CORE_2026 | EDITORIAL_RESOLUTION,ambiguous,выполнить пробочную сварку
+ring gear,зубчатый венец,deprecated,ambiguous,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,high,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,ambiguous,зубчатый венец маховика | коронная шестерня | ведомая шестерня главной передачи
+rivet,заклёпка,deprecated,ambiguous,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,high,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,ambiguous,заклепать
+solder,припой,deprecated,ambiguous,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026 | N155_D2_CORPUS,high,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026 | N155_CORPUS,ambiguous,выполнить пайку мягким припоем
+spot weld,точечное сварное соединение,deprecated,ambiguous,EDITORIAL_CORE_2026 | EDITORIAL_RESOLUTION,high,EDITORIAL_CORE_2026 | EDITORIAL_RESOLUTION,ambiguous,выполнить точечную сварку
+valve stem,стержень клапана,deprecated,ambiguous,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,high,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,ambiguous,вентиль шины
+grind,шлифовать,deprecated,ambiguous.action,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,high,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,ambiguous,зачистить
 align the dowel pins,совместить установочные штифты,candidate,assembly,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 align the locating tabs,совместить установочные выступы,candidate,assembly,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 align the oil holes,совместить масляные отверстия,candidate,assembly,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
@@ -66,12 +75,10 @@ friction plate,фрикционный диск,candidate,automatic_transmission,
 impeller,насосное колесо гидротрансформатора,candidate,automatic_transmission,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,
 line pressure,магистральное давление,candidate,automatic_transmission,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 manual valve,клапан ручного выбора диапазона,candidate,automatic_transmission,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,
-oil pan,поддон коробки передач,candidate,automatic_transmission,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,масляный поддон
 planet carrier,водило,candidate,automatic_transmission,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 planet gear,сателлит,candidate,automatic_transmission,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 planetary gear set,планетарный ряд,candidate,automatic_transmission,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 pressure control solenoid,электромагнитный клапан регулирования давления,candidate,automatic_transmission,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
-ring gear,коронная шестерня,candidate,automatic_transmission,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,зубчатый венец | зубчатый венец маховика | ведомая шестерня главной передачи
 shift solenoid,электромагнитный клапан переключения передач,candidate,automatic_transmission,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 stator,реактор гидротрансформатора,candidate,automatic_transmission,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,
 steel plate,стальной диск,candidate,automatic_transmission,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,
@@ -126,6 +133,11 @@ Body dimensions,Контрольные размеры кузова,approved,body
 Body repair,Кузовной ремонт,approved,body.heading,VOLGA_PILOT,high,VOLGA_PILOT,heading,
 corrosion protection,антикоррозионная защита,approved,body.heading,EDITORIAL_CORE_2026 | VOLGA_PILOT,high,EDITORIAL_CORE_2026 | VOLGA_PILOT,heading,
 Welding precautions,Меры предосторожности при сварке,approved,body.heading,VOLGA_PILOT,high,VOLGA_PILOT,heading,
+drill out the spot welds,высверлить точки контактной сварки,reviewed,body.repair,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026 | N165_D2,high,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026 | N165_D2,procedure,высверлить сварные точки
+grind the weld,зачистить сварной шов,reviewed,body.repair,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,procedure,
+install the rivet,установить заклёпку,reviewed,body.repair,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,procedure,
+make a plug weld,выполнить электрозаклёпочную сварку,reviewed,body.repair,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,procedure,
+make spot welds,выполнить точечную сварку,reviewed,body.repair,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,procedure,
 rear quarter window glass,стекло задней боковины,candidate,body_glazing,N165_D2,medium,N165_D2,term,
 application of primer,нанесение грунта,candidate,body_material,N165_D2,high,N165_D2,term,
 body sealant,кузовной герметик,candidate,body_material,N165_D2,high,N165_D2,term,
@@ -263,14 +275,13 @@ rear floor right rear connecting plate,правая задняя соедини�
 rear seat belt retractor bracket supporting plate,опорная пластина кронштейна втягивающего устройства заднего ремня безопасности,candidate,body_structure,N165_D2,medium,N165_D2,term,
 rear wall panel assembly,панель задней стенки кузова в сборе,candidate,body_structure,N165_D2,high,N165_D2,term,
 VCU mounting bracket assembly,кронштейн крепления VCU в сборе,candidate,body_structure,N165_D2,medium,N165_D2,term,
-drill out the spot welds,высверлить точки контактной сварки,candidate,body_welding,N165_D2 | EDITORIAL_CORE_2026,high,N165_D2 | EDITORIAL_CORE_2026,term,высверлить сварные точки
 weld respectively to,приварить соответственно к,candidate,body_welding,N165_D2,medium,N165_D2,term,
 welding location,место сварки,candidate,body_welding,N165_D2,high,N165_D2,term,
 anti-lock braking system,антиблокировочная система тормозов,candidate,brakes,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 bleed nipple,штуцер для удаления воздуха,candidate,brakes,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,
 bleed the brakes,удалить воздух из тормозной системы,candidate,brakes,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 bleeder screw,штуцер для удаления воздуха,candidate,brakes,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,
-brake booster,усилитель тормозов,candidate,brakes,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,вакуумный усилитель тормозов
+brake booster,вакуумный усилитель тормозов,reviewed,brakes,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,high,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,component,усилитель тормозов
 brake booster check valve,обратный клапан усилителя тормозов,candidate,brakes,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 brake caliper,тормозной суппорт,candidate,brakes,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 brake control module,блок управления тормозной системой,candidate,brakes,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,
@@ -326,7 +337,7 @@ clutch engagement point,точка включения сцепления,candida
 clutch judder,рывки при включении сцепления,candidate,clutch,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,
 clutch master cylinder,главный цилиндр привода сцепления,candidate,clutch,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 clutch pedal free play,свободный ход педали сцепления,candidate,clutch,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
-clutch release bearing,подшипник выключения сцепления,candidate,clutch,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,выжимной подшипник сцепления
+clutch release bearing,подшипник выключения сцепления,reviewed,clutch,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,high,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,component,выжимной подшипник сцепления
 clutch release fork,вилка выключения сцепления,candidate,clutch,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 clutch slave cylinder,рабочий цилиндр привода сцепления,candidate,clutch,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 clutch slip,пробуксовка сцепления,candidate,clutch,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
@@ -495,6 +506,7 @@ differential,дифференциал,candidate,driveline,EDITORIAL_CORE_2026,hi
 differential carrier,корпус дифференциала,candidate,driveline,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,
 differential lock,блокировка дифференциала,candidate,driveline,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 differential pinion,сателлит дифференциала,candidate,driveline,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
+differential ring gear,ведомая шестерня главной передачи,reviewed,driveline,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,component,
 differential side gear,полуосевая шестерня дифференциала,candidate,driveline,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 drive pinion,ведущая шестерня главной передачи,candidate,driveline,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 drive shaft,приводной вал,candidate,driveline,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,
@@ -530,6 +542,7 @@ battery hold-down clamp,прижимная планка аккумуляторн
 battery terminal,клемма аккумуляторной батареи,candidate,electrical,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 battery tray,поддон аккумуляторной батареи,candidate,electrical,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 battery voltage,напряжение аккумуляторной батареи,candidate,electrical,N165_D2_CORPUS,high,N165_CORPUS,term,
+body gateway module,центральный шлюзовой модуль кузовной электроники,reviewed,electrical,EDITORIAL_RESOLUTION | N155_D2_CORPUS,high,EDITORIAL_RESOLUTION | N155_CORPUS,module,шлюзовой модуль кузовной электроники
 body wire harness,кузовной жгут проводов,candidate,electrical,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 branch harness,ответвительный жгут проводов,candidate,electrical,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 carbon brush,угольная щётка,candidate,electrical,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
@@ -540,6 +553,7 @@ connector terminal,контакт разъёма,candidate,electrical,EDITORIAL_
 continuity test,проверка целостности цепи,candidate,electrical,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 cranking voltage,напряжение при прокручивании,candidate,electrical,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,
 engine wire harness,жгут проводов двигателя,candidate,electrical,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
+front compartment harness assembly,жгут проводов моторного отсека в сборе,reviewed,electrical,EDITORIAL_RESOLUTION | N155_D2_CORPUS,high,EDITORIAL_RESOLUTION | N155_CORPUS,assembly,жгут проводов переднего отсека в сборе
 fuse,предохранитель,candidate,electrical,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 fuse box,блок предохранителей,candidate,electrical,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 fusible link,плавкая вставка,candidate,electrical,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
@@ -586,7 +600,6 @@ voltage regulator,регулятор напряжения,candidate,electrical,E
 weatherproof connector,герметичный разъём,candidate,electrical,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 wire harness,жгут проводов,candidate,electrical,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 A-pillar upper trim panel,верхняя облицовка стойки A,candidate,electrical.antenna,N155_D2_CORPUS,high,N155_CORPUS,component,
-assist grip,поручень салона,candidate,electrical.antenna,N155_D2_CORPUS | EDITORIAL_CORE_2026,high,N155_CORPUS | EDITORIAL_CORE_2026,component,поручень
 B-pillar lower trim panel assembly,нижняя облицовка стойки B в сборе,candidate,electrical.antenna,N155_D2_CORPUS,high,N155_CORPUS,component,
 B-pillar upper trim panel assembly,верхняя облицовка стойки B в сборе,candidate,electrical.antenna,N155_D2_CORPUS,high,N155_CORPUS,component,
 C-pillar upper trim panel assembly,верхняя облицовка стойки C в сборе,candidate,electrical.antenna,N155_D2_CORPUS,high,N155_CORPUS,component,
@@ -642,7 +655,6 @@ rearview mirror glass,стекло наружного зеркала задне�
 rearview mirror heating element,нагревательный элемент наружного зеркала заднего вида,candidate,electrical.defrost,N155_D2_CORPUS,high,N155_CORPUS,component,
 rewire the bus lead,повторно припаять токоведущий вывод,candidate,electrical.defrost,N155_D2_CORPUS,high,N155_CORPUS,procedure,
 rosin flux,канифольный флюс,candidate,electrical.defrost,N155_D2_CORPUS,high,N155_CORPUS,material,
-solder,припой,candidate,electrical.defrost,N155_D2_CORPUS | EDITORIAL_CORE_2026,high,N155_CORPUS | EDITORIAL_CORE_2026,material,выполнить пайку мягким припоем
 soldering iron,паяльник,candidate,electrical.defrost,N155_D2_CORPUS,high,N155_CORPUS,tool,
 supply power to the windscreen heater,подать питание на обогреватель стекла,candidate,electrical.defrost,N155_D2_CORPUS,high,N155_CORPUS,procedure,
 transparent conductive film,прозрачная токопроводящая плёнка,candidate,electrical.defrost,N155_D2_CORPUS,high,N155_CORPUS,component,
@@ -654,12 +666,10 @@ abnormal door opening,несанкционированное открывани�
 anti-theft alarm,противоугонная сигнализация,candidate,electrical.horn,N155_D2_CORPUS,high,N155_CORPUS,system,
 anti-theft function,функция противоугонной системы,candidate,electrical.horn,N155_D2_CORPUS,high,N155_CORPUS,function,
 audible warning,звуковое предупреждение,candidate,electrical.horn,N155_D2_CORPUS,high,N155_CORPUS,function,
-body gateway module,шлюзовой модуль кузовной электроники,candidate,electrical.horn,N155_D2_CORPUS,high,N155_CORPUS,module,центральный шлюзовой модуль кузовной электроники
 connect the horn harness connector,подсоединить разъём жгута проводов звукового сигнала,candidate,electrical.horn,N155_D2_CORPUS,high,N155_CORPUS,procedure,
 door lock confirmation beep,звуковой сигнал подтверждения запирания дверей,candidate,electrical.horn,N155_D2_CORPUS,high,N155_CORPUS,function,
 door unlock confirmation beep,звуковой сигнал подтверждения отпирания дверей,candidate,electrical.horn,N155_D2_CORPUS,high,N155_CORPUS,function,
 energize the horn relay,подать питание на реле звукового сигнала,candidate,electrical.horn,N155_D2_CORPUS,high,N155_CORPUS,procedure,
-front compartment harness assembly,жгут проводов переднего отсека в сборе,candidate,electrical.horn,N155_D2_CORPUS,high,N155_CORPUS,component,жгут проводов моторного отсека в сборе
 fundamental frequency,основная частота,candidate,electrical.horn,N155_D2_CORPUS,high,N155_CORPUS,parameter,
 horn button,кнопка звукового сигнала,candidate,electrical.horn,N155_D2_CORPUS,high,N155_CORPUS,component,
 horn circuit,цепь звукового сигнала,candidate,electrical.horn,N155_D2_CORPUS,high,N155_CORPUS,circuit,
@@ -695,6 +705,7 @@ voltage upper limit,верхний предел напряжения,candidate,e
 warn pedestrians and other vehicles,предупреждать пешеходов и водителей других автомобилей,candidate,electrical.horn,N155_D2_CORPUS,high,N155_CORPUS,function,
 keyless antenna fixing screw,винт крепления антенны системы бесключевого доступа,candidate,electrical.keyless,N155_D2_CORPUS,high,N155_CORPUS,component,
 tail keyless vehicle antenna,задняя антенна системы бесключевого доступа,candidate,electrical.keyless,N155_D2_CORPUS,high,N155_CORPUS,component,
+solder the lead,припаять вывод,reviewed,electrical.repair,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,procedure,
 multimeter,мультиметр,candidate,electrical_tools,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 test light,контрольная лампа,candidate,electrical_tools,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 actuator,исполнительный механизм,candidate,electronics,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
@@ -723,7 +734,6 @@ wake-up signal,сигнал пробуждения,candidate,electronics,EDITORI
 catalytic converter,каталитический нейтрализатор,candidate,emissions,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 crankcase ventilation hose,шланг вентиляции картера,candidate,emissions,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 diesel exhaust fluid,водный раствор мочевины для системы SCR,candidate,emissions,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,
-diesel particulate filter,сажевый фильтр дизельного двигателя,candidate,emissions,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,сажевый фильтр
 downstream oxygen sensor,нижний датчик кислорода,candidate,emissions,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,
 evaporative emission canister,адсорбер паров топлива,candidate,emissions,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 exhaust gas recirculation cooler,охладитель системы рециркуляции отработавших газов,candidate,emissions,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
@@ -733,9 +743,7 @@ fuel tank pressure sensor,датчик давления в топливном б
 gasoline particulate filter,фильтр твёрдых частиц бензинового двигателя,candidate,emissions,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 heated oxygen sensor,подогреваемый датчик кислорода,candidate,emissions,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 oxygen sensor,датчик кислорода,candidate,emissions,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
-positive crankcase ventilation valve,клапан системы вентиляции картера,candidate,emissions,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,клапан принудительной вентиляции картера | клапан вентиляции картера
 purge control valve,клапан продувки адсорбера,candidate,emissions,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
-selective catalytic reduction system,система селективной каталитической нейтрализации,candidate,emissions,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,система селективного каталитического восстановления
 upstream oxygen sensor,верхний датчик кислорода,candidate,emissions,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,
 urea solution tank,бак раствора мочевины,candidate,emissions,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,
 accessory drive belt,ремень привода вспомогательных агрегатов,candidate,engine,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
@@ -757,7 +765,7 @@ connecting rod,шатун,candidate,engine,EDITORIAL_CORE_2026,high,EDITORIAL_CO
 connecting rod bearing,шатунный подшипник,candidate,engine,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 connecting rod bearing shell,вкладыш шатунного подшипника,candidate,engine,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 crankcase breather hose,шланг вентиляции картера,candidate,engine,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
-crankpin,шатунная шейка коленчатого вала,candidate,engine,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,шатунная шейка
+crankpin,шатунная шейка коленчатого вала,reviewed,engine,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,high,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,component,шатунная шейка
 crankshaft,коленчатый вал,candidate,engine,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 crankshaft end play,осевой зазор коленчатого вала,candidate,engine,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 crankshaft journal,шейка коленчатого вала,candidate,engine,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
@@ -765,7 +773,7 @@ crankshaft main journal,коренная шейка коленчатого ва�
 crankshaft pulley,шкив коленчатого вала,candidate,engine,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 crankshaft thrust washer,упорная шайба коленчатого вала,candidate,engine,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 cylinder block,блок цилиндров,candidate,engine,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
-cylinder bore,цилиндрическое отверстие блока,candidate,engine,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,диаметр цилиндра
+cylinder bore,цилиндр цилиндрового блока,reviewed,engine,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,high,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,component,цилиндрическое отверстие блока | диаметр цилиндра
 cylinder head,головка блока цилиндров,candidate,engine,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 cylinder head cover,крышка головки блока цилиндров,candidate,engine,N165_D2_CORPUS,high,N165_CORPUS,term,
 cylinder head gasket,прокладка головки блока цилиндров,candidate,engine,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
@@ -776,14 +784,17 @@ cylinder taper,конусность цилиндра,candidate,engine,EDITORIAL_
 engine assembly,двигатель в сборе,candidate,engine,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 engine mount,опора двигателя,candidate,engine,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 engine mounting bracket,кронштейн опоры двигателя,candidate,engine,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
+engine oil pan,масляный поддон двигателя,reviewed,engine,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,high,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,component,
 engine oil sump,масляный поддон двигателя,candidate,engine,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
+engine valve stem,стержень клапана двигателя,reviewed,engine,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,component,
 exhaust manifold,выпускной коллектор,candidate,engine,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 exhaust valve,выпускной клапан,candidate,engine,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 flexplate,ведущий диск гидротрансформатора,candidate,engine,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,
 flywheel,маховик,candidate,engine,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
+flywheel ring gear,зубчатый венец маховика,reviewed,engine,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,component,
 front crankshaft oil seal,передний сальник коленчатого вала,candidate,engine,N165_D2_CORPUS,high,N165_CORPUS,term,
 front crankshaft seal,передний сальник коленчатого вала,candidate,engine,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
-hydraulic lash adjuster,гидрокомпенсатор зазора клапана,candidate,engine,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,гидрокомпенсатор зазора
+hydraulic lash adjuster,гидрокомпенсатор зазора клапана,reviewed,engine,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,high,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,component,гидрокомпенсатор зазора
 idler pulley,обводной ролик,candidate,engine,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 intake manifold,впускной коллектор,candidate,engine,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 intake valve,впускной клапан,candidate,engine,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
@@ -801,6 +812,7 @@ piston protrusion,выступание поршня,candidate,engine,EDITORIAL_C
 piston ring,поршневое кольцо,candidate,engine,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 piston ring end gap,зазор в замке поршневого кольца,candidate,engine,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 piston skirt,юбка поршня,candidate,engine,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
+positive crankcase ventilation valve,клапан принудительной вентиляции картера,reviewed,engine,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,high,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,component,клапан вентиляции картера | клапан системы вентиляции картера
 rear crankshaft oil seal,задний сальник коленчатого вала,candidate,engine,N165_D2_CORPUS,high,N165_CORPUS,term,
 rear crankshaft seal,задний сальник коленчатого вала,candidate,engine,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 ring groove,канавка поршневого кольца,candidate,engine,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
@@ -825,7 +837,6 @@ valve lifter,толкатель клапана,candidate,engine,EDITORIAL_CORE_2
 valve seat,седло клапана,candidate,engine,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 valve spring,пружина клапана,candidate,engine,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 valve spring retainer,тарелка пружины клапана,candidate,engine,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
-valve stem,стержень клапана,candidate,engine,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,вентиль шины
 valve stem seal,маслосъёмный колпачок,candidate,engine,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,
 valve train,клапанный механизм,candidate,engine,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 variable valve timing,система изменения фаз газораспределения,candidate,engine,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
@@ -867,6 +878,8 @@ isolation resistance,сопротивление изоляции,candidate,ev_sa
 maximum working voltage,максимальное рабочее напряжение,candidate,ev_safety,UNECE_EV_GUIDE,medium,UNECE_EV_GUIDE,term,
 service disconnect,сервисный разъединитель,candidate,ev_safety,UNECE_EV_GUIDE,medium,UNECE_EV_GUIDE,term,
 thermal runaway,тепловой разгон,candidate,ev_safety,UNECE_EV_GUIDE,medium,UNECE_EV_GUIDE,term,
+diesel particulate filter,сажевый фильтр дизельного двигателя,reviewed,exhaust,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,high,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,component,сажевый фильтр
+selective catalytic reduction system,система селективной каталитической нейтрализации,reviewed,exhaust,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,high,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,system,система селективного каталитического восстановления
 banjo bolt,полый болт,candidate,fasteners,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,
 bolt,болт,candidate,fasteners,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 bushing,втулка,candidate,fasteners,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,
@@ -893,7 +906,6 @@ replace after removal,заменить после снятия,candidate,fastene
 retaining clip,фиксирующий зажим,candidate,fasteners,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 retaining ring,стопорное кольцо,candidate,fasteners,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 retaining ring groove,канавка под стопорное кольцо,candidate,fasteners,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
-rivet,заклёпка,candidate,fasteners,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,заклепать
 rivnut,заклёпочная гайка,candidate,fasteners,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,
 screw,винт,candidate,fasteners,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 self-locking nut,самоконтрящаяся гайка,candidate,fasteners,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
@@ -902,7 +914,7 @@ set screw,установочный винт,candidate,fasteners,EDITORIAL_CORE_2
 shim,регулировочная шайба,candidate,fasteners,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 shoulder bolt,болт с буртиком,candidate,fasteners,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,
 sleeve,втулка,candidate,fasteners,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,
-snap ring,стопорное кольцо,candidate,fasteners,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,пружинное стопорное кольцо
+snap ring,стопорное кольцо,reviewed,fasteners,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,high,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,component,пружинное стопорное кольцо
 spacer,проставка,candidate,fasteners,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,
 split pin,шплинт,candidate,fasteners,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 spring clip,пружинный зажим,candidate,fasteners,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
@@ -913,7 +925,6 @@ thread engagement,длина зацепления резьбы,candidate,fastene
 thread pitch,шаг резьбы,candidate,fasteners,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 threaded insert,резьбовая вставка,candidate,fasteners,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 torque-to-yield bolt,болт с контролируемой пластической деформацией,candidate,fasteners,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,
-trim clip,фиксатор облицовки,candidate,fasteners,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,клипса облицовки
 washer,шайба,candidate,fasteners,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 wave washer,волнистая шайба,candidate,fasteners,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,
 wheel bolt,колёсный болт,candidate,fasteners,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
@@ -923,7 +934,6 @@ brake fluid,тормозная жидкость,candidate,fluids,EDITORIAL_CORE_
 compressor oil,масло компрессора кондиционера,candidate,fluids,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 gear oil,трансмиссионное масло,candidate,fluids,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 refrigerant,хладагент,candidate,fluids,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
-transmission fluid,трансмиссионная жидкость,candidate,fluids,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,рабочая жидкость коробки передач
 windshield washer fluid,жидкость стеклоомывателя,candidate,fluids,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 boost control solenoid,электромагнитный клапан управления наддувом,candidate,forced_induction,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 charge air hose,шланг наддувочного воздуха,candidate,forced_induction,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
@@ -939,11 +949,11 @@ fuel level sensor,датчик уровня топлива,candidate,fuel,EDITOR
 fuel pipe joint,соединение топливопровода,candidate,fuel,N165_D2_CORPUS,high,N165_CORPUS,term,
 fuel pressure regulator,регулятор давления топлива,candidate,fuel,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 fuel pressure sensor,датчик давления топлива,candidate,fuel,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
-fuel pump module,модуль топливного насоса,candidate,fuel,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,топливный модуль
+fuel pump module,модуль топливного насоса,reviewed,fuel,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,high,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,assembly,топливный модуль
 fuel rail,топливная рампа,candidate,fuel,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 fuel rail injector subassembly,топливная рампа с форсунками в сборе,candidate,fuel,N165_D2_CORPUS,medium,N165_CORPUS,term,
-fuel return line,топливопровод обратной подачи,candidate,fuel,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,топливный сливной трубопровод
-fuel supply line,топливопровод подачи,candidate,fuel,EDITORIAL_CORE_2026 | N165_D2_CORPUS,high,EDITORIAL_CORE_2026 | N165_CORPUS,term,магистраль подачи топлива
+fuel return line,топливопровод обратной подачи,reviewed,fuel,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,high,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,component,топливный сливной трубопровод
+fuel supply line,топливопровод подачи топлива,reviewed,fuel,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026 | N165_D2_CORPUS,high,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026 | N165_CORPUS,component,топливопровод подачи | магистраль подачи топлива
 fuel supply pipe,топливоподающий трубопровод,candidate,fuel,N165_D2_CORPUS,high,N165_CORPUS,term,
 fuel tank,топливный бак,candidate,fuel,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 fuel tank body,корпус топливного бака,candidate,fuel,N165_D2_CORPUS,high,N165_CORPUS,term,
@@ -993,6 +1003,7 @@ rear climate control,задняя климатическая установка,
 receiver drier,ресивер-осушитель,candidate,hvac,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 recirculation actuator,привод заслонки рециркуляции,candidate,hvac,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 recirculation door,заслонка рециркуляции,candidate,hvac,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
+refrigerant accumulator,аккумулятор хладагента,reviewed,hvac,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,component,
 refrigerant charge,заправочная масса хладагента,candidate,hvac,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 refrigerant line,трубопровод хладагента,candidate,hvac,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 refrigerant pressure sensor,датчик давления хладагента,candidate,hvac,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
@@ -1001,10 +1012,9 @@ service port,сервисный штуцер,candidate,hvac,EDITORIAL_CORE_2026,
 side vent,боковой дефлектор,candidate,hvac,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 sunload sensor,датчик солнечной радиации,candidate,hvac,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 system evacuation,вакуумирование системы,candidate,hvac,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
-accumulator,гидроаккумулятор,candidate,hydraulics,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,аккумулятор хладагента
 banjo fitting,штуцер типа банджо,candidate,hydraulics,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,
 bladder accumulator,баллонный гидроаккумулятор,candidate,hydraulics,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
-bleed screw,винт для удаления воздуха,candidate,hydraulics,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,штуцер для удаления воздуха
+bleed screw,штуцер для удаления воздуха,reviewed,hydraulics,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,high,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,component,винт для удаления воздуха
 bleed the hydraulic system,удалить воздух из гидравлической системы,candidate,hydraulics,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 cavitation,кавитация,candidate,hydraulics,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 check for leaks,проверить на наличие утечек,candidate,hydraulics,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
@@ -1028,6 +1038,7 @@ flow sensor,датчик расхода,candidate,hydraulics,EDITORIAL_CORE_2026
 fluid aeration,аэрация рабочей жидкости,candidate,hydraulics,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,
 fluid reservoir,бачок рабочей жидкости,candidate,hydraulics,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 gear pump,шестерённый насос,candidate,hydraulics,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
+hydraulic accumulator,гидроаккумулятор,reviewed,hydraulics,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,component,
 hydraulic circuit,гидравлический контур,candidate,hydraulics,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 hydraulic cylinder,гидроцилиндр,candidate,hydraulics,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 hydraulic filter,гидравлический фильтр,candidate,hydraulics,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
@@ -1090,7 +1101,7 @@ verify operation,проверить работоспособность,candidate
 air cleaner housing,корпус воздушного фильтра,candidate,intake,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 air filter element,фильтрующий элемент воздушного фильтра,candidate,intake,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 charge air cooler,охладитель наддувочного воздуха,candidate,intake,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
-intake air duct,воздуховод впускной системы,candidate,intake,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,воздуховод впуска
+intake air duct,воздуховод впускной системы,reviewed,intake,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,high,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,component,воздуховод впуска
 intercooler hose,шланг охладителя наддувочного воздуха,candidate,intake,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 throttle body,дроссельный узел,candidate,intake,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 throttle valve,дроссельная заслонка,candidate,intake,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
@@ -1174,7 +1185,7 @@ internal circuit engagement,замыкание внутренних цепей �
 left front seat assembly,левое переднее сиденье в сборе,candidate,interior.seat,N155_D2_CORPUS,high,N155_CORPUS,component,
 left front seat left guard,левый боковой кожух левого переднего сиденья,candidate,interior.seat,N155_D2_CORPUS,high,N155_CORPUS,component,
 left front seat right guard,правый боковой кожух левого переднего сиденья,candidate,interior.seat,N155_D2_CORPUS,high,N155_CORPUS,component,
-lumbar support,поясничная поддержка,candidate,interior.seat,N155_D2_CORPUS | EDITORIAL_CORE_2026,high,N155_CORPUS | EDITORIAL_CORE_2026,function,поясничная опора
+lumbar support,поясничная опора,reviewed,interior.seat,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026 | N155_D2_CORPUS,high,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026 | N155_CORPUS,component,поясничная поддержка
 lumbar support adjustment button ring,декоративное кольцо кнопки регулировки поясничной поддержки,candidate,interior.seat,N155_D2_CORPUS,high,N155_CORPUS,component,
 mechanical seat switch,механический переключатель регулировки сиденья,candidate,interior.seat,N155_D2_CORPUS,high,N155_CORPUS,component,
 memory position,запомненное положение сиденья,candidate,interior.seat,N155_D2_CORPUS,high,N155_CORPUS,parameter,
@@ -1245,10 +1256,12 @@ switch position,положение переключателя,candidate,interior
 temperature monitoring,контроль температуры,candidate,interior.seat,N155_D2_CORPUS,high,N155_CORPUS,function,
 thigh support,поддержка бёдер,candidate,interior.seat,N155_D2_CORPUS,high,N155_CORPUS,function,
 vehicle body floor,панель пола кузова,candidate,interior.seat,N155_D2_CORPUS,high,N155_CORPUS,component,
+assist grip,поручень салона,reviewed,interior.trim,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026 | N155_D2_CORPUS,high,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026 | N155_CORPUS,component,поручень
 lower the headliner,опустить обивку потолка,candidate,interior.trim,N155_D2_CORPUS,high,N155_CORPUS,procedure,
 luggage compartment side trim panel assembly,боковая облицовка багажного отделения в сборе,candidate,interior.trim,N155_D2_CORPUS,high,N155_CORPUS,assembly,
 rear door sill trim panel,облицовка порога задней двери,candidate,interior.trim,N155_D2_CORPUS,high,N155_CORPUS,component,
 tailgate upper interior trim panel assembly,верхняя облицовка двери багажного отделения в сборе,candidate,interior.trim,N155_D2_CORPUS,high,N155_CORPUS,assembly,
+trim clip,фиксатор облицовки,reviewed,interior.trim,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,high,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,component,клипса облицовки
 trunk sill trim panel assembly,облицовка порога багажного отделения в сборе,candidate,interior.trim,N155_D2_CORPUS,high,N155_CORPUS,assembly,
 blind rivet,вытяжная заклёпка,candidate,joining,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 butt joint,стыковое соединение,candidate,joining,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
@@ -1268,7 +1281,6 @@ check the oil pressure,проверить давление масла,candidate,
 contaminated oil,загрязнённое масло,candidate,lubrication,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 crankcase ventilation,вентиляция картера,candidate,lubrication,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 engine oil,моторное масло,candidate,lubrication,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
-engine oil pan,масляный поддон двигателя,candidate,lubrication,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 excessive oil pressure,повышенное давление масла,candidate,lubrication,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 fill with the specified oil,заправить указанным маслом,candidate,lubrication,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 low oil pressure,низкое давление масла,candidate,lubrication,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
@@ -1288,11 +1300,11 @@ oil jet,масляная форсунка,candidate,lubrication,EDITORIAL_CORE_2
 oil leak,утечка масла,candidate,lubrication,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 oil level,уровень масла,candidate,lubrication,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 oil passage,канал подачи масла,candidate,lubrication,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
-oil pickup tube,маслоприёмник,candidate,lubrication,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,маслоприёмная трубка
+oil pickup tube,маслоприёмная трубка,reviewed,lubrication,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,high,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,component,маслоприёмник
 oil pressure,давление масла,candidate,lubrication,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 oil pressure relief valve,редукционный клапан давления масла,candidate,lubrication,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 oil pressure sensor,датчик давления масла,candidate,lubrication,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
-oil pressure switch,датчик-сигнализатор давления масла,candidate,lubrication,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,выключатель сигнализатора давления масла
+oil pressure switch,датчик-сигнализатор давления масла,reviewed,lubrication,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,high,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,component,выключатель сигнализатора давления масла
 oil pump,масляный насос,candidate,lubrication,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 oil pump drive,привод масляного насоса,candidate,lubrication,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 oil return pipe,маслоотводящая трубка,candidate,lubrication,N165_D2_CORPUS,high,N165_CORPUS,term,
@@ -1300,7 +1312,7 @@ oil seepage,просачивание масла,candidate,lubrication,EDITORIAL_
 oil separator,маслоотделитель,candidate,lubrication,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 oil specification,спецификация моторного масла,candidate,lubrication,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 oil starvation,масляное голодание,candidate,lubrication,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
-oil strainer,сетчатый фильтр маслоприёмника,candidate,lubrication,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,маслоприёмный фильтр
+oil strainer,сетчатый фильтр маслоприёмника,reviewed,lubrication,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,high,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,component,маслоприёмный фильтр
 oil temperature,температура масла,candidate,lubrication,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 oil viscosity,вязкость масла,candidate,lubrication,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 piston cooling jet,масляная форсунка охлаждения поршня,candidate,lubrication,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
@@ -1449,6 +1461,7 @@ heating equipment,нагревательное оборудование,candidat
 high-decibel noise,шум высокого уровня,candidate,safety,N165_D2_CORPUS,high,N165_CORPUS,term,
 highly flammable material,легковоспламеняющийся материал,candidate,safety,N165_D2_CORPUS,high,N165_CORPUS,term,
 impermeable gloves,непроницаемые перчатки,candidate,safety,N165_D2_CORPUS,high,N165_CORPUS,term,
+maximum load,максимально допустимая нагрузка,reviewed,safety,EDITORIAL_RESOLUTION | N165_D2_CORPUS | EDITORIAL_CORE_2026,high,EDITORIAL_RESOLUTION | N165_CORPUS | EDITORIAL_CORE_2026,parameter,максимальная нагрузка
 mobile electrical equipment,переносное электрооборудование,candidate,safety,N165_D2_CORPUS,high,N165_CORPUS,term,
 nitrogen oxide,оксиды азота,candidate,safety,N165_D2_CORPUS,high,N165_CORPUS,term,
 open flame,открытое пламя,candidate,safety,N165_D2_CORPUS,high,N165_CORPUS,term,
@@ -1488,13 +1501,13 @@ lip seal,манжетное уплотнение,candidate,seals,EDITORIAL_CORE_
 mechanical seal,торцевое уплотнение,candidate,seals,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 metal gasket,металлическая прокладка,candidate,seals,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 O-ring,уплотнительное кольцо круглого сечения,candidate,seals,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
-oil seal,манжетное уплотнение,candidate,seals,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,сальник
+oil seal,манжетное уплотнение,reviewed,seals,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,high,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,component,сальник
 radial shaft seal,радиальное манжетное уплотнение вала,candidate,seals,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 seal groove,канавка под уплотнение,candidate,seals,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 sealant bead,валик герметика,candidate,seals,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 sealing lip,рабочая кромка манжеты,candidate,seals,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 sealing surface,уплотняемая поверхность,candidate,seals,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
-shaft seal,уплотнение вала,candidate,seals,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,манжетное уплотнение вала
+shaft seal,манжетное уплотнение вала,reviewed,seals,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,high,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,component,уплотнение вала
 adjust shift cable,отрегулировать трос переключения передач,candidate,service,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 adjust the air pressure,отрегулировать давление воздуха,candidate,service,N165_D2_CORPUS,high,N165_CORPUS,term,
 align the marks,совместить метки,candidate,service,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
@@ -1520,7 +1533,6 @@ check cooling performance,проверить эффективность охла
 check fluid level,проверить уровень рабочей жидкости,candidate,service,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 check for damage,проверить на наличие повреждений,candidate,service,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 check for deformation or corrosion,проверить на наличие деформации или коррозии,candidate,service,N165_D2_CORPUS,high,N165_CORPUS,term,
-check for leakage,проверить на отсутствие утечек,candidate,service,EDITORIAL_CORE_2026 | N165_D2_CORPUS,high,EDITORIAL_CORE_2026 | N165_CORPUS,term,проверить на наличие утечек
 check terminal tension,проверить усилие удержания контакта,candidate,service,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,
 check the body dimensions,проверить контрольные размеры кузова,candidate,service,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 check the flushness,проверить положение панелей по высоте,candidate,service,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,
@@ -1539,7 +1551,6 @@ engage the parking brake,включить стояночный тормоз,cand
 evacuate the system,вакуумировать систему,candidate,service,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 fill with specified fluid,заправить рекомендованной рабочей жидкостью,candidate,service,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 grind the welds flush,зачистить сварные швы заподлицо,candidate,service,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
-install in the reverse order of removal,установить в последовательности обратной снятию,candidate,service,EDITORIAL_CORE_2026 | N155_D2_CORPUS,high,EDITORIAL_CORE_2026 | N155_CORPUS,term,установить в порядке обратном снятию
 lift and support the vehicle,поднять и надёжно установить автомобиль на опоры,candidate,service,N165_D2_CORPUS,high,N165_CORPUS,term,
 maintain engine speed,поддерживать заданную частоту вращения двигателя,candidate,service,N165_D2_CORPUS,high,N165_CORPUS,term,
 make plug welds,выполнить электрозаклёпочные сварные соединения,candidate,service,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
@@ -1575,7 +1586,12 @@ thermal cutting,термическая резка,candidate,service,N165_D2_CORP
 tighten to the specified torque,затянуть установленным моментом,candidate,service,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 weld in the specified sequence,выполнить сварку в указанной последовательности,candidate,service,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 adjust the seat to the highest position,установить сиденье в крайнее верхнее положение,candidate,service.procedure,N155_D2_CORPUS,high,N155_CORPUS,procedure,
+check for leakage,проверить на наличие утечек,reviewed,service.procedure,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026 | N165_D2_CORPUS,high,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026 | N165_CORPUS,procedure,проверить на отсутствие утечек
+do not reuse,не использовать повторно,reviewed,service.procedure,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,high,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,warning,повторно не использовать
 ensure the connector is fully engaged,убедиться что разъём полностью соединён,candidate,service.procedure,N155_D2_CORPUS,high,N155_CORPUS,procedure,
+grind the surface,шлифовать поверхность,reviewed,service.procedure,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,procedure,
+inspect,проверить,reviewed,service.procedure,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,high,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,procedure,осмотреть
+install in the reverse order of removal,"установить в порядке, обратном снятию",reviewed,service.procedure,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026 | N155_D2_CORPUS,high,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026 | N155_CORPUS,procedure,установить в последовательности обратной снятию | установить в порядке обратном снятию
 jack the vehicle,поднять автомобиль домкратом,candidate,service.procedure,N155_D2_CORPUS,high,N155_CORPUS,procedure,
 keep hands away from moving parts,не приближать руки к движущимся деталям,candidate,service.procedure,N155_D2_CORPUS,high,N155_CORPUS,procedure,
 left and right removal methods are similar,порядок снятия с левой и правой сторон одинаков,candidate,service.procedure,N155_D2_CORPUS,high,N155_CORPUS,procedure,
@@ -1584,8 +1600,15 @@ listen for the locking click,убедиться в наличии щелчка �
 move the component to the installation position,установить деталь в монтажное положение,candidate,service.procedure,N155_D2_CORPUS,high,N155_CORPUS,procedure,
 move the seat to the front,переместить сиденье вперёд,candidate,service.procedure,N155_D2_CORPUS,high,N155_CORPUS,procedure,
 move the seat to the rear,переместить сиденье назад,candidate,service.procedure,N155_D2_CORPUS,high,N155_CORPUS,procedure,
+position,установить в требуемое положение,reviewed,service.procedure,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,high,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,procedure,расположить
 prevent hands from being crushed,не допускать защемления рук,candidate,service.procedure,N155_D2_CORPUS,high,N155_CORPUS,procedure,
+prime,предварительно заполнить рабочей жидкостью,reviewed,service.procedure,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,high,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,procedure,заполнить рабочей жидкостью перед пуском | заполнить рабочей жидкостью перед запуском
+refill,заправить повторно,reviewed,service.procedure,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,high,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,procedure,заправить | повторно заправить
 reload the seat module software,повторно загрузить программное обеспечение модуля сиденья,candidate,service.procedure,N155_D2_CORPUS,high,N155_CORPUS,procedure,
+rotate,повернуть,reviewed,service.procedure,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,high,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,procedure,вращать
+sand,обработать шлифовальной бумагой,reviewed,service.procedure,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,high,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,procedure,отшлифовать
+support,подпереть,reviewed,service.procedure,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,high,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,procedure,поддерживать
+vent,стравить воздух,reviewed,service.procedure,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,high,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,procedure,стравить
 verify connector locking,проверить фиксацию разъёма,candidate,service.procedure,N155_D2_CORPUS,high,N155_CORPUS,procedure,
 adapt,выполнить адаптацию,candidate,service_action,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,
 adjust,отрегулировать,candidate,service_action,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
@@ -1658,7 +1681,6 @@ finger-tighten,затянуть пальцами,candidate,service_action,EDITOR
 flare,развальцевать,candidate,service_action,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 flush,промыть,candidate,service_action,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 fold back,отогнуть,candidate,service_action,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,
-grind,шлифовать,candidate,service_action,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,зачистить
 hand-tighten,затянуть от руки,candidate,service_action,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 hold,удерживать,candidate,service_action,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 hold in position,удерживать в требуемом положении,candidate,service_action,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
@@ -1666,7 +1688,6 @@ hone,хонинговать,candidate,service_action,EDITORIAL_CORE_2026,high,ED
 hook into place,установить на крючок,candidate,service_action,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,
 initialize,инициализировать,candidate,service_action,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 insert,вставить,candidate,service_action,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
-inspect,проверить,candidate,service_action,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,осмотреть
 install,установить,candidate,service_action,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 lap,притереть,candidate,service_action,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 learn,выполнить обучение,candidate,service_action,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,
@@ -1688,12 +1709,9 @@ measure the voltage,измерить напряжение,candidate,service_acti
 move aside,отвести в сторону,candidate,service_action,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 operate the system,привести систему в действие,candidate,service_action,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,
 peen,расклепать,candidate,service_action,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,
-plug weld,выполнить пробочную сварку,candidate,service_action,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,электрозаклёпочное сварное соединение
 polish,полировать,candidate,service_action,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
-position,установить в требуемое положение,candidate,service_action,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,расположить
 press,запрессовать,candidate,service_action,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,
 pressurize,создать давление,candidate,service_action,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
-prime,заполнить рабочей жидкостью перед пуском,candidate,service_action,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,заполнить рабочей жидкостью перед запуском
 program,запрограммировать,candidate,service_action,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 pry,поддеть,candidate,service_action,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 pry off,снять поддеванием,candidate,service_action,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
@@ -1704,7 +1722,6 @@ push in,вставить нажатием,candidate,service_action,EDITORIAL_COR
 raise,поднять,candidate,service_action,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 ream,развернуть отверстие,candidate,service_action,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 recover refrigerant,откачать хладагент,candidate,service_action,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
-refill,повторно заправить,candidate,service_action,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,заправить
 release,освободить,candidate,service_action,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,
 release residual pressure,сбросить остаточное давление,candidate,service_action,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 remove,снять,candidate,service_action,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
@@ -1719,8 +1736,6 @@ resurface,восстановить рабочую поверхность,candida
 retighten,повторно затянуть,candidate,service_action,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 reuse,использовать повторно,candidate,service_action,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 road test,выполнить дорожное испытание,candidate,service_action,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
-rotate,повернуть,candidate,service_action,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,вращать
-sand,отшлифовать,candidate,service_action,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,обработать шлифовальной бумагой
 screw in,ввернуть,candidate,service_action,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 seal,герметизировать,candidate,service_action,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 secure,закрепить,candidate,service_action,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
@@ -1731,7 +1746,6 @@ start the engine,запустить двигатель,candidate,service_action,
 stop the engine,остановить двигатель,candidate,service_action,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 straighten,выправить,candidate,service_action,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 strike,нанести удар,candidate,service_action,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,
-support,подпереть,candidate,service_action,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,поддерживать
 tap lightly,слегка постучать,candidate,service_action,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 tap the thread,нарезать внутреннюю резьбу,candidate,service_action,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 tighten,затянуть,candidate,service_action,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
@@ -1752,7 +1766,6 @@ unhook,снять с крючка,candidate,service_action,EDITORIAL_CORE_2026,m
 unlock,разблокировать,candidate,service_action,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 unscrew,вывернуть,candidate,service_action,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 unstake,раскернить,candidate,service_action,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
-vent,стравить воздух,candidate,service_action,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,стравить
 verify,убедиться,candidate,service_action,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,
 visually inspect,осмотреть,candidate,service_action,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 warm up the engine,прогреть двигатель,candidate,service_action,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
@@ -1766,7 +1779,6 @@ discard after removal,утилизировать после снятия,candida
 do not bend,не сгибать,candidate,service_instruction,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 do not damage,не допускать повреждения,candidate,service_instruction,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 do not pull on the wiring,не тянуть за провода,candidate,service_instruction,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
-do not reuse,повторно не использовать,candidate,service_instruction,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,не использовать повторно
 do not twist,не перекручивать,candidate,service_instruction,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 mark the installed position,пометить установленное положение,candidate,service_instruction,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 note the installation direction,запомнить направление установки,candidate,service_instruction,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,
@@ -1811,7 +1823,7 @@ steering column,рулевая колонка,candidate,steering,EDITORIAL_CORE_
 steering effort,усилие на рулевом колесе,candidate,steering,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,
 steering gear,рулевой механизм,candidate,steering,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 steering motor,электродвигатель усилителя рулевого управления,candidate,steering,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
-steering rack,рулевая рейка,candidate,steering,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,рулевой механизм реечного типа
+steering rack,рулевой механизм реечного типа,reviewed,steering,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,high,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,component,рулевая рейка
 steering rack boot,защитный чехол рулевой рейки,candidate,steering,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 steering shaft,рулевой вал,candidate,steering,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 steering torque sensor,датчик крутящего момента рулевого управления,candidate,steering,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,
@@ -1845,7 +1857,7 @@ suspension strut,амортизаторная стойка,candidate,suspension,
 suspension travel,ход подвески,candidate,suspension,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 toe angle,угол схождения колёс,candidate,suspension,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 upper control arm,верхний рычаг подвески,candidate,suspension,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
-wheel alignment,углы установки колёс,candidate,suspension,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,регулировка углов установки колёс
+wheel alignment,углы установки колёс,reviewed,suspension,EDITORIAL_CORE_2026 | EDITORIAL_RESOLUTION,high,EDITORIAL_CORE_2026 | EDITORIAL_RESOLUTION,procedure,регулировка углов установки колёс
 wheel bearing,подшипник ступицы колеса,candidate,suspension,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 wheel hub,ступица колеса,candidate,suspension,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 adjustable wrench,разводной ключ,candidate,tools,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
@@ -1853,7 +1865,7 @@ air gun,пневматический продувочный пистолет,can
 angle gauge,угломер для затяжки,candidate,tools,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,
 ball joint separator,съёмник шаровых шарниров,candidate,tools,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 bearing driver,оправка для установки подшипника,candidate,tools,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
-bearing puller,съёмник подшипников,candidate,tools,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,съёмник подшипника
+bearing puller,съёмник подшипников,reviewed,tools,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,high,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,tool,съёмник подшипника
 bench vise,слесарные тиски,candidate,tools,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 box-end wrench,накидной ключ,candidate,tools,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 brass drift,латунная выколотка,candidate,tools,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
@@ -1871,7 +1883,6 @@ hydraulic press,гидравлический пресс,candidate,tools,EDITORIA
 impact socket,ударная торцовая головка,candidate,tools,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 installer,установочная оправка,candidate,tools,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,
 locking pliers,зажимные клещи,candidate,tools,EDITORIAL_CORE_2026,medium,EDITORIAL_CORE_2026,term,
-maximum load,максимально допустимая нагрузка,candidate,tools,N165_D2_CORPUS | EDITORIAL_CORE_2026,high,N165_CORPUS | EDITORIAL_CORE_2026,term,максимальная нагрузка
 needle-nose pliers,длинногубцы,candidate,tools,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 open-end wrench,рожковый ключ,candidate,tools,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 overload damage,повреждение вследствие перегрузки,candidate,tools,N165_D2_CORPUS,high,N165_CORPUS,term,
@@ -1887,7 +1898,7 @@ rubber mallet,резиновая киянка,candidate,tools,EDITORIAL_CORE_202
 sandblasting equipment,пескоструйное оборудование,candidate,tools,N165_D2_CORPUS,high,N165_CORPUS,term,
 screwdriver,отвёртка,candidate,tools,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 seal driver,оправка для установки манжеты,candidate,tools,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
-seal puller,съёмник сальников,candidate,tools,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,съёмник манжеты
+seal puller,съёмник манжетных уплотнений,reviewed,tools,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,high,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,tool,съёмник сальников | съёмник манжеты
 side cutters,бокорезы,candidate,tools,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 slide hammer,обратный молоток,candidate,tools,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 snap ring pliers,съёмник стопорных колец,candidate,tools,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
@@ -1936,6 +1947,7 @@ oil drain plug,пробка сливного отверстия,candidate,transm
 oil filler plug,пробка заливного отверстия,candidate,transmission,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 oil level plug,пробка контрольного отверстия уровня масла,candidate,transmission,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 output shaft,вторичный вал,candidate,transmission,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
+planetary ring gear,коронная шестерня планетарного ряда,reviewed,transmission,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,component,
 reverse idler gear,промежуточная шестерня заднего хода,candidate,transmission,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 selector lever,селектор передач,candidate,transmission,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 selector shaft,вал выбора передач,candidate,transmission,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
@@ -1949,8 +1961,10 @@ synchronizer hub,ступица синхронизатора,candidate,transmiss
 synchronizer ring,блокирующее кольцо синхронизатора,candidate,transmission,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 synchronizer sleeve,муфта синхронизатора,candidate,transmission,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 torque converter,гидротрансформатор,candidate,transmission,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
+transmission fluid,рабочая жидкость коробки передач,reviewed,transmission,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,high,EDITORIAL_RESOLUTION | EDITORIAL_CORE_2026,material,трансмиссионная жидкость
 transmission housing,картер коробки передач,candidate,transmission,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 transmission oil,трансмиссионное масло,candidate,transmission,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
+transmission oil pan,поддон коробки передач,reviewed,transmission,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,component,
 flagship model,топовая комплектация,candidate,vehicle.configuration,N155_D2_CORPUS,medium,N155_CORPUS,configuration,
 accelerator pedal position,положение педали акселератора,candidate,vehicle_data,COVESA_VSS_6,high,COVESA_VSS_6,term,
 actuator command,команда исполнительному механизму,candidate,vehicle_data,COVESA_VSS_6,high,COVESA_VSS_6,term,
@@ -1986,7 +2000,6 @@ MIG plug weld,электрозаклёпка MIG,candidate,welding,EDITORIAL_COR
 MIG welding,сварка MIG,candidate,welding,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 resistance spot welding,контактная точечная сварка,candidate,welding,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 seam weld,шовное сварное соединение,candidate,welding,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
-spot weld,точечное сварное соединение,candidate,welding,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,выполнить точечную сварку
 stitch weld,прерывистый сварной шов,candidate,welding,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 TIG welding,сварка TIG,candidate,welding,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 weld bead,валик сварного шва,candidate,welding,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
@@ -1995,6 +2008,7 @@ weld nugget,литое ядро сварной точки,candidate,welding,EDIT
 weld penetration,провар,candidate,welding,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 weld pitch,шаг сварных точек,candidate,welding,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 weld spacing,расстояние между сварными точками,candidate,welding,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
+tire valve stem,вентиль шины,reviewed,wheels.tires,EDITORIAL_RESOLUTION,high,EDITORIAL_RESOLUTION,component,
 adhesive weight,самоклеящийся балансировочный груз,candidate,wheels_tires,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 adjust tire pressure,отрегулировать давление в шинах,candidate,wheels_tires,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
 align the balance mark,совместить балансировочную метку,candidate,wheels_tires,EDITORIAL_CORE_2026,high,EDITORIAL_CORE_2026,term,
