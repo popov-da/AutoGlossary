@@ -13,6 +13,7 @@ Adjustment,Регулировка,approved,manual.heading,VOLGA_PILOT,high,VOLGA
 Replacement,Замена,approved,manual.heading,VOLGA_PILOT,high,VOLGA_PILOT,heading
 Troubleshooting,Поиск и устранение неисправностей,approved,manual.heading,VOLGA_PILOT,high,VOLGA_PILOT,heading
 Service data,Сервисные данные,approved,manual.heading,VOLGA_PILOT,high,VOLGA_PILOT,heading
+Service information,Сервисная информация,reviewed,manual.heading,VOLGA_PILOT,high,VOLGA_PILOT,heading
 Special tools,Специальный инструмент,approved,manual.heading,VOLGA_PILOT,high,VOLGA_PILOT,heading
 Tightening torque,Момент затяжки,approved,manual.heading,VOLGA_PILOT,high,VOLGA_PILOT,heading
 Body dimensions,Контрольные размеры кузова,approved,body.heading,VOLGA_PILOT,high,VOLGA_PILOT,heading
