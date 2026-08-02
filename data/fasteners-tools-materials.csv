@@ -1,0 +1,151 @@
+source,target_preferred,status,category,source_id,confidence
+bolt,болт,candidate,fasteners,EDITORIAL_CORE_2026,high
+flange bolt,фланцевый болт,candidate,fasteners,EDITORIAL_CORE_2026,high
+shoulder bolt,болт с буртиком,candidate,fasteners,EDITORIAL_CORE_2026,medium
+banjo bolt,полый болт,candidate,fasteners,EDITORIAL_CORE_2026,medium
+wheel bolt,колёсный болт,candidate,fasteners,EDITORIAL_CORE_2026,high
+hub bolt,болт ступицы,candidate,fasteners,EDITORIAL_CORE_2026,medium
+screw,винт,candidate,fasteners,EDITORIAL_CORE_2026,high
+self-tapping screw,самонарезающий винт,candidate,fasteners,EDITORIAL_CORE_2026,high
+machine screw,машинный винт,candidate,fasteners,EDITORIAL_CORE_2026,medium
+set screw,установочный винт,candidate,fasteners,EDITORIAL_CORE_2026,high
+bleed screw,штуцер для удаления воздуха,candidate,fasteners,EDITORIAL_CORE_2026,medium
+nut,гайка,candidate,fasteners,EDITORIAL_CORE_2026,high
+flange nut,фланцевая гайка,candidate,fasteners,EDITORIAL_CORE_2026,high
+self-locking nut,самоконтрящаяся гайка,candidate,fasteners,EDITORIAL_CORE_2026,high
+castle nut,корончатая гайка,candidate,fasteners,EDITORIAL_CORE_2026,high
+locknut,контргайка,candidate,fasteners,EDITORIAL_CORE_2026,high
+wheel nut,колёсная гайка,candidate,fasteners,EDITORIAL_CORE_2026,high
+washer,шайба,candidate,fasteners,EDITORIAL_CORE_2026,high
+flat washer,плоская шайба,candidate,fasteners,EDITORIAL_CORE_2026,high
+spring washer,пружинная шайба,candidate,fasteners,EDITORIAL_CORE_2026,high
+lock washer,стопорная шайба,candidate,fasteners,EDITORIAL_CORE_2026,high
+wave washer,волнистая шайба,candidate,fasteners,EDITORIAL_CORE_2026,medium
+thrust washer,упорная шайба,candidate,fasteners,EDITORIAL_CORE_2026,high
+shim,регулировочная шайба,candidate,fasteners,EDITORIAL_CORE_2026,high
+spacer,проставка,candidate,fasteners,EDITORIAL_CORE_2026,medium
+sleeve,втулка,candidate,fasteners,EDITORIAL_CORE_2026,medium
+bushing,втулка,candidate,fasteners,EDITORIAL_CORE_2026,medium
+stud,шпилька,candidate,fasteners,EDITORIAL_CORE_2026,high
+dowel pin,установочный штифт,candidate,fasteners,EDITORIAL_CORE_2026,high
+spring pin,пружинный штифт,candidate,fasteners,EDITORIAL_CORE_2026,high
+cotter pin,шплинт,candidate,fasteners,EDITORIAL_CORE_2026,high
+split pin,шплинт,candidate,fasteners,EDITORIAL_CORE_2026,high
+clevis pin,палец вилки,candidate,fasteners,EDITORIAL_CORE_2026,medium
+snap ring,стопорное кольцо,candidate,fasteners,EDITORIAL_CORE_2026,high
+circlip,стопорное кольцо,candidate,fasteners,EDITORIAL_CORE_2026,high
+retaining ring,стопорное кольцо,candidate,fasteners,EDITORIAL_CORE_2026,high
+external retaining ring,наружное стопорное кольцо,candidate,fasteners,EDITORIAL_CORE_2026,high
+internal retaining ring,внутреннее стопорное кольцо,candidate,fasteners,EDITORIAL_CORE_2026,high
+clip,зажим,candidate,fasteners,EDITORIAL_CORE_2026,medium
+retaining clip,фиксирующий зажим,candidate,fasteners,EDITORIAL_CORE_2026,high
+spring clip,пружинный зажим,candidate,fasteners,EDITORIAL_CORE_2026,high
+wire clip,проволочный фиксатор,candidate,fasteners,EDITORIAL_CORE_2026,medium
+push pin,пистон,candidate,fasteners,EDITORIAL_CORE_2026,medium
+push-type retainer,нажимной фиксатор,candidate,fasteners,EDITORIAL_CORE_2026,medium
+trim clip,фиксатор облицовки,candidate,fasteners,EDITORIAL_CORE_2026,high
+rivet,заклёпка,candidate,fasteners,EDITORIAL_CORE_2026,high
+blind rivet,вытяжная заклёпка,candidate,fasteners,EDITORIAL_CORE_2026,high
+self-piercing rivet,самопроникающая заклёпка,candidate,fasteners,EDITORIAL_CORE_2026,medium
+threaded insert,резьбовая вставка,candidate,fasteners,EDITORIAL_CORE_2026,high
+rivnut,заклёпочная гайка,candidate,fasteners,EDITORIAL_CORE_2026,medium
+cage nut,закладная гайка,candidate,fasteners,EDITORIAL_CORE_2026,medium
+thread pitch,шаг резьбы,candidate,fasteners,EDITORIAL_CORE_2026,high
+thread engagement,длина зацепления резьбы,candidate,fasteners,EDITORIAL_CORE_2026,medium
+tightening torque,момент затяжки,candidate,fasteners,EDITORIAL_CORE_2026,high
+torque-to-yield bolt,болт с контролируемой пластической деформацией,candidate,fasteners,EDITORIAL_CORE_2026,medium
+replace after removal,заменить после снятия,candidate,fasteners,EDITORIAL_CORE_2026,high
+do not reuse,не использовать повторно,candidate,fasteners,EDITORIAL_CORE_2026,high
+torque wrench,динамометрический ключ,candidate,tools,EDITORIAL_CORE_2026,high
+angle gauge,угломер для затяжки,candidate,tools,EDITORIAL_CORE_2026,medium
+socket wrench,торцовый ключ,candidate,tools,EDITORIAL_CORE_2026,high
+socket,торцовая головка,candidate,tools,EDITORIAL_CORE_2026,high
+deep socket,удлинённая торцовая головка,candidate,tools,EDITORIAL_CORE_2026,high
+impact socket,ударная торцовая головка,candidate,tools,EDITORIAL_CORE_2026,high
+ratchet handle,трещоточная рукоятка,candidate,tools,EDITORIAL_CORE_2026,high
+breaker bar,вороток,candidate,tools,EDITORIAL_CORE_2026,medium
+extension bar,удлинитель,candidate,tools,EDITORIAL_CORE_2026,high
+universal joint adapter,карданный переходник,candidate,tools,EDITORIAL_CORE_2026,medium
+open-end wrench,рожковый ключ,candidate,tools,EDITORIAL_CORE_2026,high
+box-end wrench,накидной ключ,candidate,tools,EDITORIAL_CORE_2026,high
+combination wrench,комбинированный ключ,candidate,tools,EDITORIAL_CORE_2026,high
+flare nut wrench,разрезной ключ для трубок,candidate,tools,EDITORIAL_CORE_2026,medium
+adjustable wrench,разводной ключ,candidate,tools,EDITORIAL_CORE_2026,high
+hex key,шестигранный ключ,candidate,tools,EDITORIAL_CORE_2026,high
+Torx bit,бита Torx,candidate,tools,EDITORIAL_CORE_2026,high
+screwdriver,отвёртка,candidate,tools,EDITORIAL_CORE_2026,high
+flat-blade screwdriver,шлицевая отвёртка,candidate,tools,EDITORIAL_CORE_2026,high
+Phillips screwdriver,крестовая отвёртка,candidate,tools,EDITORIAL_CORE_2026,high
+pliers,пассатижи,candidate,tools,EDITORIAL_CORE_2026,high
+needle-nose pliers,длинногубцы,candidate,tools,EDITORIAL_CORE_2026,high
+snap ring pliers,съёмник стопорных колец,candidate,tools,EDITORIAL_CORE_2026,high
+locking pliers,зажимные клещи,candidate,tools,EDITORIAL_CORE_2026,medium
+side cutters,бокорезы,candidate,tools,EDITORIAL_CORE_2026,high
+trim remover,съёмник облицовки,candidate,tools,EDITORIAL_CORE_2026,high
+seal puller,съёмник сальников,candidate,tools,EDITORIAL_CORE_2026,high
+bearing puller,съёмник подшипников,candidate,tools,EDITORIAL_CORE_2026,high
+two-jaw puller,двухзахватный съёмник,candidate,tools,EDITORIAL_CORE_2026,high
+three-jaw puller,трёхзахватный съёмник,candidate,tools,EDITORIAL_CORE_2026,high
+slide hammer,обратный молоток,candidate,tools,EDITORIAL_CORE_2026,high
+ball joint separator,съёмник шаровых шарниров,candidate,tools,EDITORIAL_CORE_2026,high
+spring compressor,стяжка пружины,candidate,tools,EDITORIAL_CORE_2026,high
+valve spring compressor,рассухариватель клапанов,candidate,tools,EDITORIAL_CORE_2026,medium
+piston ring compressor,оправка для сжатия поршневых колец,candidate,tools,EDITORIAL_CORE_2026,high
+installer,установочная оправка,candidate,tools,EDITORIAL_CORE_2026,medium
+driver,монтажная оправка,candidate,tools,EDITORIAL_CORE_2026,medium
+press tool,приспособление для запрессовки,candidate,tools,EDITORIAL_CORE_2026,high
+hydraulic press,гидравлический пресс,candidate,tools,EDITORIAL_CORE_2026,high
+bench vise,слесарные тиски,candidate,tools,EDITORIAL_CORE_2026,high
+soft jaws,мягкие губки тисков,candidate,tools,EDITORIAL_CORE_2026,high
+rubber mallet,резиновая киянка,candidate,tools,EDITORIAL_CORE_2026,high
+plastic hammer,пластиковый молоток,candidate,tools,EDITORIAL_CORE_2026,high
+brass drift,латунная выколотка,candidate,tools,EDITORIAL_CORE_2026,high
+pin punch,выколотка,candidate,tools,EDITORIAL_CORE_2026,high
+center punch,кернер,candidate,tools,EDITORIAL_CORE_2026,high
+feeler gauge,набор щупов,candidate,measuring_tools,EDITORIAL_CORE_2026,high
+vernier caliper,штангенциркуль,candidate,measuring_tools,EDITORIAL_CORE_2026,high
+micrometer,микрометр,candidate,measuring_tools,EDITORIAL_CORE_2026,high
+dial indicator,индикатор часового типа,candidate,measuring_tools,EDITORIAL_CORE_2026,high
+dial gauge stand,стойка индикатора,candidate,measuring_tools,EDITORIAL_CORE_2026,high
+straightedge,поверочная линейка,candidate,measuring_tools,EDITORIAL_CORE_2026,high
+compression gauge,компрессометр,candidate,measuring_tools,EDITORIAL_CORE_2026,high
+vacuum gauge,вакуумметр,candidate,measuring_tools,EDITORIAL_CORE_2026,high
+fuel pressure gauge,манометр давления топлива,candidate,measuring_tools,EDITORIAL_CORE_2026,high
+cooling system pressure tester,прибор для проверки герметичности системы охлаждения,candidate,measuring_tools,EDITORIAL_CORE_2026,high
+multimeter,мультиметр,candidate,electrical_tools,EDITORIAL_CORE_2026,high
+test light,контрольная лампа,candidate,electrical_tools,EDITORIAL_CORE_2026,high
+scan tool,диагностический прибор,candidate,diagnostic_tools,EDITORIAL_CORE_2026,high
+special service tool,специальный сервисный инструмент,candidate,tools,EDITORIAL_CORE_2026,high
+sealant,герметик,candidate,materials,EDITORIAL_CORE_2026,high
+liquid gasket,жидкая прокладка,candidate,materials,EDITORIAL_CORE_2026,high
+silicone sealant,силиконовый герметик,candidate,materials,EDITORIAL_CORE_2026,high
+anaerobic sealant,анаэробный герметик,candidate,materials,EDITORIAL_CORE_2026,high
+thread sealant,резьбовой герметик,candidate,materials,EDITORIAL_CORE_2026,high
+threadlocker,фиксатор резьбы,candidate,materials,EDITORIAL_CORE_2026,high
+low-strength threadlocker,фиксатор резьбы низкой прочности,candidate,materials,EDITORIAL_CORE_2026,high
+medium-strength threadlocker,фиксатор резьбы средней прочности,candidate,materials,EDITORIAL_CORE_2026,high
+high-strength threadlocker,фиксатор резьбы высокой прочности,candidate,materials,EDITORIAL_CORE_2026,high
+anti-seize compound,противозадирная паста,candidate,materials,EDITORIAL_CORE_2026,high
+assembly lubricant,монтажная смазка,candidate,materials,EDITORIAL_CORE_2026,high
+multipurpose grease,универсальная консистентная смазка,candidate,materials,EDITORIAL_CORE_2026,high
+silicone grease,силиконовая смазка,candidate,materials,EDITORIAL_CORE_2026,high
+brake grease,смазка для тормозных механизмов,candidate,materials,EDITORIAL_CORE_2026,high
+penetrating oil,проникающая смазка,candidate,materials,EDITORIAL_CORE_2026,high
+cleaning solvent,очиститель-растворитель,candidate,materials,EDITORIAL_CORE_2026,high
+brake cleaner,очиститель тормозов,candidate,materials,EDITORIAL_CORE_2026,high
+contact cleaner,очиститель электрических контактов,candidate,materials,EDITORIAL_CORE_2026,high
+engine oil,моторное масло,candidate,fluids,EDITORIAL_CORE_2026,high
+transmission fluid,трансмиссионная жидкость,candidate,fluids,EDITORIAL_CORE_2026,high
+gear oil,трансмиссионное масло,candidate,fluids,EDITORIAL_CORE_2026,high
+brake fluid,тормозная жидкость,candidate,fluids,EDITORIAL_CORE_2026,high
+power steering fluid,рабочая жидкость усилителя рулевого управления,candidate,fluids,EDITORIAL_CORE_2026,medium
+engine coolant,охлаждающая жидкость двигателя,candidate,fluids,EDITORIAL_CORE_2026,high
+refrigerant,хладагент,candidate,fluids,EDITORIAL_CORE_2026,high
+compressor oil,масло компрессора кондиционера,candidate,fluids,EDITORIAL_CORE_2026,high
+windshield washer fluid,жидкость стеклоомывателя,candidate,fluids,EDITORIAL_CORE_2026,high
+primer,грунт,candidate,materials,EDITORIAL_CORE_2026,high
+adhesive,клей,candidate,materials,EDITORIAL_CORE_2026,high
+structural adhesive,конструкционный клей,candidate,materials,EDITORIAL_CORE_2026,high
+seam sealer,шовный герметик,candidate,materials,EDITORIAL_CORE_2026,high
+cavity wax,антикоррозионный состав для скрытых полостей,candidate,materials,EDITORIAL_CORE_2026,high
+underbody coating,антикоррозионное покрытие днища,candidate,materials,EDITORIAL_CORE_2026,high
