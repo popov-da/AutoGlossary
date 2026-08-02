@@ -1,0 +1,21 @@
+source,target_preferred,status,category,source_id,confidence
+diagnostic trouble code,диагностический код неисправности,candidate,diagnostics,AUTOSAR_R25_11,medium
+unified diagnostic services,унифицированные диагностические службы,candidate,diagnostics,AUTOSAR_R25_11,medium
+diagnostics over Internet Protocol,диагностика поверх интернет-протокола,candidate,diagnostics,AUTOSAR_R25_11,medium
+on-board diagnostics,бортовая диагностика,candidate,diagnostics,COVESA_VSS_6,medium
+diagnostic session control,управление диагностическим сеансом,candidate,diagnostics,AUTOSAR_R25_11,high
+ECU reset,сброс электронного блока управления,candidate,diagnostics,AUTOSAR_R25_11,high
+security access,доступ с проверкой безопасности,candidate,diagnostics,AUTOSAR_R25_11,medium
+communication control,управление связью,candidate,diagnostics,AUTOSAR_R25_11,high
+tester present,поддержание диагностического сеанса,candidate,diagnostics,AUTOSAR_R25_11,medium
+read data by identifier,чтение данных по идентификатору,candidate,diagnostics,AUTOSAR_R25_11,high
+write data by identifier,запись данных по идентификатору,candidate,diagnostics,AUTOSAR_R25_11,high
+clear diagnostic information,очистка диагностической информации,candidate,diagnostics,AUTOSAR_R25_11,high
+read DTC information,чтение информации о кодах неисправностей,candidate,diagnostics,AUTOSAR_R25_11,high
+input output control by identifier,управление вводом-выводом по идентификатору,candidate,diagnostics,AUTOSAR_R25_11,medium
+routine control,управление процедурой,candidate,diagnostics,AUTOSAR_R25_11,medium
+request download,запрос загрузки данных в блок,candidate,diagnostics,AUTOSAR_R25_11,medium
+request upload,запрос выгрузки данных из блока,candidate,diagnostics,AUTOSAR_R25_11,medium
+transfer data,передача данных,candidate,diagnostics,AUTOSAR_R25_11,high
+negative response code,код отрицательного ответа,candidate,diagnostics,AUTOSAR_R25_11,high
+diagnostic session,диагностический сеанс,candidate,diagnostics,AUTOSAR_R25_11,high
