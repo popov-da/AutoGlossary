@@ -18,101 +18,99 @@ stud distribution,расположение приварных шпилек,candi
 temporarily install the new component,временно установить новую деталь,candidate,body.repair,N165_D2_CORPUS,high,4.2.126.1 左后纵梁加强板后连接板的安装 -N165-D2.dita,procedure
 underbody measuring point,контрольная точка днища кузова,candidate,body.repair,N165_D2_CORPUS,high,4.4.4.1 车身后部尺寸-N165-D2.dita,parameter
 weld stud,приварная шпилька,candidate,body.repair,N165_D2_CORPUS,high,4.3.4.1 螺柱分布-N165-D2.dita,component
-A-pillar upper trim panel,верхняя облицовка стойки A,candidate,electrical.antenna,N155_D2_CORPUS,high,11.9.4.8 无线电频率天线的更换-N155-D2.dita,component
-assist grip,поручень салона,candidate,electrical.antenna,N155_D2_CORPUS,high,11.9.4.8 无线电频率天线的更换-N155-D2.dita,component
-B-pillar lower trim panel assembly,нижняя облицовка стойки B в сборе,candidate,electrical.antenna,N155_D2_CORPUS,high,11.9.4.8 无线电频率天线的更换-N155-D2.dita,component
-B-pillar upper trim panel assembly,верхняя облицовка стойки B в сборе,candidate,electrical.antenna,N155_D2_CORPUS,high,11.9.4.8 无线电频率天线的更换-N155-D2.dita,component
-C-pillar upper trim panel assembly,верхняя облицовка стойки C в сборе,candidate,electrical.antenna,N155_D2_CORPUS,high,11.9.4.8 无线电频率天线的更换-N155-D2.dita,component
-door opening seal,уплотнитель дверного проёма,candidate,electrical.antenna,N155_D2_CORPUS,high,11.9.4.8 无线电频率天线的更换-N155-D2.dita,component
-door sill trim panel,накладка порога дверного проёма,candidate,electrical.antenna,N155_D2_CORPUS,high,11.9.4.8 无线电频率天线的更换-N155-D2.dita,component
-immobilizer coil,катушка иммобилайзера,candidate,electrical.antenna,N155_D2_CORPUS,high,11.9.4.7 防盗线圈的更换-N155-D2.dita,component
-interior rearview mirror trim cover,декоративная крышка внутреннего зеркала заднего вида,candidate,electrical.antenna,N155_D2_CORPUS,high,11.9.4.8 无线电频率天线的更换-N155-D2.dita,component
-keyless vehicle antenna,антенна системы бесключевого доступа,candidate,electrical.antenna,N155_D2_CORPUS,high,11.9.4.6 无钥匙车辆天线(尾部)的更换-N155-D2.dita,component
-luggage compartment cover plate,панель пола багажного отделения,candidate,electrical.antenna,N155_D2_CORPUS,high,11.9.4.8 无线电频率天线的更换-N155-D2.dita,component
-luggage compartment trim panel assembly,облицовка багажного отделения в сборе,candidate,electrical.antenna,N155_D2_CORPUS,high,11.9.4.8 无线电频率天线的更换-N155-D2.dita,component
-overhead console unit,потолочная консоль в сборе,candidate,electrical.antenna,N155_D2_CORPUS,high,11.9.4.8 无线电频率天线的更换-N155-D2.dita,component
-radio frequency antenna,радиочастотная антенна,candidate,electrical.antenna,N155_D2_CORPUS,high,11.9.4.8 无线电频率天线的更换-N155-D2.dita,component
-rear bumper harness,жгут проводов заднего бампера,candidate,electrical.antenna,N155_D2_CORPUS,high,11.9.4.6 无钥匙车辆天线(尾部)的更换-N155-D2.dita,component
-rear bumper lower body,нижняя часть заднего бампера,candidate,electrical.antenna,N155_D2_CORPUS,high,11.9.4.6 无钥匙车辆天线(尾部)的更换-N155-D2.dita,component
-rear keyless vehicle antenna,задняя антенна системы бесключевого доступа,candidate,electrical.antenna,N155_D2_CORPUS,high,11.9.4.6 无钥匙车辆天线(尾部)的更换-N155-D2.dita,component
-rear overhead console,задняя потолочная консоль,candidate,electrical.antenna,N155_D2_CORPUS,high,11.9.4.8 无线电频率天线的更换-N155-D2.dita,component
-rear seat backrest assembly,спинка заднего сиденья в сборе,candidate,electrical.antenna,N155_D2_CORPUS,high,11.9.4.8 无线电频率天线的更换-N155-D2.dita,component
-rear seat cushion,подушка заднего сиденья,candidate,electrical.antenna,N155_D2_CORPUS,high,11.9.4.8 无线电频率天线的更换-N155-D2.dita,component
-rear wheel arch trim panel,накладка задней колёсной арки,candidate,electrical.antenna,N155_D2_CORPUS,high,11.9.4.6 无钥匙车辆天线(尾部)的更换-N155-D2.dita,component
-roof harness,жгут проводов крыши,candidate,electrical.antenna,N155_D2_CORPUS,high,11.9.4.8 无线电频率天线的更换-N155-D2.dita,component
-roof interior trim panel,обивка потолка,candidate,electrical.antenna,N155_D2_CORPUS,high,11.9.4.8 无线电频率天线的更换-N155-D2.dita,component
-sun visor,солнцезащитный козырёк,candidate,electrical.antenna,N155_D2_CORPUS,high,11.9.4.8 无线电频率天线的更换-N155-D2.dita,component
-visor hook,фиксатор солнцезащитного козырька,candidate,electrical.antenna,N155_D2_CORPUS,high,11.9.4.8 无线电频率天线的更换-N155-D2.dita,component
-back door glass defrosting braid lead,плетёный вывод обогревателя стекла двери багажного отделения,candidate,electrical.defrost,N155_D2_CORPUS,high,11.11.2.1 背门玻璃除霜编织引线的修理-N155-D2.dita,component
-back door harness,жгут проводов двери багажного отделения,candidate,electrical.defrost,N155_D2_CORPUS,high,11.11.2.1 背门玻璃除霜编织引线的修理-N155-D2.dita,component
-body gateway module,центральный шлюзовой модуль кузовной электроники,candidate,electrical.defrost,N155_D2_CORPUS,high,11.11.1.2 系统-N155-D2.dita,module
-conductive adhesive,токопроводящий клей,candidate,electrical.defrost,N155_D2_CORPUS,high,11.11.2.1 背门玻璃除霜编织引线的修理-N155-D2.dita,material
-defrost braided lead,плетёный вывод обогревателя стекла,candidate,electrical.defrost,N155_D2_CORPUS,high,11.11.2.1 背门玻璃除霜编织引线的修理-N155-D2.dita,component
-defrost relay,реле обогрева стекла,candidate,electrical.defrost,N155_D2_CORPUS,high,11.11.1.2 系统-N155-D2.dita,component
-defrost switch,выключатель обогрева стекла,candidate,electrical.defrost,N155_D2_CORPUS,high,11.11.1.2 系统-N155-D2.dita,component
-electric heating glass defrosting,электрообогрев стекла,candidate,electrical.defrost,N155_D2_CORPUS,high,11.11.1.3 零部件信息-N155-D2.dita,process
-exterior rearview mirror heater,нагревательный элемент наружного зеркала заднего вида,candidate,electrical.defrost,N155_D2_CORPUS,high,11.11.1.1 概述-N155-D2.dita,component
-front windscreen heated defrost control,управление электрообогревом ветрового стекла,candidate,electrical.defrost,N155_D2_CORPUS,high,11.11.1.2 系统-N155-D2.dita,function
-front windscreen heater,нагревательный элемент ветрового стекла,candidate,electrical.defrost,N155_D2_CORPUS,high,11.11.1.2 系统-N155-D2.dita,component
-heating resistance wire,резистивная нагревательная нить,candidate,electrical.defrost,N155_D2_CORPUS,high,11.11.1.3 零部件信息-N155-D2.dita,component
-rear windscreen harness,жгут проводов заднего стекла,candidate,electrical.defrost,N155_D2_CORPUS,high,11.11.2.1 背门玻璃除霜编织引线的修理-N155-D2.dita,component
-rear windscreen heated defrost control,управление электрообогревом заднего стекла,candidate,electrical.defrost,N155_D2_CORPUS,high,11.11.1.2 系统-N155-D2.dita,function
-rear windscreen heater,нагревательный элемент заднего стекла,candidate,electrical.defrost,N155_D2_CORPUS,high,11.11.1.2 系统-N155-D2.dita,component
-transparent conductive film,прозрачная токопроводящая плёнка,candidate,electrical.defrost,N155_D2_CORPUS,high,11.11.1.3 零部件信息-N155-D2.dita,component
-windscreen defrost system,система обогрева ветрового стекла,candidate,electrical.defrost,N155_D2_CORPUS,high,11.11.1.1 概述-N155-D2.dita,system
-anti-theft alarm,противоугонная сигнализация,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.3.1 概述-N155-D2.dita,system
-audible warning,звуковое предупреждение,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.3.3 零部件信息-N155-D2.dita,function
-energize the horn relay,подать питание на реле звукового сигнала,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.3.2 系统-N155-D2.dita,procedure
-front compartment harness assembly,жгут проводов переднего отсека в сборе,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.4.2 喇叭(高音)的更换-N155-D2.dita,component
-horn button,кнопка звукового сигнала,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.3.3 零部件信息-N155-D2.dita,component
-horn circuit,цепь звукового сигнала,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.3.2 系统-N155-D2.dita,system
-horn relay,реле звукового сигнала,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.3.2 系统-N155-D2.dita,component
-horn switch,выключатель звукового сигнала,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.3.2 系统-N155-D2.dita,component
-high-pitched horn,звуковой сигнал высокого тона,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.4.2 喇叭(高音)的更换-N155-D2.dita,component
-low-pitched horn,звуковой сигнал низкого тона,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.3.3 零部件信息-N155-D2.dita,component
-steering wheel module,модуль рулевого колеса,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.3.2 系统-N155-D2.dita,module
-seat adjustment system,система регулировки сиденья,candidate,interior.seat,N155_D2_CORPUS,high,11.10.3.2 系统-N155-D2.dita,system
-seat adjustment system principle,принцип работы системы регулировки сиденья,candidate,interior.seat,N155_D2_CORPUS,high,11.10.3.2 系统-N155-D2.dita,concept
-seat heating control module,модуль управления обогревом сиденья,candidate,interior.seat,N155_D2_CORPUS,high,11.10.3.2 系统-N155-D2.dita,module
-driver seat module,модуль сиденья водителя,candidate,interior.seat,N155_D2_CORPUS,high,11.10.3.2 系统-N155-D2.dita,module
-power seat switch panel,панель переключателей электрорегулировки сиденья,candidate,interior.seat,N155_D2_CORPUS,high,11.10.3.2 系统-N155-D2.dita,component
-outboard seat adjustment switch,наружный переключатель регулировки сиденья,candidate,interior.seat,N155_D2_CORPUS,high,11.10.3.2 系统-N155-D2.dita,component
-seat adjustment switch signal,сигнал переключателя регулировки сиденья,candidate,interior.seat,N155_D2_CORPUS,high,11.10.3.2 系统-N155-D2.dita,signal
-seat motor,электродвигатель регулировки сиденья,candidate,interior.seat,N155_D2_CORPUS,high,11.10.3.2 系统-N155-D2.dita,component
-motor position,положение электродвигателя,candidate,interior.seat,N155_D2_CORPUS,high,11.10.3.2 系统-N155-D2.dita,parameter
-seat memory function,функция памяти положения сиденья,candidate,interior.seat,N155_D2_CORPUS,high,11.10.3.2 系统-N155-D2.dita,function
-memory position,запомненное положение сиденья,candidate,interior.seat,N155_D2_CORPUS,high,11.10.3.2 系统-N155-D2.dita,parameter
-preset position,предустановленное положение,candidate,interior.seat,N155_D2_CORPUS,high,11.10.3.2 系统-N155-D2.dita,parameter
-six-way adjustment,шестипозиционная регулировка,candidate,interior.seat,N155_D2_CORPUS,high,11.10.3.2 系统-N155-D2.dita,function
-lumbar support,поясничная поддержка,candidate,interior.seat,N155_D2_CORPUS,high,11.10.3.2 系统-N155-D2.dita,function
-thigh support,поддержка бёдер,candidate,interior.seat,N155_D2_CORPUS,high,11.10.3.2 系统-N155-D2.dita,function
-seat ventilation,вентиляция сиденья,candidate,interior.seat,N155_D2_CORPUS,high,11.10.3.2 系统-N155-D2.dita,function
-seat heating,обогрев сиденья,candidate,interior.seat,N155_D2_CORPUS,high,11.10.3.2 系统-N155-D2.dita,function
-seat heating request signal,сигнал запроса обогрева сиденья,candidate,interior.seat,N155_D2_CORPUS,high,11.10.3.2 系统-N155-D2.dita,signal
-seat heating wire,нагревательный элемент сиденья,candidate,interior.seat,N155_D2_CORPUS,high,11.10.3.2 系统-N155-D2.dita,component
-seat heating temperature,температура обогрева сиденья,candidate,interior.seat,N155_D2_CORPUS,high,11.10.3.2 系统-N155-D2.dita,parameter
-seat memory adjustment,регулировка положения сиденья по памяти,candidate,interior.seat,N155_D2_CORPUS,high,11.10.3.2 系统-N155-D2.dita,function
-display host unit,головное устройство дисплея,candidate,interior.seat,N155_D2_CORPUS,high,11.10.3.2 系统-N155-D2.dita,module
-central console display,дисплей центральной консоли,candidate,interior.seat,N155_D2_CORPUS,high,11.10.3.2 系统-N155-D2.dita,component
-CAN communication,обмен данными по шине CAN,candidate,interior.seat,N155_D2_CORPUS,high,11.10.3.2 系统-N155-D2.dita,communication
-CAN signal,сигнал шины CAN,candidate,interior.seat,N155_D2_CORPUS,high,11.10.3.2 系统-N155-D2.dita,signal
-record a DTC,записать диагностический код неисправности,candidate,interior.seat,N155_D2_CORPUS,high,11.10.3.2 系统-N155-D2.dita,procedure
-driver seat,сиденье водителя,candidate,interior.seat,N155_D2_CORPUS,high,11.10.4.1 驾驶员座椅的更换-N155-D2.dita,component
-passenger seat,сиденье переднего пассажира,candidate,interior.seat,N155_D2_CORPUS,high,11.10.4.7 乘客座椅的分解与组装-N155-D2.dita,component
-front power seat assembly,переднее сиденье с электроприводом в сборе,candidate,interior.seat,N155_D2_CORPUS,high,11.10.4.1 驾驶员座椅的更换-N155-D2.dita,component
-left front seat assembly,левое переднее сиденье в сборе,candidate,interior.seat,N155_D2_CORPUS,high,11.10.4.3 左前座椅总成(电动)的分解与组装(型式一)-N155-D2.dita,component
-right front seat assembly,правое переднее сиденье в сборе,candidate,interior.seat,N155_D2_CORPUS,high,11.10.4.7 乘客座椅的分解与组装-N155-D2.dita,component
-driver seat sliding rail,салазки сиденья водителя,candidate,interior.seat,N155_D2_CORPUS,high,11.10.4.1 驾驶员座椅的更换-N155-D2.dita,component
-front seat sliding rail,салазки переднего сиденья,candidate,interior.seat,N155_D2_CORPUS,high,11.10.4.3 左前座椅总成(电动)的分解与组装(型式一)-N155-D2.dita,component
-front passenger seat sliding rail,салазки сиденья переднего пассажира,candidate,interior.seat,N155_D2_CORPUS,high,11.10.4.7 乘客座椅的分解与组装-N155-D2.dita,component
-inner sliding rail,внутренняя направляющая салазок,candidate,interior.seat,N155_D2_CORPUS,high,11.10.4.3 左前座椅总成(电动)的分解与组装(型式一)-N155-D2.dita,component
-sliding rail end trim cover,декоративная крышка конца салазки,candidate,interior.seat,N155_D2_CORPUS,high,11.10.4.3 左前座椅总成(电动)的分解与组装(型式一)-N155-D2.dita,component
-inner sliding rail rear end trim cover,задняя декоративная крышка внутренней направляющей салазок,candidate,interior.seat,N155_D2_CORPUS,high,11.10.4.3 左前座椅总成(电动)的分解与组装(型式一)-N155-D2.dita,component
-vehicle body floor,панель пола кузова,candidate,interior.seat,N155_D2_CORPUS,high,11.10.4.1 驾驶员座椅的更换-N155-D2.dita,component
-floor harness assembly,жгут проводов пола в сборе,candidate,interior.seat,N155_D2_CORPUS,high,11.10.4.1 驾驶员座椅的更换-N155-D2.dita,component
-seat harness,жгут проводов сиденья,candidate,interior.seat,N155_D2_CORPUS,high,11.10.4.2 驾驶员座椅模块的更换-N155-D2.dita,component
-seat harness connector,разъём жгута проводов сиденья,candidate,interior.seat,N155_D2_CORPUS,high,11.10.4.2 驾驶员座椅模块的更换-N155-D2.dita,component
-seat harness fixing clip,фиксатор жгута проводов сиденья,candidate,interior.seat,N155_D2_CORPUS,high,11.10.4.2 驾驶员座椅模块的更换-N155-D2.dita,component
-seat belt buckle sensor,датчик замка ремня безопасности,candidate,interior.seat,N155_D2_CORPUS,high,11.10.4.3 左前座椅总成(电动)的分解与组装(型式一)-N155-D2.dita,component
-front seat headrest,подголовник переднего сиденья,candidate,interior.seat,N155_D2_CORPUS,high,11.10.4.3 左前座椅总成(电动)的分解与组装(型式一)-N155-D2.dita,component
-front headrest guide sleeve,направляющая втулка подголовника переднего сиденья,candidate,interior.seat,N155_D2_CORPUS,high,11.10.4.3 左前座椅总成(электроприводом)
+abnormal coolant level,ненормальный уровень охлаждающей жидкости,candidate,maintenance.cooling,N165_D2_CORPUS,high,0.4.4.7 发动机水温的检查-N165-D2.dita,fault
+bent cooling fins,погнутые охлаждающие рёбра,candidate,maintenance.cooling,N165_D2_CORPUS,high,0.4.4.8 冷却模块的检查-N165-D2.dita,fault
+blocked cooling fins,засорённые охлаждающие рёбра,candidate,maintenance.cooling,N165_D2_CORPUS,high,0.4.4.8 冷却模块的检查-N165-D2.dita,fault
+blow from back to front,продувать сзади вперёд,candidate,maintenance.cooling,N165_D2_CORPUS,high,0.4.4.9 冷却模块的清洗-N165-D2.dita,procedure
+check the water pump for coolant leakage,проверить водяной насос на наличие утечки охлаждающей жидкости,candidate,maintenance.cooling,N165_D2_CORPUS,high,0.4.4.6 发动机冷却液渗漏的检查-N165-D2.dita,procedure
+cold engine,холодный двигатель,candidate,maintenance.cooling,N165_D2_CORPUS,high,0.4.4.3 发动机冷却液面的检查-N165-D2.dita,condition
+compressed air cleaning,очистка сжатым воздухом,candidate,maintenance.cooling,N165_D2_CORPUS,high,0.4.4.9 冷却模块的清洗-N165-D2.dita,procedure
+condenser core,сердцевина конденсора,candidate,maintenance.cooling,N165_D2_CORPUS,high,0.4.4.8 冷却模块的检查-N165-D2.dita,component
+connected coolant piping,подсоединённые трубопроводы системы охлаждения,candidate,maintenance.cooling,N165_D2_CORPUS,high,0.4.4.6 发动机冷却液渗漏的检查-N165-D2.dita,component
+coolant leak check,проверка системы охлаждения на утечки,candidate,maintenance.cooling,N165_D2_CORPUS,high,0.4.4.6 发动机冷却液渗漏的检查-N165-D2.dita,procedure
+coolant level check,проверка уровня охлаждающей жидкости,candidate,maintenance.cooling,N165_D2_CORPUS,high,0.4.4.3 发动机冷却液面的检查-N165-D2.dita,procedure
+coolant temperature indication,индикация температуры охлаждающей жидкости,candidate,maintenance.cooling,N165_D2_CORPUS,high,0.4.4.7 发动机水温的检查-N165-D2.dita,function
+coolant vent pipe,воздухоотводящая трубка системы охлаждения,candidate,maintenance.cooling,N165_D2_CORPUS,high,0.4.4.8 冷却模块的检查-N165-D2.dita,component
+cooling fan blade,лопасть вентилятора охлаждения,candidate,maintenance.cooling,N165_D2_CORPUS,high,0.4.4.8 冷却模块的检查-N165-D2.dita,component
+cooling module cleaning,очистка охлаждающего модуля,candidate,maintenance.cooling,N165_D2_CORPUS,high,0.4.4.9 冷却模块的清洗-N165-D2.dita,procedure
+cooling module inspection,проверка охлаждающего модуля,candidate,maintenance.cooling,N165_D2_CORPUS,high,0.4.4.8 冷却模块的检查-N165-D2.dita,procedure
+cylinder head-to-block joint,стык головки блока цилиндров с блоком цилиндров,candidate,maintenance.cooling,N165_D2_CORPUS,high,0.4.4.6 发动机冷却液渗漏的检查-N165-D2.dita,location
+do not damage the cooling fins,не повредить охлаждающие рёбра,candidate,maintenance.cooling,N165_D2_CORPUS,high,0.4.4.9 冷却模块的清洗-N165-D2.dita,warning
+engine coolant temperature check,проверка температуры охлаждающей жидкости двигателя,candidate,maintenance.cooling,N165_D2_CORPUS,high,0.4.4.7 发动机水温的检查-N165-D2.dita,procedure
+engine overheating,перегрев двигателя,candidate,maintenance.cooling,N165_D2_CORPUS,high,0.4.4.7 发动机水温的检查-N165-D2.dita,fault
+engine shut down,двигатель выключен,candidate,maintenance.cooling,N165_D2_CORPUS,high,0.4.4.3 发动机冷却液面的检查-N165-D2.dita,condition
+expansion tank,расширительный бачок,candidate,maintenance.cooling,N165_D2_CORPUS,high,0.4.4.3 发动机冷却液面的检查-N165-D2.dita,component
+horizontal position,горизонтальное положение,candidate,maintenance.cooling,N165_D2_CORPUS,high,0.4.4.3 发动机冷却液面的检查-N165-D2.dita,condition
+low-pressure water,вода под низким давлением,candidate,maintenance.cooling,N165_D2_CORPUS,high,0.4.4.9 冷却模块的清洗-N165-D2.dita,material
+radiator core,сердцевина радиатора,candidate,maintenance.cooling,N165_D2_CORPUS,high,0.4.4.8 冷却模块的检查-N165-D2.dita,component
+signs of coolant leakage,следы утечки охлаждающей жидкости,candidate,maintenance.cooling,N165_D2_CORPUS,high,0.4.4.6 发动机冷却液渗漏的检查-N165-D2.dita,fault
+standard level mark,нормативная отметка уровня,candidate,maintenance.cooling,N165_D2_CORPUS,high,0.4.4.3 发动机冷却液面的检查-N165-D2.dita,parameter
+thermostat housing,корпус термостата,candidate,maintenance.cooling,N165_D2_CORPUS,high,0.4.4.6 发动机冷却液渗漏的检查-N165-D2.dita,component
+visually inspect the coolant level,визуально проверить уровень охлаждающей жидкости,candidate,maintenance.cooling,N165_D2_CORPUS,high,0.4.4.3 发动机冷却液面的检查-N165-D2.dita,procedure
+ambient temperature,температура окружающего воздуха,candidate,maintenance.engine,N165_D2_CORPUS,high,0.4.4.1 怠速的检查-N165-D2.dita,parameter
+battery voltage,напряжение аккумуляторной батареи,candidate,maintenance.engine,N165_D2_CORPUS,high,0.4.4.1 怠速的检查-N165-D2.dita,parameter
+engine coolant temperature,температура охлаждающей жидкости двигателя,candidate,maintenance.engine,N165_D2_CORPUS,high,0.4.4.1 怠速的检查-N165-D2.dita,parameter
+high-power electrical loads,мощные потребители электроэнергии,candidate,maintenance.engine,N165_D2_CORPUS,high,0.4.4.1 怠速的检查-N165-D2.dita,concept
+idle speed inspection,проверка частоты вращения холостого хода,candidate,maintenance.engine,N165_D2_CORPUS,high,0.4.4.1 怠速的检查-N165-D2.dita,procedure
+infrared thermometer,инфракрасный термометр,candidate,maintenance.engine,N165_D2_CORPUS,high,0.4.4.1 怠速的检查-N165-D2.dita,tool
+maintain engine speed,поддерживать заданную частоту вращения двигателя,candidate,maintenance.engine,N165_D2_CORPUS,high,0.4.4.1 怠速的检查-N165-D2.dita,procedure
+mechanical or electrical fault,механическая или электрическая неисправность,candidate,maintenance.engine,N165_D2_CORPUS,high,0.4.4.1 怠速的检查-N165-D2.dita,fault
+run without load,работать без нагрузки,candidate,maintenance.engine,N165_D2_CORPUS,high,0.4.4.1 怠速的检查-N165-D2.dita,procedure
+shift the transmission to P or N,перевести селектор коробки передач в положение P или N,candidate,maintenance.engine,N165_D2_CORPUS,high,0.4.4.1 怠速的检查-N165-D2.dita,procedure
+fuel leak check,проверка топливной системы на утечки,candidate,maintenance.fuel,N165_D2_CORPUS,high,0.4.4.5 燃油渗漏的检查-N165-D2.dita,procedure
+fuel pipeline joint,соединение топливопровода,candidate,maintenance.fuel,N165_D2_CORPUS,high,0.4.4.5 燃油渗漏的检查-N165-D2.dita,component
+fuel rail injector subassembly,топливная рампа с форсунками в сборе,candidate,maintenance.fuel,N165_D2_CORPUS,high,0.4.4.5 燃油渗漏的检查-N165-D2.dita,assembly
+gasoline odor,запах бензина,candidate,maintenance.fuel,N165_D2_CORPUS,high,0.4.4.5 燃油渗漏的检查-N165-D2.dita,fault
+high-pressure fuel pump,топливный насос высокого давления,candidate,maintenance.fuel,N165_D2_CORPUS,high,0.4.4.5 燃油渗漏的检查-N165-D2.dita,component
+inspect the engine compartment for fuel leaks,проверить моторный отсек на наличие утечек топлива,candidate,maintenance.fuel,N165_D2_CORPUS,high,0.4.4.5 燃油渗漏的检查-N165-D2.dita,procedure
+leakage trace,следы утечки,candidate,maintenance.fuel,N165_D2_CORPUS,high,0.4.4.5 燃油渗漏的检查-N165-D2.dita,fault
+lower floor fuel supply pipe,топливопровод подачи топлива под днищем,candidate,maintenance.fuel,N165_D2_CORPUS,high,0.4.4.5 燃油渗漏的检查-N165-D2.dita,component
+check the lower part of the engine for oil leakage,проверить нижнюю часть двигателя на наличие утечек масла,candidate,maintenance.lubrication,N165_D2_CORPUS,high,0.4.4.4 发动机机油渗漏的检查-N165-D2.dita,procedure
+check the upper part of the engine for oil leakage,проверить верхнюю часть двигателя на наличие утечек масла,candidate,maintenance.lubrication,N165_D2_CORPUS,high,0.4.4.4 发动机机油渗漏的检查-N165-D2.dita,procedure
+cylinder head cover,крышка головки блока цилиндров,candidate,maintenance.lubrication,N165_D2_CORPUS,high,0.4.4.4 发动机机油渗漏的检查-N165-D2.dita,component
+engine bottom shield,нижний защитный кожух двигателя,candidate,maintenance.lubrication,N165_D2_CORPUS,high,0.4.4.4 发动机机油渗漏的检查-N165-D2.dita,component
+engine oil level check,проверка уровня моторного масла,candidate,maintenance.lubrication,N165_D2_CORPUS,high,0.4.4.2 机油油位的检查-N165-D2.dita,procedure
+instrument cluster indication,индикация на комбинации приборов,candidate,maintenance.lubrication,N165_D2_CORPUS,high,0.4.4.2 机油油位的检查-N165-D2.dita,function
+oil leak check,проверка двигателя на утечки масла,candidate,maintenance.lubrication,N165_D2_CORPUS,high,0.4.4.4 发动机机油渗漏的检查-N165-D2.dita,procedure
+oil leakage trace,следы утечки масла,candidate,maintenance.lubrication,N165_D2_CORPUS,high,0.4.4.4 发动机机油渗漏的检查-N165-D2.dita,fault
+oil temperature and pressure sensor,датчик температуры и давления масла,candidate,maintenance.lubrication,N165_D2_CORPUS,high,0.4.4.2 机油油位的检查-N165-D2.dita,component
+read the engine oil level with a diagnostic tool,считать уровень моторного масла диагностическим прибором,candidate,maintenance.lubrication,N165_D2_CORPUS,high,0.4.4.2 机油油位的检查-N165-D2.dita,procedure
+axle stand,страховочная опора,candidate,safety.workshop,N165_D2_CORPUS,high,1.6.1.20 一般车间工具与设备-N165-D2.dita,equipment
+confined space,замкнутое пространство,candidate,safety.workshop,N165_D2_CORPUS,high,1.6.1.13 废气-N165-D2.dita,condition
+cured foam,отверждённый пеноматериал,candidate,safety.workshop,N165_D2_CORPUS,high,1.6.1.17 泡沫-N165-D2.dita,material
+electric shock,поражение электрическим током,candidate,safety.workshop,N165_D2_CORPUS,high,1.6.1.12 电击-N165-D2.dita,hazard
+electrical isolation,электрическая изоляция,candidate,safety.workshop,N165_D2_CORPUS,high,1.6.1.12 电击-N165-D2.dita,procedure
+exhaust extraction equipment,оборудование для удаления отработавших газов,candidate,safety.workshop,N165_D2_CORPUS,high,1.6.1.13 废气-N165-D2.dita,equipment
+exhaust fumes,отработавшие газы,candidate,safety.workshop,N165_D2_CORPUS,high,1.6.1.13 废气-N165-D2.dita,hazard
+eye protection,средства защиты глаз,candidate,safety.workshop,N165_D2_CORPUS,high,1.6.1.20 一般车间工具与设备-N165-D2.dita,ppe
+fibrous insulation material,волокнистый теплоизоляционный материал,candidate,safety.workshop,N165_D2_CORPUS,high,1.6.1.14 纤维隔离-N165-D2.dita,material
+fire extinguisher,огнетушитель,candidate,safety.workshop,N165_D2_CORPUS,high,1.6.1.15 火灾-N165-D2.dita,equipment
+first aid treatment,оказание первой помощи,candidate,safety.workshop,N165_D2_CORPUS,high,1.6.1.16 急救-N165-D2.dita,procedure
+flammable material,легковоспламеняющийся материал,candidate,safety.workshop,N165_D2_CORPUS,high,1.6.1.15 火灾-N165-D2.dita,hazard
+fuel storage equipment,оборудование для хранения топлива,candidate,safety.workshop,N165_D2_CORPUS,high,1.6.1.18 燃料-N165-D2.dita,equipment
+gasoline vapor,пары бензина,candidate,safety.workshop,N165_D2_CORPUS,high,1.6.1.18 燃料-N165-D2.dita,hazard
+general workshop tools and equipment,общий инструмент и оборудование мастерской,candidate,safety.workshop,N165_D2_CORPUS,high,1.6.1.20 一般车间工具与设备-N165-D2.dita,equipment
+grinding wheel,шлифовальный круг,candidate,safety.workshop,N165_D2_CORPUS,high,1.6.1.20 一般车间工具与设备-N165-D2.dita,tool
+hearing protection,средства защиты органов слуха,candidate,safety.workshop,N165_D2_CORPUS,high,1.6.1.22 噪音-N165-D2.dita,ppe
+high-decibel noise,шум высокого уровня,candidate,safety.workshop,N165_D2_CORPUS,high,1.6.1.22 噪音-N165-D2.dita,hazard
+high-voltage equipment,высоковольтное оборудование,candidate,safety.workshop,N165_D2_CORPUS,high,1.6.1.12 电击-N165-D2.dita,equipment
+impermeable gloves,непроницаемые перчатки,candidate,safety.workshop,N165_D2_CORPUS,high,1.6.1.21 润滑剂与润滑脂-N165-D2.dita,ppe
+lubricating grease,пластичная смазка,candidate,safety.workshop,N165_D2_CORPUS,high,1.6.1.21 润滑剂与润滑脂-N165-D2.dita,material
+maximum load limit,максимально допустимая нагрузка,candidate,safety.workshop,N165_D2_CORPUS,high,1.6.1.20 一般车间工具与设备-N165-D2.dita,parameter
+open flame,открытое пламя,candidate,safety.workshop,N165_D2_CORPUS,high,1.6.1.15 火灾-N165-D2.dita,hazard
+open wound,открытая рана,candidate,safety.workshop,N165_D2_CORPUS,high,1.6.1.16 急救-N165-D2.dita,injury
+respiratory protection,средства защиты органов дыхания,candidate,safety.workshop,N165_D2_CORPUS,high,1.6.1.14 纤维隔离-N165-D2.dita,ppe
+skin protection cream,защитный крем для кожи,candidate,safety.workshop,N165_D2_CORPUS,high,1.6.1.21 润滑剂与润滑脂-N165-D2.dita,ppe
+toxic fumes,токсичные пары,candidate,safety.workshop,N165_D2_CORPUS,high,1.6.1.17 泡沫-N165-D2.dita,hazard
+uncured material,неотверждённый материал,candidate,safety.workshop,N165_D2_CORPUS,high,1.6.1.17 泡沫-N165-D2.dita,material
+used engine oil,отработанное моторное масло,candidate,safety.workshop,N165_D2_CORPUS,high,1.6.1.21 润滑剂与润滑脂-N165-D2.dita,material
+front overhang,передний свес,candidate,vehicle.dimensions,N165_D2_CORPUS,high,1.8.1.2 全车尺寸-N165-D2.dita,parameter
+front wheel tread,колея передних колёс,candidate,vehicle.dimensions,N165_D2_CORPUS,high,1.8.1.2 全车尺寸-N165-D2.dita,parameter
+ground clearance,дорожный просвет,candidate,vehicle.dimensions,N165_D2_CORPUS,high,1.8.1.2 全车尺寸-N165-D2.dita,parameter
+rear overhang,задний свес,candidate,vehicle.dimensions,N165_D2_CORPUS,high,1.8.1.2 全车尺寸-N165-D2.dita,parameter
+rear wheel tread,колея задних колёс,candidate,vehicle.dimensions,N165_D2_CORPUS,high,1.8.1.2 全车尺寸-N165-D2.dita,parameter
+vehicle height,высота автомобиля,candidate,vehicle.dimensions,N165_D2_CORPUS,high,1.8.1.2 全车尺寸-N165-D2.dita,parameter
+vehicle length,длина автомобиля,candidate,vehicle.dimensions,N165_D2_CORPUS,high,1.8.1.2 全车尺寸-N165-D2.dita,parameter
+vehicle width,ширина автомобиля,candidate,vehicle.dimensions,N165_D2_CORPUS,high,1.8.1.2 全车尺寸-N165-D2.dita,parameter
+wheelbase,колёсная база,candidate,vehicle.dimensions,N165_D2_CORPUS,high,1.8.1.2 全车尺寸-N165-D2.dita,parameter
+whole vehicle dimensions,габаритные размеры автомобиля,candidate,vehicle.dimensions,N165_D2_CORPUS,high,1.8.1.2 全车尺寸-N165-D2.dita,parameter
