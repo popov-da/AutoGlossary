@@ -1,0 +1,90 @@
+source,target_preferred,status,category,source_id,confidence
+engine assembly,двигатель в сборе,candidate,engine,EDITORIAL_CORE_2026,high
+short block,блок цилиндров в сборе с кривошипно-шатунным механизмом,candidate,engine,EDITORIAL_CORE_2026,medium
+long block,двигатель без навесного оборудования,candidate,engine,EDITORIAL_CORE_2026,medium
+cylinder liner,гильза цилиндра,candidate,engine,EDITORIAL_CORE_2026,high
+cylinder bore,цилиндрическое отверстие блока,candidate,engine,EDITORIAL_CORE_2026,medium
+main bearing cap,крышка коренного подшипника,candidate,engine,EDITORIAL_CORE_2026,high
+main bearing shell,вкладыш коренного подшипника,candidate,engine,EDITORIAL_CORE_2026,high
+connecting rod bearing shell,вкладыш шатунного подшипника,candidate,engine,EDITORIAL_CORE_2026,high
+crankshaft journal,шейка коленчатого вала,candidate,engine,EDITORIAL_CORE_2026,high
+main journal,коренная шейка,candidate,engine,EDITORIAL_CORE_2026,high
+crankpin,шатунная шейка,candidate,engine,EDITORIAL_CORE_2026,high
+crankshaft end play,осевой зазор коленчатого вала,candidate,engine,EDITORIAL_CORE_2026,high
+thrust washer,упорная шайба,candidate,engine,EDITORIAL_CORE_2026,high
+flywheel,маховик,candidate,engine,EDITORIAL_CORE_2026,high
+flexplate,ведущий диск гидротрансформатора,candidate,engine,EDITORIAL_CORE_2026,medium
+ring gear,зубчатый венец,candidate,engine,EDITORIAL_CORE_2026,high
+piston pin,поршневой палец,candidate,engine,EDITORIAL_CORE_2026,high
+piston skirt,юбка поршня,candidate,engine,EDITORIAL_CORE_2026,high
+compression ring,компрессионное кольцо,candidate,engine,EDITORIAL_CORE_2026,high
+oil control ring,маслосъёмное кольцо,candidate,engine,EDITORIAL_CORE_2026,high
+piston ring end gap,зазор в замке поршневого кольца,candidate,engine,EDITORIAL_CORE_2026,high
+piston protrusion,выступание поршня,candidate,engine,EDITORIAL_CORE_2026,high
+valve guide,направляющая втулка клапана,candidate,engine,EDITORIAL_CORE_2026,high
+valve seat,седло клапана,candidate,engine,EDITORIAL_CORE_2026,high
+valve spring,пружина клапана,candidate,engine,EDITORIAL_CORE_2026,high
+valve spring retainer,тарелка пружины клапана,candidate,engine,EDITORIAL_CORE_2026,high
+valve collet,сухарь клапана,candidate,engine,EDITORIAL_CORE_2026,high
+rocker arm,коромысло клапана,candidate,engine,EDITORIAL_CORE_2026,high
+tappet,толкатель клапана,candidate,engine,EDITORIAL_CORE_2026,medium
+hydraulic lash adjuster,гидрокомпенсатор зазора,candidate,engine,EDITORIAL_CORE_2026,high
+camshaft lobe,кулачок распределительного вала,candidate,engine,EDITORIAL_CORE_2026,high
+camshaft bearing cap,крышка подшипника распределительного вала,candidate,engine,EDITORIAL_CORE_2026,high
+camshaft position sensor,датчик положения распределительного вала,candidate,engine_electronics,EDITORIAL_CORE_2026,high
+crankshaft position sensor,датчик положения коленчатого вала,candidate,engine_electronics,EDITORIAL_CORE_2026,high
+variable valve timing,система изменения фаз газораспределения,candidate,engine,EDITORIAL_CORE_2026,high
+camshaft phaser,фазорегулятор распределительного вала,candidate,engine,EDITORIAL_CORE_2026,medium
+timing chain guide,направляющая цепи привода ГРМ,candidate,engine,EDITORIAL_CORE_2026,high
+timing chain tensioner,натяжитель цепи привода ГРМ,candidate,engine,EDITORIAL_CORE_2026,high
+timing belt tensioner,натяжитель ремня привода ГРМ,candidate,engine,EDITORIAL_CORE_2026,high
+idler pulley,обводной ролик,candidate,engine,EDITORIAL_CORE_2026,high
+crankshaft pulley,шкив коленчатого вала,candidate,engine,EDITORIAL_CORE_2026,high
+torsional vibration damper,демпфер крутильных колебаний,candidate,engine,EDITORIAL_CORE_2026,high
+accessory drive belt,ремень привода вспомогательных агрегатов,candidate,engine,EDITORIAL_CORE_2026,high
+belt tensioner,натяжитель ремня,candidate,engine,EDITORIAL_CORE_2026,high
+oil pickup tube,маслоприёмная трубка,candidate,lubrication,EDITORIAL_CORE_2026,high
+oil strainer,сетчатый фильтр маслоприёмника,candidate,lubrication,EDITORIAL_CORE_2026,medium
+oil filter housing,корпус масляного фильтра,candidate,lubrication,EDITORIAL_CORE_2026,high
+oil cooler,масляный радиатор,candidate,lubrication,EDITORIAL_CORE_2026,high
+oil pressure switch,выключатель сигнализатора давления масла,candidate,lubrication,EDITORIAL_CORE_2026,medium
+oil pressure sensor,датчик давления масла,candidate,lubrication,EDITORIAL_CORE_2026,high
+positive crankcase ventilation valve,клапан вентиляции картера,candidate,engine,EDITORIAL_CORE_2026,high
+crankcase breather hose,шланг вентиляции картера,candidate,engine,EDITORIAL_CORE_2026,high
+intake air duct,воздуховод впуска,candidate,intake,EDITORIAL_CORE_2026,high
+air cleaner housing,корпус воздушного фильтра,candidate,intake,EDITORIAL_CORE_2026,high
+air filter element,фильтрующий элемент воздушного фильтра,candidate,intake,EDITORIAL_CORE_2026,high
+throttle body,дроссельный узел,candidate,intake,EDITORIAL_CORE_2026,high
+throttle valve,дроссельная заслонка,candidate,intake,EDITORIAL_CORE_2026,high
+charge air cooler,охладитель наддувочного воздуха,candidate,intake,EDITORIAL_CORE_2026,high
+intercooler hose,шланг охладителя наддувочного воздуха,candidate,intake,EDITORIAL_CORE_2026,high
+turbocharger,турбокомпрессор,candidate,intake,EDITORIAL_CORE_2026,high
+turbocharger actuator,исполнительный механизм турбокомпрессора,candidate,intake,EDITORIAL_CORE_2026,high
+wastegate valve,перепускной клапан турбокомпрессора,candidate,intake,EDITORIAL_CORE_2026,high
+boost pressure sensor,датчик давления наддува,candidate,engine_electronics,EDITORIAL_CORE_2026,high
+mass air flow sensor,датчик массового расхода воздуха,candidate,engine_electronics,EDITORIAL_CORE_2026,high
+manifold absolute pressure sensor,датчик абсолютного давления во впускном коллекторе,candidate,engine_electronics,EDITORIAL_CORE_2026,high
+intake air temperature sensor,датчик температуры впускного воздуха,candidate,engine_electronics,EDITORIAL_CORE_2026,high
+fuel tank,топливный бак,candidate,fuel,EDITORIAL_CORE_2026,high
+fuel filler pipe,наливная труба топливного бака,candidate,fuel,EDITORIAL_CORE_2026,high
+fuel pump module,топливный модуль,candidate,fuel,EDITORIAL_CORE_2026,medium
+fuel level sensor,датчик уровня топлива,candidate,fuel,EDITORIAL_CORE_2026,high
+fuel filter,топливный фильтр,candidate,fuel,EDITORIAL_CORE_2026,high
+fuel rail,топливная рампа,candidate,fuel,EDITORIAL_CORE_2026,high
+fuel injector,топливная форсунка,candidate,fuel,EDITORIAL_CORE_2026,high
+high-pressure fuel pump,топливный насос высокого давления,candidate,fuel,EDITORIAL_CORE_2026,high
+low-pressure fuel pump,топливный насос низкого давления,candidate,fuel,EDITORIAL_CORE_2026,high
+fuel pressure regulator,регулятор давления топлива,candidate,fuel,EDITORIAL_CORE_2026,high
+fuel pressure sensor,датчик давления топлива,candidate,fuel,EDITORIAL_CORE_2026,high
+fuel return line,топливопровод обратной подачи,candidate,fuel,EDITORIAL_CORE_2026,medium
+fuel supply line,топливопровод подачи,candidate,fuel,EDITORIAL_CORE_2026,high
+evaporative emission canister,адсорбер паров топлива,candidate,emissions,EDITORIAL_CORE_2026,high
+purge control valve,клапан продувки адсорбера,candidate,emissions,EDITORIAL_CORE_2026,high
+exhaust gas recirculation valve,клапан рециркуляции отработавших газов,candidate,emissions,EDITORIAL_CORE_2026,high
+exhaust gas temperature sensor,датчик температуры отработавших газов,candidate,emissions,EDITORIAL_CORE_2026,high
+oxygen sensor,датчик кислорода,candidate,emissions,EDITORIAL_CORE_2026,high
+heated oxygen sensor,подогреваемый датчик кислорода,candidate,emissions,EDITORIAL_CORE_2026,high
+catalytic converter,каталитический нейтрализатор,candidate,emissions,EDITORIAL_CORE_2026,high
+diesel particulate filter,сажевый фильтр дизельного двигателя,candidate,emissions,EDITORIAL_CORE_2026,high
+selective catalytic reduction system,система селективного каталитического восстановления,candidate,emissions,EDITORIAL_CORE_2026,high
+diesel exhaust fluid,водный раствор мочевины для системы SCR,candidate,emissions,EDITORIAL_CORE_2026,medium
