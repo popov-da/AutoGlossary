@@ -1,0 +1,70 @@
+source,target_preferred,status,category,source_id,confidence
+cylinder block,блок цилиндров,candidate,engine,EDITORIAL_CORE_2026,high
+cylinder head,головка блока цилиндров,candidate,engine,EDITORIAL_CORE_2026,high
+cylinder head gasket,прокладка головки блока цилиндров,candidate,engine,EDITORIAL_CORE_2026,high
+combustion chamber,камера сгорания,candidate,engine,EDITORIAL_CORE_2026,high
+crankshaft,коленчатый вал,candidate,engine,EDITORIAL_CORE_2026,high
+camshaft,распределительный вал,candidate,engine,EDITORIAL_CORE_2026,high
+connecting rod,шатун,candidate,engine,EDITORIAL_CORE_2026,high
+piston ring,поршневое кольцо,candidate,engine,EDITORIAL_CORE_2026,high
+intake valve,впускной клапан,candidate,engine,EDITORIAL_CORE_2026,high
+exhaust valve,выпускной клапан,candidate,engine,EDITORIAL_CORE_2026,high
+valve clearance,зазор в клапанном механизме,candidate,engine,EDITORIAL_CORE_2026,medium
+valve stem seal,маслосъёмный колпачок,candidate,engine,EDITORIAL_CORE_2026,medium
+timing chain,цепь привода газораспределительного механизма,candidate,engine,EDITORIAL_CORE_2026,medium
+timing belt,ремень привода газораспределительного механизма,candidate,engine,EDITORIAL_CORE_2026,medium
+intake manifold,впускной коллектор,candidate,engine,EDITORIAL_CORE_2026,high
+exhaust manifold,выпускной коллектор,candidate,engine,EDITORIAL_CORE_2026,high
+engine oil sump,масляный поддон двигателя,candidate,engine,EDITORIAL_CORE_2026,high
+oil pump,масляный насос,candidate,engine,EDITORIAL_CORE_2026,high
+oil pressure relief valve,редукционный клапан давления масла,candidate,engine,EDITORIAL_CORE_2026,medium
+engine coolant,охлаждающая жидкость двигателя,candidate,cooling,EDITORIAL_CORE_2026,high
+coolant pump,насос охлаждающей жидкости,candidate,cooling,EDITORIAL_CORE_2026,high
+radiator fan,вентилятор радиатора,candidate,cooling,EDITORIAL_CORE_2026,high
+thermostat housing,корпус термостата,candidate,cooling,EDITORIAL_CORE_2026,high
+expansion tank,расширительный бачок,candidate,cooling,EDITORIAL_CORE_2026,high
+manual transmission,механическая коробка передач,candidate,transmission,EDITORIAL_CORE_2026,high
+automatic transmission,автоматическая коробка передач,candidate,transmission,EDITORIAL_CORE_2026,high
+dual-clutch transmission,роботизированная коробка передач с двумя сцеплениями,candidate,transmission,EDITORIAL_CORE_2026,medium
+continuously variable transmission,бесступенчатая трансмиссия,candidate,transmission,EDITORIAL_CORE_2026,high
+torque converter,гидротрансформатор,candidate,transmission,EDITORIAL_CORE_2026,high
+clutch release bearing,выжимной подшипник сцепления,candidate,transmission,EDITORIAL_CORE_2026,high
+clutch pressure plate,нажимной диск сцепления,candidate,transmission,EDITORIAL_CORE_2026,high
+differential case,корпус дифференциала,candidate,transmission,EDITORIAL_CORE_2026,high
+final drive,главная передача,candidate,transmission,EDITORIAL_CORE_2026,high
+propeller shaft,карданный вал,candidate,driveline,EDITORIAL_CORE_2026,high
+constant velocity joint,шарнир равных угловых скоростей,candidate,driveline,EDITORIAL_CORE_2026,high
+drive shaft,приводной вал,candidate,driveline,EDITORIAL_CORE_2026,medium
+wheel hub,ступица колеса,candidate,chassis,EDITORIAL_CORE_2026,high
+wheel bearing,подшипник ступицы колеса,candidate,chassis,EDITORIAL_CORE_2026,high
+brake caliper,тормозной суппорт,candidate,brakes,EDITORIAL_CORE_2026,high
+brake disc,тормозной диск,candidate,brakes,EDITORIAL_CORE_2026,high
+brake pad,тормозная колодка,candidate,brakes,EDITORIAL_CORE_2026,high
+brake master cylinder,главный тормозной цилиндр,candidate,brakes,EDITORIAL_CORE_2026,high
+brake booster,вакуумный усилитель тормозов,candidate,brakes,EDITORIAL_CORE_2026,medium
+parking brake actuator,исполнительный механизм стояночного тормоза,candidate,brakes,EDITORIAL_CORE_2026,high
+wheel speed sensor,датчик частоты вращения колеса,candidate,brakes,EDITORIAL_CORE_2026,medium
+shock absorber,амортизатор,candidate,suspension,EDITORIAL_CORE_2026,high
+coil spring,винтовая пружина,candidate,suspension,EDITORIAL_CORE_2026,high
+stabilizer bar,стабилизатор поперечной устойчивости,candidate,suspension,EDITORIAL_CORE_2026,high
+control arm,рычаг подвески,candidate,suspension,EDITORIAL_CORE_2026,high
+ball joint,шаровая опора,candidate,suspension,EDITORIAL_CORE_2026,high
+steering knuckle,поворотный кулак,candidate,suspension,EDITORIAL_CORE_2026,high
+tie rod end,наконечник рулевой тяги,candidate,steering,EDITORIAL_CORE_2026,high
+steering rack,рулевой механизм реечного типа,candidate,steering,EDITORIAL_CORE_2026,medium
+power steering pump,насос гидроусилителя рулевого управления,candidate,steering,EDITORIAL_CORE_2026,high
+front bumper reinforcement,усилитель переднего бампера,candidate,body,EDITORIAL_CORE_2026,high
+front side member,передний лонжерон,candidate,body,EDITORIAL_CORE_2026,medium
+wheelhouse panel,панель колёсной арки,candidate,body,EDITORIAL_CORE_2026,medium
+rocker panel,панель порога,candidate,body,EDITORIAL_CORE_2026,medium
+roof side rail,боковая продольная балка крыши,candidate,body,EDITORIAL_CORE_2026,medium
+body-in-white,кузов в сборе до окраски,candidate,body,EDITORIAL_CORE_2026,medium
+remove and install,снять и установить,candidate,service,EDITORIAL_CORE_2026,high
+replace,заменить,candidate,service,EDITORIAL_CORE_2026,high
+tighten to the specified torque,затянуть установленным моментом,candidate,service,EDITORIAL_CORE_2026,high
+check for leakage,проверить на отсутствие утечек,candidate,service,EDITORIAL_CORE_2026,high
+check for damage,проверить на наличие повреждений,candidate,service,EDITORIAL_CORE_2026,high
+align the marks,совместить метки,candidate,service,EDITORIAL_CORE_2026,high
+apply sealant,нанести герметик,candidate,service,EDITORIAL_CORE_2026,high
+apply grease,нанести консистентную смазку,candidate,service,EDITORIAL_CORE_2026,high
+bleed the brake system,удалить воздух из тормозной системы,candidate,service,EDITORIAL_CORE_2026,high
