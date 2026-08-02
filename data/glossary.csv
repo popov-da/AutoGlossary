@@ -1,0 +1,192 @@
+source,target_preferred,status,category,source_id,confidence
+battery electric vehicle,аккумуляторный электромобиль,candidate,ev,UNECE_EV_GUIDE,medium
+hybrid electric vehicle,гибридный электромобиль,candidate,ev,UNECE_EV_GUIDE,medium
+plug-in hybrid electric vehicle,подключаемый гибридный электромобиль,candidate,ev,UNECE_EV_GUIDE,medium
+fuel cell vehicle,автомобиль на топливных элементах,candidate,ev,UNECE_EV_GUIDE,medium
+extended-range electric vehicle,электромобиль с увеличенным запасом хода,candidate,ev,COVESA_VSS_6,medium
+rechargeable energy storage system,перезаряжаемая система накопления энергии,candidate,ev,UNECE_EV_GUIDE,medium
+traction battery,тяговая аккумуляторная батарея,candidate,ev,UNECE_EV_GUIDE,medium
+battery management system,система управления аккумуляторной батареей,candidate,ev,COVESA_VSS_6,medium
+state of charge,степень заряженности,candidate,ev,COVESA_VSS_6,medium
+state of health,степень технического состояния батареи,candidate,ev,COVESA_VSS_6,medium
+high-voltage battery,высоковольтная аккумуляторная батарея,candidate,ev,COVESA_VSS_6,medium
+high-voltage interlock loop,контур блокировки высоковольтной цепи,candidate,ev,UNECE_EV_GUIDE,medium
+electric drive unit,электрический приводной агрегат,candidate,ev,COVESA_VSS_6,medium
+electric machine,электрическая машина,candidate,ev,ISO_TC22,medium
+traction inverter,тяговый инвертор,candidate,ev,COVESA_VSS_6,medium
+DC/DC converter,преобразователь постоянного тока,candidate,ev,ISO_TC22,medium
+on-board charger,бортовое зарядное устройство,candidate,charging,ISO_TC22,medium
+electric vehicle supply equipment,оборудование питания электромобиля,candidate,charging,ISO_TC22,medium
+electric vehicle communication controller,контроллер связи электромобиля,candidate,charging,ISO_TC22,medium
+supply equipment communication controller,контроллер связи зарядного оборудования,candidate,charging,ISO_TC22,medium
+conductive charging,контактная зарядка,candidate,charging,ISO_TC22,medium
+wireless power transfer,беспроводная передача энергии,candidate,charging,ISO_TC22,medium
+vehicle-to-grid,обмен энергией между автомобилем и электросетью,candidate,charging,ISO_TC22,medium
+vehicle-to-home,питание дома от автомобиля,candidate,charging,ISO_TC22,medium
+regenerative braking,рекуперативное торможение,candidate,ev,COVESA_VSS_6,medium
+thermal runaway,тепловой разгон,candidate,ev_safety,UNECE_EV_GUIDE,medium
+isolation resistance,сопротивление изоляции,candidate,ev_safety,UNECE_EV_GUIDE,medium
+maximum working voltage,максимальное рабочее напряжение,candidate,ev_safety,UNECE_EV_GUIDE,medium
+advanced driver assistance system,усовершенствованная система помощи водителю,candidate,adas,UNECE_ADS,medium
+automated driving system,система автоматизированного вождения,candidate,automated_driving,UNECE_ADS,medium
+dynamic driving task,динамическая задача вождения,candidate,automated_driving,UNECE_ADS,medium
+operational design domain,область проектных условий эксплуатации,candidate,automated_driving,UNECE_ADS,medium
+minimal risk condition,состояние минимального риска,candidate,automated_driving,UNECE_ADS,medium
+minimal risk manoeuvre,манёвр минимального риска,candidate,automated_driving,UNECE_ADS,medium
+fallback,резервный режим выполнения задачи вождения,candidate,automated_driving,UNECE_ADS,medium
+fallback-ready user,"пользователь, готовый принять управление",candidate,automated_driving,UNECE_ADS,medium
+driver monitoring system,система контроля состояния водителя,candidate,adas,UNECE_ADS,medium
+automated lane keeping system,автоматизированная система удержания в полосе,candidate,adas,UNECE_ADS,medium
+lane departure warning,предупреждение о выходе из полосы,candidate,adas,COVESA_VSS_6,medium
+lane keeping assistance,помощь в удержании полосы,candidate,adas,COVESA_VSS_6,medium
+adaptive cruise control,адаптивный круиз-контроль,candidate,adas,COVESA_VSS_6,medium
+automatic emergency braking,автоматическое экстренное торможение,candidate,adas,UNECE_ADS,medium
+blind spot detection,контроль слепых зон,candidate,adas,COVESA_VSS_6,medium
+forward collision warning,предупреждение о фронтальном столкновении,candidate,adas,COVESA_VSS_6,medium
+traffic sign recognition,распознавание дорожных знаков,candidate,adas,COVESA_VSS_6,medium
+object and event detection and response,обнаружение объектов и событий и реагирование на них,candidate,automated_driving,UNECE_ADS,medium
+ego vehicle,собственный автомобиль,candidate,simulation,ASAM_OPENX,medium
+scenario,сценарий движения,candidate,simulation,ASAM_OPENX,medium
+logical scenario,логический сценарий,candidate,simulation,ASAM_OPENX,medium
+concrete scenario,конкретный сценарий,candidate,simulation,ASAM_OPENX,medium
+road user,участник дорожного движения,candidate,automated_driving,ASAM_OPENX,medium
+electronic control unit,электронный блок управления,candidate,electronics,AUTOSAR_R25_11,medium
+basic software,базовое программное обеспечение,candidate,autosar,AUTOSAR_R25_11,medium
+runtime environment,среда выполнения,candidate,autosar,AUTOSAR_R25_11,medium
+application software component,прикладной программный компонент,candidate,autosar,AUTOSAR_R25_11,medium
+microcontroller abstraction layer,уровень абстракции микроконтроллера,candidate,autosar,AUTOSAR_R25_11,medium
+adaptive application,адаптивное приложение,candidate,autosar,AUTOSAR_R25_11,medium
+functional cluster,функциональный кластер,candidate,autosar,AUTOSAR_R25_11,medium
+service-oriented architecture,сервис-ориентированная архитектура,candidate,software,AUTOSAR_R25_11,medium
+service-oriented middleware over IP,сервис-ориентированное промежуточное ПО поверх IP,candidate,communication,AUTOSAR_R25_11,medium
+controller area network,сеть контроллеров,candidate,communication,AUTOSAR_R25_11,medium
+CAN flexible data-rate,CAN с гибкой скоростью передачи данных,candidate,communication,AUTOSAR_R25_11,medium
+local interconnect network,локальная межкомпонентная сеть,candidate,communication,AUTOSAR_R25_11,medium
+FlexRay,FlexRay,candidate,communication,AUTOSAR_R25_11,medium
+automotive Ethernet,автомобильный Ethernet,candidate,communication,AUTOSAR_R25_11,medium
+time-sensitive networking,сеть с поддержкой детерминированной передачи по времени,candidate,communication,AUTOSAR_R25_11,medium
+over-the-air update,обновление по беспроводному каналу,candidate,software,AUTOSAR_R25_11,medium
+software update management system,система управления обновлениями программного обеспечения,candidate,software,UNECE_ADS,medium
+software identification number,идентификационный номер программного обеспечения,candidate,software,UNECE_ADS,medium
+vehicle signal specification,спецификация сигналов автомобиля,candidate,vehicle_data,COVESA_VSS_6,medium
+vehicle data model,модель данных автомобиля,candidate,vehicle_data,COVESA_VSS_6,medium
+vehicle signal,сигнал автомобиля,candidate,vehicle_data,COVESA_VSS_6,medium
+diagnostic trouble code,диагностический код неисправности,candidate,diagnostics,AUTOSAR_R25_11,medium
+unified diagnostic services,унифицированные диагностические службы,candidate,diagnostics,AUTOSAR_R25_11,medium
+diagnostics over Internet Protocol,диагностика поверх интернет-протокола,candidate,diagnostics,AUTOSAR_R25_11,medium
+on-board diagnostics,бортовая диагностика,candidate,diagnostics,COVESA_VSS_6,medium
+diagnostic communication manager,менеджер диагностической связи,candidate,autosar,AUTOSAR_R25_11,medium
+diagnostic event manager,менеджер диагностических событий,candidate,autosar,AUTOSAR_R25_11,medium
+functional safety,функциональная безопасность,candidate,safety,ISO_TC22,medium
+automotive safety integrity level,уровень полноты безопасности автомобиля,candidate,safety,ISO_TC22,medium
+hazard analysis and risk assessment,анализ опасностей и оценка рисков,candidate,safety,ISO_TC22,medium
+safety goal,цель безопасности,candidate,safety,ISO_TC22,medium
+safe state,безопасное состояние,candidate,safety,ISO_TC22,medium
+freedom from interference,независимость от взаимного влияния,candidate,safety,ISO_TC22,medium
+cybersecurity management system,система управления кибербезопасностью,candidate,cybersecurity,UNECE_ADS,medium
+threat analysis and risk assessment,анализ угроз и оценка рисков,candidate,cybersecurity,ISO_TC22,medium
+secure boot,безопасная загрузка,candidate,cybersecurity,AUTOSAR_R25_11,medium
+hardware security module,аппаратный модуль безопасности,candidate,cybersecurity,AUTOSAR_R25_11,medium
+intrusion detection system,система обнаружения вторжений,candidate,cybersecurity,AUTOSAR_R25_11,medium
+take-over request,запрос на принятие управления,candidate,automated_driving,UNECE_ADS,high
+transition demand,требование перехода к ручному управлению,candidate,automated_driving,UNECE_ADS,high
+transition phase,переходная фаза,candidate,automated_driving,UNECE_ADS,high
+driver availability recognition system,система распознавания готовности водителя,candidate,adas,UNECE_ADS,medium
+risk mitigation function,функция снижения риска,candidate,automated_driving,UNECE_ADS,high
+remote driving,дистанционное управление автомобилем,candidate,automated_driving,UNECE_ADS,medium
+remote assistance,дистанционная помощь,candidate,automated_driving,UNECE_ADS,medium
+automated valet parking,автоматизированная парковка без водителя,candidate,adas,ASAM_OPENX,medium
+parking manoeuvre,парковочный манёвр,candidate,adas,ASAM_OPENX,high
+cut-in manoeuvre,манёвр перестроения перед автомобилем,candidate,simulation,ASAM_OPENX,medium
+cut-out manoeuvre,манёвр освобождения полосы перед автомобилем,candidate,simulation,ASAM_OPENX,medium
+time to collision,время до столкновения,candidate,adas,ASAM_OPENX,high
+time headway,временной интервал следования,candidate,adas,ASAM_OPENX,medium
+post-encroachment time,время после пересечения конфликтной точки,candidate,adas,ASAM_OPENX,medium
+sensor fusion,комплексирование данных датчиков,candidate,adas,ASAM_OPENX,medium
+perception stack,стек восприятия окружающей обстановки,candidate,adas,ASAM_OPENX,medium
+ground truth,эталонные данные,candidate,simulation,ASAM_OPENX,medium
+scenario-based testing,испытания на основе сценариев,candidate,simulation,ASAM_OPENX,high
+functional scenario,функциональный сценарий,candidate,simulation,ASAM_OPENX,high
+test case,тестовый случай,candidate,simulation,ASAM_OPENX,high
+traffic participant,участник дорожного движения,candidate,simulation,ASAM_OPENX,high
+vulnerable road user,уязвимый участник дорожного движения,candidate,adas,UNECE_ADS,high
+object classification,классификация объектов,candidate,adas,ASAM_OPENX,high
+trajectory,траектория движения,candidate,simulation,ASAM_OPENX,high
+route,маршрут,candidate,simulation,ASAM_OPENX,high
+lane boundary,граница полосы движения,candidate,simulation,ASAM_OPENX,high
+road marking,дорожная разметка,candidate,simulation,ASAM_OPENX,high
+drivable area,"область, доступная для движения",candidate,adas,ASAM_OPENX,medium
+vehicle data specification,спецификация данных автомобиля,candidate,vehicle_data,COVESA_VSS_6,medium
+vehicle service,сервис данных автомобиля,candidate,vehicle_data,COVESA_VSS_6,medium
+vehicle property,свойство автомобиля,candidate,vehicle_data,COVESA_VSS_6,high
+vehicle actuator,исполнительный механизм автомобиля,candidate,vehicle_data,COVESA_VSS_6,high
+vehicle attribute,атрибут автомобиля,candidate,vehicle_data,COVESA_VSS_6,high
+signal path,путь сигнала,candidate,vehicle_data,COVESA_VSS_6,high
+data point,точка данных,candidate,vehicle_data,COVESA_VSS_6,high
+data broker,брокер данных,candidate,vehicle_data,COVESA_VSS_6,medium
+vehicle data broker,брокер данных автомобиля,candidate,vehicle_data,COVESA_VSS_6,medium
+signal subscription,подписка на сигнал,candidate,vehicle_data,COVESA_VSS_6,high
+signal update,обновление сигнала,candidate,vehicle_data,COVESA_VSS_6,high
+actuator command,команда исполнительному механизму,candidate,vehicle_data,COVESA_VSS_6,high
+vehicle speed,скорость автомобиля,candidate,vehicle_data,COVESA_VSS_6,high
+wheel speed,частота вращения колеса,candidate,vehicle_data,COVESA_VSS_6,medium
+steering wheel angle,угол поворота рулевого колеса,candidate,vehicle_data,COVESA_VSS_6,high
+accelerator pedal position,положение педали акселератора,candidate,vehicle_data,COVESA_VSS_6,high
+brake pedal position,положение педали тормоза,candidate,vehicle_data,COVESA_VSS_6,high
+odometer,одометр,candidate,vehicle_data,COVESA_VSS_6,high
+trip meter,счётчик пробега за поездку,candidate,vehicle_data,COVESA_VSS_6,high
+ambient air temperature,температура окружающего воздуха,candidate,vehicle_data,COVESA_VSS_6,high
+cabin temperature,температура в салоне,candidate,vehicle_data,COVESA_VSS_6,high
+AUTOSAR Runtime for Adaptive Applications,среда выполнения адаптивных приложений AUTOSAR,candidate,autosar,AUTOSAR_R25_11,medium
+execution management,управление выполнением,candidate,autosar,AUTOSAR_R25_11,medium
+communication management,управление связью,candidate,autosar,AUTOSAR_R25_11,medium
+persistency,постоянное хранение данных,candidate,autosar,AUTOSAR_R25_11,medium
+platform health management,управление состоянием платформы,candidate,autosar,AUTOSAR_R25_11,medium
+update and configuration management,управление обновлением и конфигурацией,candidate,autosar,AUTOSAR_R25_11,medium
+identity and access management,управление идентификацией и доступом,candidate,autosar,AUTOSAR_R25_11,high
+cryptography,криптографические службы,candidate,autosar,AUTOSAR_R25_11,high
+state management,управление состояниями,candidate,autosar,AUTOSAR_R25_11,high
+service discovery,обнаружение сервисов,candidate,communication,AUTOSAR_R25_11,high
+remote procedure call,удалённый вызов процедур,candidate,communication,AUTOSAR_R25_11,high
+publish-subscribe,модель публикации и подписки,candidate,communication,AUTOSAR_R25_11,high
+end-to-end protection,сквозная защита данных,candidate,communication,AUTOSAR_R25_11,high
+protocol data unit,протокольный блок данных,candidate,communication,AUTOSAR_R25_11,high
+signal-to-service translation,преобразование сигналов в сервисы,candidate,communication,AUTOSAR_R25_11,medium
+network management,управление сетью,candidate,communication,AUTOSAR_R25_11,high
+partial networking,частичный сетевой режим,candidate,communication,AUTOSAR_R25_11,medium
+time synchronization,синхронизация времени,candidate,communication,AUTOSAR_R25_11,high
+secure onboard communication,защищённая бортовая связь,candidate,cybersecurity,AUTOSAR_R25_11,medium
+intrusion detection system manager,менеджер системы обнаружения вторжений,candidate,cybersecurity,AUTOSAR_R25_11,medium
+key management,управление ключами,candidate,cybersecurity,AUTOSAR_R25_11,high
+diagnostic session control,управление диагностическим сеансом,candidate,diagnostics,AUTOSAR_R25_11,high
+ECU reset,сброс электронного блока управления,candidate,diagnostics,AUTOSAR_R25_11,high
+security access,доступ с проверкой безопасности,candidate,diagnostics,AUTOSAR_R25_11,medium
+communication control,управление связью,candidate,diagnostics,AUTOSAR_R25_11,high
+tester present,поддержание диагностического сеанса,candidate,diagnostics,AUTOSAR_R25_11,medium
+read data by identifier,чтение данных по идентификатору,candidate,diagnostics,AUTOSAR_R25_11,high
+write data by identifier,запись данных по идентификатору,candidate,diagnostics,AUTOSAR_R25_11,high
+clear diagnostic information,очистка диагностической информации,candidate,diagnostics,AUTOSAR_R25_11,high
+read DTC information,чтение информации о кодах неисправностей,candidate,diagnostics,AUTOSAR_R25_11,high
+input output control by identifier,управление вводом-выводом по идентификатору,candidate,diagnostics,AUTOSAR_R25_11,medium
+routine control,управление процедурой,candidate,diagnostics,AUTOSAR_R25_11,medium
+request download,запрос загрузки данных в блок,candidate,diagnostics,AUTOSAR_R25_11,medium
+request upload,запрос выгрузки данных из блока,candidate,diagnostics,AUTOSAR_R25_11,medium
+transfer data,передача данных,candidate,diagnostics,AUTOSAR_R25_11,high
+negative response code,код отрицательного ответа,candidate,diagnostics,AUTOSAR_R25_11,high
+diagnostic session,диагностический сеанс,candidate,diagnostics,AUTOSAR_R25_11,high
+charging session,сеанс зарядки,candidate,charging,ISO_TC22,high
+charging station,зарядная станция,candidate,charging,ISO_TC22,high
+charging point,зарядная точка,candidate,charging,ISO_TC22,high
+charging connector,зарядный соединитель,candidate,charging,ISO_TC22,high
+charging inlet,зарядный разъём автомобиля,candidate,charging,ISO_TC22,medium
+combined charging system,комбинированная зарядная система,candidate,charging,ISO_TC22,high
+state of energy,степень энергетического состояния,candidate,ev,COVESA_VSS_6,medium
+available energy,доступная энергия,candidate,ev,COVESA_VSS_6,high
+usable battery capacity,доступная ёмкость аккумуляторной батареи,candidate,ev,COVESA_VSS_6,medium
+cell balancing,балансировка элементов батареи,candidate,ev,UNECE_EV_GUIDE,high
+battery preconditioning,предварительная термоподготовка батареи,candidate,ev,COVESA_VSS_6,medium
+high-voltage bus,высоковольтная шина,candidate,ev,UNECE_EV_GUIDE,high
+service disconnect,сервисный разъединитель,candidate,ev_safety,UNECE_EV_GUIDE,medium
+electric shock protection,защита от поражения электрическим током,candidate,ev_safety,UNECE_EV_GUIDE,high
+direct contact protection,защита от прямого контакта,candidate,ev_safety,UNECE_EV_GUIDE,high
+indirect contact protection,защита от косвенного контакта,candidate,ev_safety,UNECE_EV_GUIDE,high
