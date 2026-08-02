@@ -1,4 +1,4 @@
-name: Rebuild termbase
+name: Rebuild glossary artifacts
 
 on:
   push:
@@ -7,6 +7,8 @@ on:
       - "data/**.csv"
       - "imports/**.csv"
       - "scripts/rebuild_termbase.py"
+      - "scripts/export_consumer.py"
+      - "scripts/validate.py"
       - ".github/workflows/rebuild-termbase.yml"
   workflow_dispatch:
 
@@ -14,7 +16,7 @@ permissions:
   contents: write
 
 jobs:
-  rebuild:
+  rebuild-export-validate:
     if: github.actor != 'github-actions[bot]'
     runs-on: ubuntu-latest
     steps:
@@ -24,17 +26,23 @@ jobs:
         with:
           python-version: "3.12"
 
-      - name: Build authoritative termbase
+      - name: Rebuild master termbase
         run: python scripts/rebuild_termbase.py
 
-      - name: Commit generated files
+      - name: Export consumer glossaries
+        run: python scripts/export_consumer.py
+
+      - name: Validate all CSV artifacts
+        run: python scripts/validate.py
+
+      - name: Commit generated artifacts
         run: |
-          if git diff --quiet -- data/termbase.csv reports/conflicts.csv; then
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/termbase.csv reports/conflicts.csv exports/consumer-*.csv
+          if git diff --cached --quiet; then
             echo "No generated changes"
             exit 0
           fi
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add data/termbase.csv reports/conflicts.csv
-          git commit -m "Rebuild authoritative termbase"
+          git commit -m "Rebuild and export glossary artifacts"
           git push
