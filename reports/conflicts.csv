@@ -1,63 +1,63 @@
 source,selected_target,alternate_target,selected_source,alternate_source
-drill out the spot welds,высверлить точки контактной сварки,высверлить сварные точки,4.2.77.1 前地板的拆卸（四驱） -N165-D2.dita,body-repair-welding.csv
+bearing puller,съёмник подшипников,съёмник подшипника,fasteners-tools-materials.csv,bearings-core.csv
+plug weld,выполнить пробочную сварку,электрозаклёпочное сварное соединение,service-actions.csv,body-repair-welding.csv
+drill out the spot welds,высверлить точки контактной сварки,высверлить сварные точки,4.2.77.1 前地板的拆卸（四驱） -N165-D2.dita | n165-body-repair.csv,body-repair-welding.csv
+oil pan,поддон коробки передач,масляный поддон,transmission-driveline.csv,cooling-lubrication.csv
+clutch release bearing,подшипник выключения сцепления,выжимной подшипник сцепления,transmission-driveline.csv,core-mechanical.csv
 brake booster,усилитель тормозов,вакуумный усилитель тормозов,brakes-suspension-steering.csv,core-mechanical.csv
 steering rack,рулевая рейка,рулевой механизм реечного типа,brakes-suspension-steering.csv,core-mechanical.csv
-oil pressure switch,датчик-сигнализатор давления масла,выключатель сигнализатора давления масла,cooling-lubrication.csv,engine-and-fuel.csv
+check for leakage,проверить на наличие утечек,проверить на отсутствие утечек,n165-safety-maintenance.csv,core-mechanical.csv
+ring gear,коронная шестерня,зубчатый венец,transmission-driveline.csv,engine-and-fuel.csv
+oil pressure switch,датчик-сигнализатор давления масла,выключатель сигнализатора давления масла,cooling-lubrication.csv | engine-fuel.csv,engine-and-fuel.csv
 positive crankcase ventilation valve,клапан принудительной вентиляции картера,клапан вентиляции картера,cooling-lubrication.csv,engine-and-fuel.csv
+fuel pump module,модуль топливного насоса,топливный модуль,engine-fuel.csv,engine-and-fuel.csv
+fuel supply line,магистраль подачи топлива,топливопровод подачи,n165-safety-maintenance.csv,engine-and-fuel.csv
 crankpin,шатунная шейка,шатунная шейка коленчатого вала,engine-and-fuel.csv,engine-fuel.csv
-ring gear,зубчатый венец,зубчатый венец маховика,engine-and-fuel.csv,engine-fuel.csv
+ring gear,коронная шестерня,зубчатый венец маховика,transmission-driveline.csv,engine-fuel.csv
 cylinder bore,цилиндрическое отверстие блока,диаметр цилиндра,engine-and-fuel.csv,engine-fuel.csv
 hydraulic lash adjuster,гидрокомпенсатор зазора,гидрокомпенсатор зазора клапана,engine-and-fuel.csv,engine-fuel.csv
+valve stem,вентиль шины,стержень клапана,wheels-tires.csv,engine-fuel.csv
 oil pickup tube,маслоприёмная трубка,маслоприёмник,cooling-lubrication.csv | engine-and-fuel.csv,engine-fuel.csv
 positive crankcase ventilation valve,клапан принудительной вентиляции картера,клапан системы вентиляции картера,cooling-lubrication.csv,engine-fuel.csv
 intake air duct,воздуховод впуска,воздуховод впускной системы,engine-and-fuel.csv,engine-fuel.csv
 diesel particulate filter,сажевый фильтр дизельного двигателя,сажевый фильтр,engine-and-fuel.csv,engine-fuel.csv
 selective catalytic reduction system,система селективного каталитического восстановления,система селективной каталитической нейтрализации,engine-and-fuel.csv,engine-fuel.csv
-fuel pump module,модуль топливного насоса,топливный модуль,engine-fuel.csv,engine-and-fuel.csv
 fuel return line,топливопровод обратной подачи,топливный сливной трубопровод,engine-and-fuel.csv,engine-fuel.csv
-bearing puller,съёмник подшипников,съёмник подшипника,fasteners-tools-materials.csv,bearings-core.csv
-trim clip,фиксатор облицовки,клипса облицовки,fasteners-tools-materials.csv,hvac-interior.csv
-accumulator,гидроаккумулятор,аккумулятор хладагента,hydraulics-pneumatics.csv,hvac-interior.csv
 bleed screw,винт для удаления воздуха,штуцер для удаления воздуха,hydraulics-pneumatics.csv,fasteners-tools-materials.csv
-assist grip,поручень салона,поручень,11.9.4.8 无线电频率天线的更换-N155-D2.dita,hvac-interior.csv
+accumulator,гидроаккумулятор,аккумулятор хладагента,hydraulics-pneumatics.csv,hvac-interior.csv
 lumbar support,поясничная поддержка,поясничная опора,11.10.3.2 系统-N155-D2.dita,hvac-interior.csv
+assist grip,поручень салона,поручень,11.9.4.8 无线电频率天线的更换-N155-D2.dita,hvac-interior.csv
+trim clip,фиксатор облицовки,клипса облицовки,fasteners-tools-materials.csv,hvac-interior.csv
 install in the reverse order of removal,установить в порядке обратном снятию,установить в последовательности обратной снятию,11.10.4.7 乘客座椅的分解与组装-N155-D2.dita,hvac-interior.csv
-cured foam,отверждённая пена,отверждённый пеноматериал,n165-safety-maintenance.csv,1.6.1.17 泡沫-N165-D2.dita
 lubricating grease,пластичная смазка,консистентная смазка,1.6.1.21 润滑剂与润滑脂-N165-D2.dita,n165-safety-maintenance.csv
-high-power electrical loads,мощные электрические потребители,мощные потребители электроэнергии,n165-safety-maintenance.csv,0.4.4.1 怠速的检查-N165-D2.dita
 oil leak check,проверка двигателя на утечки масла,проверка на утечки моторного масла,0.4.4.4 发动机机油渗漏的检查-N165-D2.dita,n165-safety-maintenance.csv
 fuel leak check,проверка топливной системы на утечки,проверка на утечки топлива,0.4.4.5 燃油渗漏的检查-N165-D2.dita,n165-safety-maintenance.csv
-fuel supply line,магистраль подачи топлива,топливопровод подачи,n165-safety-maintenance.csv,engine-and-fuel.csv
 coolant leak check,проверка системы охлаждения на утечки,проверка на утечки охлаждающей жидкости,0.4.4.6 发动机冷却液渗漏的检查-N165-D2.dita,n165-safety-maintenance.csv
 cooling module inspection,проверка охлаждающего модуля,проверка модуля охлаждения,0.4.4.8 冷却模块的检查-N165-D2.dita,n165-safety-maintenance.csv
 cooling module cleaning,очистка охлаждающего модуля,очистка модуля охлаждения,0.4.4.9 冷却模块的清洗-N165-D2.dita,n165-safety-maintenance.csv
 engine bottom shield,нижний защитный кожух двигателя,нижняя защита двигателя,0.4.4.4 发动机机油渗漏的检查-N165-D2.dita,n165-safety-maintenance.csv
-check for leakage,проверить на наличие утечек,проверить на отсутствие утечек,n165-safety-maintenance.csv,core-mechanical.csv
 seal puller,съёмник сальников,съёмник манжеты,fasteners-tools-materials.csv,seals-assembly.csv
 snap ring,стопорное кольцо,пружинное стопорное кольцо,fasteners-tools-materials.csv,seals-assembly.csv
-check for leakage,проверить на наличие утечек,проверить на отсутствие утечек,n165-safety-maintenance.csv,service-actions.csv
-spot weld,точечное сварное соединение,выполнить точечную сварку,body-repair-welding.csv,service-actions.csv
-plug weld,выполнить пробочную сварку,электрозаклёпочное сварное соединение,service-actions.csv,body-repair-welding.csv
-support,подпереть,поддерживать,service-procedures.csv,service-actions.csv
-position,установить в требуемое положение,расположить,service-procedures.csv,service-actions.csv
 rotate,повернуть,вращать,service-procedures.csv,service-actions.csv
-rivet,заклёпка,заклепать,fasteners-tools-materials.csv,service-procedures.csv
+support,подпереть,поддерживать,service-procedures.csv,service-actions.csv
+inspect,осмотреть,проверить,service-procedures.csv,service-actions.csv
+check for leakage,проверить на наличие утечек,проверить на отсутствие утечек,n165-safety-maintenance.csv,service-actions.csv
+position,установить в требуемое положение,расположить,service-procedures.csv,service-actions.csv
+refill,повторно заправить,заправить,service-procedures.csv,service-actions.csv
+vent,стравить воздух,стравить,service-procedures.csv,service-actions.csv
+prime,заполнить рабочей жидкостью перед запуском,заполнить рабочей жидкостью перед пуском,service-procedures.csv,service-actions.csv
 grind,шлифовать,зачистить,service-procedures.csv,service-actions.csv
 sand,обработать шлифовальной бумагой,отшлифовать,service-procedures.csv,service-actions.csv
-refill,повторно заправить,заправить,service-procedures.csv,service-actions.csv
-prime,заполнить рабочей жидкостью перед запуском,заполнить рабочей жидкостью перед пуском,service-procedures.csv,service-actions.csv
-vent,стравить воздух,стравить,service-procedures.csv,service-actions.csv
-inspect,осмотреть,проверить,service-procedures.csv,service-actions.csv
+spot weld,точечное сварное соединение,выполнить точечную сварку,body-repair-welding.csv,service-actions.csv
+solder,припой,выполнить пайку мягким припоем,11.11.2.1 背门玻璃除霜编织引线的修理-N155-D2.dita,service-actions.csv
+rivet,заклёпка,заклепать,fasteners-tools-materials.csv,service-procedures.csv
 do not reuse,не использовать повторно,повторно не использовать,fasteners-tools-materials.csv,service-procedures.csv
 transmission fluid,трансмиссионная жидкость,рабочая жидкость коробки передач,fasteners-tools-materials.csv,transmission-driveline.csv
 oil seal,манжетное уплотнение,сальник,seals-assembly.csv,transmission-driveline.csv
 shaft seal,уплотнение вала,манжетное уплотнение вала,seals-assembly.csv,transmission-driveline.csv
-clutch release bearing,подшипник выключения сцепления,выжимной подшипник сцепления,transmission-driveline.csv,core-mechanical.csv
-ring gear,коронная шестерня,зубчатый венец,transmission-driveline.csv,engine-and-fuel.csv
-oil pan,поддон коробки передач,масляный поддон,transmission-driveline.csv,cooling-lubrication.csv
 oil strainer,сетчатый фильтр маслоприёмника,маслоприёмный фильтр,cooling-lubrication.csv | engine-and-fuel.csv | engine-fuel.csv,transmission-driveline.csv
 ring gear,коронная шестерня,ведомая шестерня главной передачи,transmission-driveline.csv,transmission-driveline.csv
 wheel alignment,углы установки колёс,регулировка углов установки колёс,brakes-suspension-steering.csv,wheels-tires.csv
 maximum load,максимально допустимая нагрузка,максимальная нагрузка,n165-safety-maintenance.csv,wheels-tires.csv
-valve stem,вентиль шины,стержень клапана,wheels-tires.csv,engine-fuel.csv
-solder,припой,выполнить пайку мягким припоем,11.11.2.1 背门玻璃除霜编织引线的修理-N155-D2.dita,service-actions.csv
+body gateway module,центральный шлюзовой модуль кузовной электроники,шлюзовой модуль кузовной электроники,11.11.1.2 系统-N155-D2.dita,11.12.3.2 系统-N155-D2.dita
+front compartment harness assembly,жгут проводов переднего отсека в сборе,жгут проводов моторного отсека в сборе,11.12.4.2 喇叭(高音)的更换-N155-D2.dita,11.12.4.2 喇叭(高音)的更换-N155-D2.dita

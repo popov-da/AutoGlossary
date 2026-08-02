@@ -112,6 +112,7 @@ body-in-white,кузов в сборе до окраски,candidate,body,EDITOR
 front bumper reinforcement,усилитель переднего бампера,candidate,body,EDITORIAL_CORE_2026,high,core-mechanical.csv,term
 wheelhouse panel,панель колёсной арки,candidate,body,EDITORIAL_CORE_2026,medium,core-mechanical.csv,term
 rear bumper lower panel,нижняя панель заднего бампера,candidate,body.exterior,N155_D2_CORPUS,high,11.9.4.6 无钥匙车辆天线(尾部)的更换-N155-D2.dita,component
+rear wheel brow trim panel,облицовка арки заднего колеса,candidate,body.exterior,N155_D2_CORPUS,high,d5f4bc5d-a8c4-4b60-8123-023b34f35ad5.dita,component
 body rear dimensions,контрольные размеры задней части кузова,candidate,body.repair,N165_D2_CORPUS | N165_D2,high,4.4.4.1 车身后部尺寸-N165-D2.dita | n165-body-repair.csv,parameter
 body reference point,контрольная точка кузова,candidate,body.repair,N165_D2_CORPUS,high,4.4.4.1 车身后部尺寸-N165-D2.dita,parameter
 body structural adhesive,конструкционный клей для кузова,candidate,body.repair,N165_D2_CORPUS | N165_D2,high,4.2.126.1 左后纵梁加强板后连接板的安装 -N165-D2.dita | n165-body-repair.csv,material
@@ -583,8 +584,8 @@ overhead console unit,потолочная консоль в сборе,candidat
 radio frequency antenna,радиочастотная антенна,candidate,electrical.antenna,N155_D2_CORPUS,high,11.9.4.8 无线电频率天线的更换-N155-D2.dita,component
 radio frequency antenna connector,разъём радиочастотной антенны,candidate,electrical.antenna,N155_D2_CORPUS,high,11.9.4.8 无线电频率天线的更换-N155-D2.dita,component
 radio frequency antenna replacement,замена радиочастотной антенны,candidate,electrical.antenna,N155_D2_CORPUS,high,11.9.4.8 无线电频率天线的更换-N155-D2.dita,procedure
-rear bumper harness,жгут проводов заднего бампера,candidate,electrical.antenna,N155_D2_CORPUS,high,11.9.4.6 无钥匙车辆天线(尾部)的更换-N155-D2.dita,component
-rear bumper lower body,нижняя часть заднего бампера,candidate,electrical.antenna,N155_D2_CORPUS,high,11.9.4.6 无钥匙车辆天线(尾部)的更换-N155-D2.dita,component
+rear bumper harness,жгут проводов заднего бампера,candidate,electrical.antenna,N155_D2_CORPUS,high,11.9.4.6 无钥匙车辆天线(尾部)的更换-N155-D2.dita | d5f4bc5d-a8c4-4b60-8123-023b34f35ad5.dita,component
+rear bumper lower body,нижняя часть заднего бампера,candidate,electrical.antenna,N155_D2_CORPUS,high,11.9.4.6 无钥匙车辆天线(尾部)的更换-N155-D2.dita | d5f4bc5d-a8c4-4b60-8123-023b34f35ad5.dita,component
 rear keyless vehicle antenna,задняя антенна системы бесключевого доступа,candidate,electrical.antenna,N155_D2_CORPUS,high,11.9.4.6 无钥匙车辆天线(尾部)的更换-N155-D2.dita,component
 rear overhead console,задняя потолочная консоль,candidate,electrical.antenna,N155_D2_CORPUS,high,11.9.4.8 无线电频率天线的更换-N155-D2.dita,component
 rear seat backrest assembly,спинка заднего сиденья в сборе,candidate,electrical.antenna,N155_D2_CORPUS,high,11.9.4.8 无线电频率天线的更换-N155-D2.dita,component
@@ -633,8 +634,11 @@ uniformly arranged heating wires,равномерно расположенные
 windscreen defrost system,система обогрева ветрового стекла,candidate,electrical.defrost,N155_D2_CORPUS,high,11.11.1.1 概述-N155-D2.dita,system
 windscreen fogging,запотевание ветрового стекла,candidate,electrical.defrost,N155_D2_CORPUS,high,11.11.1.1 概述-N155-D2.dita,condition
 windscreen frost,иней на ветровом стекле,candidate,electrical.defrost,N155_D2_CORPUS,high,11.11.1.1 概述-N155-D2.dita,condition
+abnormal door opening,несанкционированное открывание двери,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.3.3 零部件信息-N155-D2.dita,condition
 anti-theft alarm,противоугонная сигнализация,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.3.1 概述-N155-D2.dita,system
+anti-theft function,функция противоугонной системы,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.3.2 系统-N155-D2.dita,function
 audible warning,звуковое предупреждение,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.3.3 零部件信息-N155-D2.dita,function
+connect the horn harness connector,подсоединить разъём жгута проводов звукового сигнала,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.4.2 喇叭(高音)的更换-N155-D2.dita,procedure
 door lock confirmation beep,звуковой сигнал подтверждения запирания дверей,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.3.3 零部件信息-N155-D2.dita,function
 door unlock confirmation beep,звуковой сигнал подтверждения отпирания дверей,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.3.3 零部件信息-N155-D2.dita,function
 energize the horn relay,подать питание на реле звукового сигнала,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.3.2 系统-N155-D2.dita,procedure
@@ -652,9 +656,11 @@ horn switch,выключатель звукового сигнала,candidate,e
 horn system,звуковая сигнальная система,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.3.2 系统-N155-D2.dita,system
 horn system working principle,принцип работы системы звукового сигнала,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.3.2 系统-N155-D2.dita,concept
 horn test current,ток при проверке звукового сигнала,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.1.1 维修数据-N155-D2.dita,parameter
-horn tweeter,высокочастотный звуковой сигнал,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.3.3 零部件信息-N155-D2.dita,component
-horn woofer,низкочастотный звуковой сигнал,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.3.3 零部件信息-N155-D2.dita,component
+horn tweeter,высокочастотный звуковой сигнал,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.3.3 零部件信息-N155-D2.dita | 11.12.1.1 维修数据-N155-D2.dita,component
+horn warning signal,предупредительный звуковой сигнал,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.3.2 系统-N155-D2.dita,function
+horn woofer,низкочастотный звуковой сигнал,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.3.3 零部件信息-N155-D2.dita | 11.12.1.1 维修数据-N155-D2.dita,component
 install and tighten the horn mounting bolt,установить и затянуть болт крепления звукового сигнала,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.4.2 喇叭(高音)的更换-N155-D2.dita,procedure
+move the horn to the installation position,установить звуковой сигнал в монтажное положение,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.4.2 喇叭(高音)的更换-N155-D2.dita,procedure
 radiator frame,рамка радиатора,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.4.2 喇叭(高音)的更换-N155-D2.dita,component
 rated voltage,номинальное напряжение,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.1.1 维修数据-N155-D2.dita,parameter
 remove the horn,снять звуковой сигнал,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.4.2 喇叭(高音)的更换-N155-D2.dita,procedure
@@ -663,9 +669,10 @@ sound pressure level,уровень звукового давления,candidat
 sound-producing device,звуковое сигнальное устройство,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.3.1 概述-N155-D2.dita,device
 steering wheel horn button,кнопка звукового сигнала на рулевом колесе,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.3.3 零部件信息-N155-D2.dita,component
 supply power to the horn,подать питание на звуковой сигнал,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.3.2 系统-N155-D2.dita,procedure
+test voltage,испытательное напряжение,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.1.1 维修数据-N155-D2.dita,parameter
 unauthorized entry warning,предупреждение о несанкционированном проникновении,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.3.3 零部件信息-N155-D2.dita,function
 vehicle locating function,функция поиска автомобиля,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.3.1 概述-N155-D2.dita,function
-vehicle search function,функция поиска автомобиля,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.3.1 概述-N155-D2.dita,function
+vehicle search function,функция поиска автомобиля,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.3.1 概述-N155-D2.dita | 11.12.3.2 系统-N155-D2.dita,function
 voltage lower limit,нижний предел напряжения,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.1.1 维修数据-N155-D2.dita,parameter
 voltage upper limit,верхний предел напряжения,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.1.1 维修数据-N155-D2.dita,parameter
 warn pedestrians and other vehicles,предупреждать пешеходов и водителей других автомобилей,candidate,electrical.horn,N155_D2_CORPUS,high,11.12.3.1 概述-N155-D2.dita,function
@@ -1598,6 +1605,8 @@ ensure the connector is fully engaged,убедиться что разъём п�
 install in the reverse order of removal,установить в порядке обратном снятию,candidate,service.procedure,N155_D2_CORPUS,high,11.10.4.7 乘客座椅的分解与组装-N155-D2.dita,procedure
 jack the vehicle,поднять автомобиль домкратом,candidate,service.procedure,N155_D2_CORPUS,high,11.9.4.6 无钥匙车辆天线(尾部)的更换-N155-D2.dita,procedure
 keep hands away from moving parts,не приближать руки к движущимся деталям,candidate,service.procedure,N155_D2_CORPUS,high,11.10.4.1 驾驶员座椅的更换-N155-D2.dita,procedure
+left and right removal methods are similar,порядок снятия с левой и правой сторон одинаков,candidate,service.procedure,N155_D2_CORPUS,high,11.12.4.2 喇叭(高音)的更换-N155-D2.dita,procedure
+lifting and jacking of vehicles,подъём автомобиля подъёмником и домкратом,candidate,service.procedure,N155_D2_CORPUS,high,d5f4bc5d-a8c4-4b60-8123-023b34f35ad5.dita,procedure
 listen for the locking click,убедиться в наличии щелчка фиксатора,candidate,service.procedure,N155_D2_CORPUS,high,11.10.4.1 驾驶员座椅的更换-N155-D2.dita,procedure
 move the component to the installation position,установить деталь в монтажное положение,candidate,service.procedure,N155_D2_CORPUS,high,11.10.4.2 驾驶员座椅模块的更换-N155-D2.dita,procedure
 move the seat to the front,переместить сиденье вперёд,candidate,service.procedure,N155_D2_CORPUS,high,11.10.4.1 驾驶员座椅的更换-N155-D2.dita,procedure
