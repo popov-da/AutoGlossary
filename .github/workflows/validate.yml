@@ -8,8 +8,8 @@ jobs:
   validate:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - uses: actions/setup-python@v5
+      - uses: actions/checkout@v5
+      - uses: actions/setup-python@v6
         with:
           python-version: "3.12"
 
@@ -22,6 +22,9 @@ jobs:
       - name: Test
         run: pytest
 
+      - name: Sanitize corpus metadata
+        run: python scripts/sanitize_source_documents.py
+
       - name: Rebuild master termbase
         run: python scripts/rebuild_termbase.py
 
@@ -31,5 +34,5 @@ jobs:
       - name: Validate all CSV artifacts
         run: python scripts/validate.py
 
-      - name: Verify generated artifacts are committed
-        run: git diff --exit-code -- data/termbase.csv reports/conflicts.csv exports/consumer-*.csv
+      - name: Verify generated artifacts and sanitized sources are committed
+        run: git diff --exit-code -- data/*.csv imports/*.csv reports/conflicts.csv exports/consumer-*.csv
