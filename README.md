@@ -42,6 +42,8 @@ python scripts/validate.py
 - [`docs/merge-policy.md`](docs/merge-policy.md) — правила объединения и разрешения конфликтов;
 - [`docs/schema.md`](docs/schema.md) — схемы master и consumer CSV.
 
+Для интеграции поддерживаются только файлы `exports/consumer-*.csv`, сформированные текущим pipeline. Старые экспортные форматы не поддерживаются и не должны использоваться потребителями.
+
 ## Контракт consumer export
 
 `exports/consumer-glossary.csv` содержит строго три колонки:
