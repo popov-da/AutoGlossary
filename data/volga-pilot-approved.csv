@@ -20,7 +20,7 @@ Body dimensions,Контрольные размеры кузова,approved,body
 Body repair,Кузовной ремонт,approved,body.heading,VOLGA_PILOT,high,VOLGA_PILOT,heading
 Welding precautions,Меры предосторожности при сварке,approved,body.heading,VOLGA_PILOT,high,VOLGA_PILOT,heading
 Corrosion protection,Антикоррозионная защита,approved,body.heading,VOLGA_PILOT,high,VOLGA_PILOT,heading
-Contents,Содержание,approved,manual.heading,VOLGA_PILOT,high,VOLGA_PILOT,heading
+Contents,Содержание,candidate,manual.heading,VOLGA_PILOT,medium,VOLGA_PILOT,heading
 Content,Содержимое,reviewed,xml.general,VOLGA_PILOT,high,VOLGA_PILOT,term
 ABS,ABS,approved,abbreviation.brakes,VOLGA_PILOT,high,VOLGA_PILOT,abbreviation
 OBD,OBD,approved,abbreviation.diagnostics,VOLGA_PILOT,high,VOLGA_PILOT,abbreviation
