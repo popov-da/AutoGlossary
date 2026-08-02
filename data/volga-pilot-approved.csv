@@ -1,0 +1,31 @@
+source,target_preferred,status,category,source_id,confidence,source_document,term_type
+Warning,Предупреждение,approved,safety.heading,VOLGA_PILOT,high,VOLGA_PILOT,heading
+Caution,Внимание,approved,safety.heading,VOLGA_PILOT,high,VOLGA_PILOT,heading
+Note,Примечание,approved,safety.heading,VOLGA_PILOT,high,VOLGA_PILOT,heading
+Danger,Опасно,approved,safety.heading,VOLGA_PILOT,high,VOLGA_PILOT,heading
+Safety precautions,Меры безопасности,approved,safety.heading,VOLGA_PILOT,high,VOLGA_PILOT,heading
+General information,Общие сведения,approved,manual.heading,VOLGA_PILOT,high,VOLGA_PILOT,heading
+Description and operation,Описание и работа,approved,manual.heading,VOLGA_PILOT,high,VOLGA_PILOT,heading
+Removal and installation,Снятие и установка,approved,manual.heading,VOLGA_PILOT,high,VOLGA_PILOT,heading
+Disassembly and assembly,Разборка и сборка,approved,manual.heading,VOLGA_PILOT,high,VOLGA_PILOT,heading
+Inspection,Проверка,approved,manual.heading,VOLGA_PILOT,high,VOLGA_PILOT,heading
+Adjustment,Регулировка,approved,manual.heading,VOLGA_PILOT,high,VOLGA_PILOT,heading
+Replacement,Замена,approved,manual.heading,VOLGA_PILOT,high,VOLGA_PILOT,heading
+Troubleshooting,Поиск и устранение неисправностей,approved,manual.heading,VOLGA_PILOT,high,VOLGA_PILOT,heading
+Service data,Сервисные данные,approved,manual.heading,VOLGA_PILOT,high,VOLGA_PILOT,heading
+Special tools,Специальный инструмент,approved,manual.heading,VOLGA_PILOT,high,VOLGA_PILOT,heading
+Tightening torque,Момент затяжки,approved,manual.heading,VOLGA_PILOT,high,VOLGA_PILOT,heading
+Body dimensions,Контрольные размеры кузова,approved,body.heading,VOLGA_PILOT,high,VOLGA_PILOT,heading
+Body repair,Кузовной ремонт,approved,body.heading,VOLGA_PILOT,high,VOLGA_PILOT,heading
+Welding precautions,Меры предосторожности при сварке,approved,body.heading,VOLGA_PILOT,high,VOLGA_PILOT,heading
+Corrosion protection,Антикоррозионная защита,approved,body.heading,VOLGA_PILOT,high,VOLGA_PILOT,heading
+Contents,Содержание,approved,manual.heading,VOLGA_PILOT,high,VOLGA_PILOT,heading
+Content,Содержимое,reviewed,xml.general,VOLGA_PILOT,high,VOLGA_PILOT,term
+ABS,ABS,approved,abbreviation.brakes,VOLGA_PILOT,high,VOLGA_PILOT,abbreviation
+OBD,OBD,approved,abbreviation.diagnostics,VOLGA_PILOT,high,VOLGA_PILOT,abbreviation
+ATF,ATF,approved,abbreviation.fluids,VOLGA_PILOT,high,VOLGA_PILOT,abbreviation
+DTC,DTC,approved,abbreviation.diagnostics,VOLGA_PILOT,high,VOLGA_PILOT,abbreviation
+ECU,ЭБУ,approved,abbreviation.electrical,VOLGA_PILOT,high,VOLGA_PILOT,abbreviation
+TDC,ВМТ,approved,abbreviation.engine,VOLGA_PILOT,high,VOLGA_PILOT,abbreviation
+BDC,НМТ,approved,abbreviation.engine,VOLGA_PILOT,high,VOLGA_PILOT,abbreviation
+VIN,VIN,approved,abbreviation.vehicle,VOLGA_PILOT,high,VOLGA_PILOT,abbreviation
