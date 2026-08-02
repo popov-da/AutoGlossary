@@ -1,0 +1,103 @@
+source,target_preferred,status,category,source_id,confidence
+cooling system,система охлаждения,candidate,cooling,EDITORIAL_CORE_2026,high
+engine cooling system,система охлаждения двигателя,candidate,cooling,EDITORIAL_CORE_2026,high
+coolant,охлаждающая жидкость,candidate,cooling,EDITORIAL_CORE_2026,high
+engine coolant,охлаждающая жидкость двигателя,candidate,cooling,EDITORIAL_CORE_2026,high
+coolant concentration,концентрация охлаждающей жидкости,candidate,cooling,EDITORIAL_CORE_2026,high
+coolant mixture,смесь охлаждающей жидкости,candidate,cooling,EDITORIAL_CORE_2026,high
+coolant pump,насос охлаждающей жидкости,candidate,cooling,EDITORIAL_CORE_2026,high
+water pump,насос охлаждающей жидкости,candidate,cooling,EDITORIAL_CORE_2026,medium
+radiator,радиатор,candidate,cooling,EDITORIAL_CORE_2026,high
+radiator core,сердцевина радиатора,candidate,cooling,EDITORIAL_CORE_2026,high
+radiator tank,бачок радиатора,candidate,cooling,EDITORIAL_CORE_2026,high
+radiator cap,крышка радиатора,candidate,cooling,EDITORIAL_CORE_2026,high
+pressure cap,герметичная крышка системы охлаждения,candidate,cooling,EDITORIAL_CORE_2026,medium
+expansion tank,расширительный бачок,candidate,cooling,EDITORIAL_CORE_2026,high
+coolant reservoir,бачок охлаждающей жидкости,candidate,cooling,EDITORIAL_CORE_2026,high
+overflow tank,переливной бачок,candidate,cooling,EDITORIAL_CORE_2026,medium
+thermostat,термостат,candidate,cooling,EDITORIAL_CORE_2026,high
+thermostat housing,корпус термостата,candidate,cooling,EDITORIAL_CORE_2026,high
+thermostat valve,клапан термостата,candidate,cooling,EDITORIAL_CORE_2026,high
+bypass passage,обводной канал,candidate,cooling,EDITORIAL_CORE_2026,medium
+coolant passage,канал охлаждающей жидкости,candidate,cooling,EDITORIAL_CORE_2026,high
+coolant outlet,выходной патрубок охлаждающей жидкости,candidate,cooling,EDITORIAL_CORE_2026,medium
+coolant inlet,входной патрубок охлаждающей жидкости,candidate,cooling,EDITORIAL_CORE_2026,medium
+upper radiator hose,верхний шланг радиатора,candidate,cooling,EDITORIAL_CORE_2026,high
+lower radiator hose,нижний шланг радиатора,candidate,cooling,EDITORIAL_CORE_2026,high
+heater hose,шланг отопителя,candidate,cooling,EDITORIAL_CORE_2026,high
+hose clamp,хомут шланга,candidate,cooling,EDITORIAL_CORE_2026,high
+cooling fan,вентилятор системы охлаждения,candidate,cooling,EDITORIAL_CORE_2026,high
+radiator fan,вентилятор радиатора,candidate,cooling,EDITORIAL_CORE_2026,high
+fan shroud,кожух вентилятора,candidate,cooling,EDITORIAL_CORE_2026,high
+fan motor,электродвигатель вентилятора,candidate,cooling,EDITORIAL_CORE_2026,high
+fan control module,модуль управления вентилятором,candidate,cooling,EDITORIAL_CORE_2026,high
+coolant temperature sensor,датчик температуры охлаждающей жидкости,candidate,cooling,EDITORIAL_CORE_2026,high
+engine coolant temperature sensor,датчик температуры охлаждающей жидкости двигателя,candidate,cooling,EDITORIAL_CORE_2026,high
+coolant level sensor,датчик уровня охлаждающей жидкости,candidate,cooling,EDITORIAL_CORE_2026,high
+coolant leak,утечка охлаждающей жидкости,candidate,cooling,EDITORIAL_CORE_2026,high
+coolant seepage,просачивание охлаждающей жидкости,candidate,cooling,EDITORIAL_CORE_2026,medium
+air lock,воздушная пробка,candidate,cooling,EDITORIAL_CORE_2026,high
+coolant circulation,циркуляция охлаждающей жидкости,candidate,cooling,EDITORIAL_CORE_2026,high
+coolant flow,поток охлаждающей жидкости,candidate,cooling,EDITORIAL_CORE_2026,high
+overheating,перегрев,candidate,cooling,EDITORIAL_CORE_2026,high
+underheating,недостаточный прогрев,candidate,cooling,EDITORIAL_CORE_2026,medium
+boiling point,температура кипения,candidate,cooling,EDITORIAL_CORE_2026,high
+freezing point,температура замерзания,candidate,cooling,EDITORIAL_CORE_2026,high
+cooling system pressure,давление в системе охлаждения,candidate,cooling,EDITORIAL_CORE_2026,high
+pressure test,проверка давлением,candidate,cooling,EDITORIAL_CORE_2026,high
+pressure tester,прибор для проверки давления,candidate,cooling,EDITORIAL_CORE_2026,high
+flush the cooling system,промыть систему охлаждения,candidate,cooling,EDITORIAL_CORE_2026,high
+drain the coolant,слить охлаждающую жидкость,candidate,cooling,EDITORIAL_CORE_2026,high
+fill the cooling system,заполнить систему охлаждения,candidate,cooling,EDITORIAL_CORE_2026,high
+bleed the cooling system,удалить воздух из системы охлаждения,candidate,cooling,EDITORIAL_CORE_2026,high
+check for coolant leaks,проверить систему на отсутствие утечек охлаждающей жидкости,candidate,cooling,EDITORIAL_CORE_2026,high
+check the coolant level,проверить уровень охлаждающей жидкости,candidate,cooling,EDITORIAL_CORE_2026,high
+check the coolant concentration,проверить концентрацию охлаждающей жидкости,candidate,cooling,EDITORIAL_CORE_2026,high
+allow the engine to cool,дать двигателю остыть,candidate,cooling,EDITORIAL_CORE_2026,high
+do not remove the cap when hot,не снимать крышку на горячем двигателе,candidate,cooling,EDITORIAL_CORE_2026,high
+lubrication system,система смазки,candidate,lubrication,EDITORIAL_CORE_2026,high
+engine oil,моторное масло,candidate,lubrication,EDITORIAL_CORE_2026,high
+oil level,уровень масла,candidate,lubrication,EDITORIAL_CORE_2026,high
+oil pressure,давление масла,candidate,lubrication,EDITORIAL_CORE_2026,high
+oil temperature,температура масла,candidate,lubrication,EDITORIAL_CORE_2026,high
+oil capacity,заправочный объём масла,candidate,lubrication,EDITORIAL_CORE_2026,high
+oil viscosity,вязкость масла,candidate,lubrication,EDITORIAL_CORE_2026,high
+oil grade,класс моторного масла,candidate,lubrication,EDITORIAL_CORE_2026,medium
+oil specification,спецификация моторного масла,candidate,lubrication,EDITORIAL_CORE_2026,high
+oil pump,масляный насос,candidate,lubrication,EDITORIAL_CORE_2026,high
+oil pump drive,привод масляного насоса,candidate,lubrication,EDITORIAL_CORE_2026,high
+oil pickup tube,маслоприёмная трубка,candidate,lubrication,EDITORIAL_CORE_2026,high
+oil strainer,сетчатый фильтр маслоприёмника,candidate,lubrication,EDITORIAL_CORE_2026,medium
+oil pan,масляный поддон,candidate,lubrication,EDITORIAL_CORE_2026,high
+engine oil pan,масляный поддон двигателя,candidate,lubrication,EDITORIAL_CORE_2026,high
+oil filter,масляный фильтр,candidate,lubrication,EDITORIAL_CORE_2026,high
+oil filter housing,корпус масляного фильтра,candidate,lubrication,EDITORIAL_CORE_2026,high
+oil cooler,масляный радиатор,candidate,lubrication,EDITORIAL_CORE_2026,high
+oil pressure switch,датчик-сигнализатор давления масла,candidate,lubrication,EDITORIAL_CORE_2026,medium
+oil pressure sensor,датчик давления масла,candidate,lubrication,EDITORIAL_CORE_2026,high
+oil pressure relief valve,редукционный клапан давления масла,candidate,lubrication,EDITORIAL_CORE_2026,high
+oil gallery,масляный канал,candidate,lubrication,EDITORIAL_CORE_2026,high
+oil passage,канал подачи масла,candidate,lubrication,EDITORIAL_CORE_2026,high
+oil jet,масляная форсунка,candidate,lubrication,EDITORIAL_CORE_2026,high
+piston cooling jet,масляная форсунка охлаждения поршня,candidate,lubrication,EDITORIAL_CORE_2026,high
+oil separator,маслоотделитель,candidate,lubrication,EDITORIAL_CORE_2026,high
+crankcase ventilation,вентиляция картера,candidate,lubrication,EDITORIAL_CORE_2026,high
+positive crankcase ventilation valve,клапан принудительной вентиляции картера,candidate,lubrication,EDITORIAL_CORE_2026,high
+oil leak,утечка масла,candidate,lubrication,EDITORIAL_CORE_2026,high
+oil seepage,просачивание масла,candidate,lubrication,EDITORIAL_CORE_2026,medium
+oil consumption,расход масла,candidate,lubrication,EDITORIAL_CORE_2026,high
+oil starvation,масляное голодание,candidate,lubrication,EDITORIAL_CORE_2026,high
+low oil pressure,низкое давление масла,candidate,lubrication,EDITORIAL_CORE_2026,high
+excessive oil pressure,повышенное давление масла,candidate,lubrication,EDITORIAL_CORE_2026,high
+contaminated oil,загрязнённое масло,candidate,lubrication,EDITORIAL_CORE_2026,high
+oil dilution,разжижение масла топливом,candidate,lubrication,EDITORIAL_CORE_2026,medium
+oil foaming,вспенивание масла,candidate,lubrication,EDITORIAL_CORE_2026,high
+change the engine oil,заменить моторное масло,candidate,lubrication,EDITORIAL_CORE_2026,high
+replace the oil filter,заменить масляный фильтр,candidate,lubrication,EDITORIAL_CORE_2026,high
+check the oil level,проверить уровень масла,candidate,lubrication,EDITORIAL_CORE_2026,high
+check the oil pressure,проверить давление масла,candidate,lubrication,EDITORIAL_CORE_2026,high
+prime the oil pump,заполнить масляный насос перед запуском,candidate,lubrication,EDITORIAL_CORE_2026,medium
+apply engine oil,нанести моторное масло,candidate,lubrication,EDITORIAL_CORE_2026,high
+lubricate with clean engine oil,смазать чистым моторным маслом,candidate,lubrication,EDITORIAL_CORE_2026,high
+fill with the specified oil,заправить указанным маслом,candidate,lubrication,EDITORIAL_CORE_2026,high
+check for oil leaks,проверить на отсутствие утечек масла,candidate,lubrication,EDITORIAL_CORE_2026,high
